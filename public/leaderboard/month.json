@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1766319970893,
+  "updatedAt": 1766341198366,
   "startDate": "2025-11-21",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -696,6 +696,40 @@
       ]
     },
     {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "ys748477-dotcom",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
@@ -980,35 +1014,6 @@
         },
         {
           "date": "2025-12-21",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -1462,26 +1467,6 @@
       ]
     },
     {
-      "username": "Prince-ES",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-11-23",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "Aakansha-Chavan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
@@ -1638,6 +1623,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3751202233",
+      "type": "PR opened",
+      "title": "Fix typos errors across code and docs",
+      "occured_at": "2025-12-21T14:32:55Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+    },
     {
       "slug": "pr-opened-3750902724",
       "type": "PR opened",
@@ -2605,17 +2601,6 @@
       "contributor": "Nid-debug",
       "contributor_name": "Nid-debug",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4"
-    },
-    {
-      "slug": "pr-opened-3655808715",
-      "type": "PR opened",
-      "title": "Fix: Improve search page: handle blank query with friendly message and image",
-      "occured_at": "2025-11-23T10:26:31Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6359",
-      "contributor": "Prince-ES",
-      "contributor_name": "Prince-ES",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4"
     },
     {
       "slug": "pr-merged-3750110457",

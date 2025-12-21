@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766319962528,
+  "updatedAt": 1766341191829,
   "startDate": "2025-12-14",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -190,6 +190,40 @@
       ]
     },
     {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "Agarwalchetan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/182099875?v=4",
@@ -366,93 +400,6 @@
       ]
     },
     {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "manmeetsantre",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "akshitvigg",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "Harruta",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
@@ -573,6 +520,26 @@
       ]
     },
     {
+      "username": "manmeetsantre",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "poojaaa07",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/199589862?v=4",
@@ -634,6 +601,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3751202233",
+      "type": "PR opened",
+      "title": "Fix typos errors across code and docs",
+      "occured_at": "2025-12-21T14:32:55Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+    },
     {
       "slug": "pr-opened-3750902724",
       "type": "PR opened",
@@ -932,17 +910,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/153724685?v=4"
     },
     {
-      "slug": "pr-opened-3727458368",
-      "type": "PR opened",
-      "title": "Fix grammar error: change 'an CircuitVerse' to 'a CircuitVerse' in LMS integration docs",
-      "occured_at": "2025-12-14T14:20:24Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/461",
-      "contributor": "akshitvigg",
-      "contributor_name": "akshitvigg",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -1117,28 +1084,6 @@
       "contributor": "SuyashJain17",
       "contributor_name": "SuyashJain17",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/153724685?v=4"
-    },
-    {
-      "slug": "issue-opened-3733568366",
-      "type": "Issue opened",
-      "title": "🐞 Bug \"CircuitVerse\" logo on Learn & Explore Tutorials pages does not redirect to Home",
-      "occured_at": "2025-12-14T18:12:34Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/Interactive-Book/issues/741",
-      "contributor": "manmeetsantre",
-      "contributor_name": "manmeetsantre",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4"
-    },
-    {
-      "slug": "issue-opened-3727422951",
-      "type": "Issue opened",
-      "title": "Fix grammar error: 'an CircuitVerse' should be 'a CircuitVerse' in LMS Integration",
-      "occured_at": "2025-12-14T14:03:50Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/460",
-      "contributor": "akshitvigg",
-      "contributor_name": "akshitvigg",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
     }
   ],
   "topByActivity": {}

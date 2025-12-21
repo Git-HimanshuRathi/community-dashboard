@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766319964785,
+  "updatedAt": 1766341193411,
   "startDate": "2025-12-07",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -10,19 +10,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 34,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
-          "count": 10,
-          "points": 20
+          "count": 9,
+          "points": 18
         },
         "PR merged": {
           "count": 2,
           "points": 10
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 3,
+          "points": 3
         }
       },
       "daily_activity": [
@@ -72,11 +72,6 @@
           "points": 2
         },
         {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 2
-        },
-        {
           "date": "2025-12-16",
           "count": 1,
           "points": 5
@@ -98,11 +93,6 @@
         },
         {
           "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-12-07",
           "count": 1,
           "points": 1
         }
@@ -347,35 +337,6 @@
       ]
     },
     {
-      "username": "salmoneatenbybear",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 5
-        }
-      ]
-    },
-    {
       "username": "Radhikaa-chauhan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
@@ -450,6 +411,60 @@
           "date": "2025-12-12",
           "count": 1,
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "salmoneatenbybear",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-08",
+          "count": 1,
+          "points": 5
         }
       ]
     },
@@ -683,35 +698,6 @@
         },
         {
           "date": "2025-12-19",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -1079,29 +1065,20 @@
           "points": 1
         }
       ]
-    },
-    {
-      "username": "satu0king",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-07",
-          "count": 1,
-          "points": 1
-        }
-      ]
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3751202233",
+      "type": "PR opened",
+      "title": "Fix typos errors across code and docs",
+      "occured_at": "2025-12-21T14:32:55Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+    },
     {
       "slug": "pr-opened-3750902724",
       "type": "PR opened",
@@ -1686,28 +1663,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181938021?v=4"
     },
     {
-      "slug": "pr-opened-3703753701",
-      "type": "PR opened",
-      "title": "fix: correct typo in system requirements filename and references (#444)",
-      "occured_at": "2025-12-07T17:35:27Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/445",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
-      "slug": "pr-opened-3703519286",
-      "type": "PR opened",
-      "title": "chore: About page members restructuring",
-      "occured_at": "2025-12-07T13:56:17Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6444",
-      "contributor": "salmoneatenbybear",
-      "contributor_name": "salmoneatenbybear",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -2091,28 +2046,6 @@
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "issue-opened-3703738372",
-      "type": "Issue opened",
-      "title": "Bug : Correct 'systemrequirments' typo in filename, doc ID, and sidebar entry",
-      "occured_at": "2025-12-07T17:23:32Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/444",
-      "contributor": "senutpal",
-      "contributor_name": "senutpal",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-    },
-    {
-      "slug": "issue-opened-3703518699",
-      "type": "Issue opened",
-      "title": "🛑 Main Platform is down",
-      "occured_at": "2025-12-07T13:55:48Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/upptime/issues/165",
-      "contributor": "satu0king",
-      "contributor_name": "satu0king",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/2092958?v=4"
     }
   ],
   "topByActivity": {}

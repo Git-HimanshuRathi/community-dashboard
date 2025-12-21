@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1766319967870,
+  "updatedAt": 1766341195919,
   "startDate": "2025-11-30",
   "endDate": "2025-12-21",
   "hiddenRoles": [],
@@ -113,19 +113,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 31,
+      "total_points": 28,
       "activity_breakdown": {
         "PR opened": {
-          "count": 8,
-          "points": 16
+          "count": 7,
+          "points": 14
         },
         "PR merged": {
           "count": 2,
           "points": 10
         },
         "Issue opened": {
-          "count": 5,
-          "points": 5
+          "count": 4,
+          "points": 4
         }
       },
       "daily_activity": [
@@ -165,11 +165,6 @@
           "points": 2
         },
         {
-          "date": "2025-11-30",
-          "count": 1,
-          "points": 2
-        },
-        {
           "date": "2025-12-12",
           "count": 1,
           "points": 5
@@ -198,11 +193,6 @@
           "date": "2025-12-03",
           "count": 1,
           "points": 1
-        },
-        {
-          "date": "2025-11-30",
-          "count": 1,
-          "points": 1
         }
       ]
     },
@@ -211,19 +201,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 30,
+      "total_points": 25,
       "activity_breakdown": {
         "PR opened": {
-          "count": 6,
-          "points": 12
+          "count": 4,
+          "points": 8
         },
         "PR merged": {
           "count": 3,
           "points": 15
         },
         "Issue opened": {
-          "count": 3,
-          "points": 3
+          "count": 2,
+          "points": 2
         }
       },
       "daily_activity": [
@@ -244,16 +234,6 @@
         },
         {
           "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
           "count": 1,
           "points": 2
         },
@@ -279,11 +259,6 @@
         },
         {
           "date": "2025-12-06",
-          "count": 1,
-          "points": 1
-        },
-        {
-          "date": "2025-11-30",
           "count": 1,
           "points": 1
         }
@@ -362,50 +337,6 @@
         },
         {
           "date": "2025-12-05",
-          "count": 1,
-          "points": 5
-        }
-      ]
-    },
-    {
-      "username": "h30s",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-05",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
           "count": 1,
           "points": 5
         }
@@ -525,6 +456,41 @@
       ]
     },
     {
+      "username": "h30s",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-05",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-04",
+          "count": 1,
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "webbsssss",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4",
@@ -598,45 +564,6 @@
       ]
     },
     {
-      "username": "akshitvigg",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-01",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
       "username": "manmeetsantre",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
@@ -670,6 +597,40 @@
         },
         {
           "date": "2025-12-12",
+          "count": 1,
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "himanshujays29",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-21",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -715,22 +676,36 @@
       ]
     },
     {
-      "username": "ThatDeparted2061",
+      "username": "akshitvigg",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/166894150?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
       "role": "Contributor",
       "total_points": 5,
       "activity_breakdown": {
-        "PR merged": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
           "count": 1,
-          "points": 5
+          "points": 1
         }
       },
       "daily_activity": [
         {
-          "date": "2025-11-30",
+          "date": "2025-12-14",
           "count": 1,
-          "points": 5
+          "points": 2
+        },
+        {
+          "date": "2025-12-01",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-14",
+          "count": 1,
+          "points": 1
         }
       ]
     },
@@ -887,31 +862,6 @@
       ]
     },
     {
-      "username": "bhumika-ks31",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4",
-      "role": "Contributor",
-      "total_points": 4,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-02",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-11-30",
-          "count": 1,
-          "points": 2
-        }
-      ]
-    },
-    {
       "username": "hellseye",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168416527?v=4",
@@ -960,35 +910,6 @@
         },
         {
           "date": "2025-12-21",
-          "count": 1,
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "himanshujays29",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-16",
           "count": 1,
           "points": 1
         }
@@ -1362,9 +1283,9 @@
       ]
     },
     {
-      "username": "anushkaa-dubey",
+      "username": "bhumika-ks31",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -1382,9 +1303,9 @@
       ]
     },
     {
-      "username": "nikhil-yn-aix",
+      "username": "anushkaa-dubey",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/98247758?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136051483?v=4",
       "role": "Contributor",
       "total_points": 2,
       "activity_breakdown": {
@@ -1395,7 +1316,7 @@
       },
       "daily_activity": [
         {
-          "date": "2025-11-30",
+          "date": "2025-12-02",
           "count": 1,
           "points": 2
         }
@@ -1558,6 +1479,17 @@
     }
   ],
   "activities": [
+    {
+      "slug": "pr-opened-3751202233",
+      "type": "PR opened",
+      "title": "Fix typos errors across code and docs",
+      "occured_at": "2025-12-21T14:32:55Z",
+      "points": 2,
+      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6497",
+      "contributor": "himanshujays29",
+      "contributor_name": "himanshujays29",
+      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4"
+    },
     {
       "slug": "pr-opened-3750902724",
       "type": "PR opened",
@@ -2406,72 +2338,6 @@
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168416527?v=4"
     },
     {
-      "slug": "pr-opened-3678094784",
-      "type": "PR opened",
-      "title": "refactor:converted i18n.js to TypeScript",
-      "occured_at": "2025-11-30T17:32:34Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/681",
-      "contributor": "akshitvigg",
-      "contributor_name": "akshitvigg",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
-    },
-    {
-      "slug": "pr-opened-3677994958",
-      "type": "PR opened",
-      "title": "Fix missing video",
-      "occured_at": "2025-11-30T16:24:10Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/441",
-      "contributor": "Atharva7126",
-      "contributor_name": "Atharva7126",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-    },
-    {
-      "slug": "pr-opened-3677904930",
-      "type": "PR opened",
-      "title": "Fix: Homepage illustration & CTA responsiveness + footer year update (#251)",
-      "occured_at": "2025-11-30T15:20:10Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/Blog/pull/252",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "pr-opened-3677887975",
-      "type": "PR opened",
-      "title": "Redesign emailUpdate Node to latest LTS (24) and revert unrelated email changes",
-      "occured_at": "2025-11-30T15:08:46Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6372",
-      "contributor": "bhumika-ks31",
-      "contributor_name": "bhumika-ks31",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4"
-    },
-    {
-      "slug": "pr-opened-3677800267",
-      "type": "PR opened",
-      "title": "Add deadline presence validation to Assignment model",
-      "occured_at": "2025-11-30T14:08:00Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6371",
-      "contributor": "nikhil-yn-aix",
-      "contributor_name": "nikhil-yn-aix",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/98247758?v=4"
-    },
-    {
-      "slug": "pr-opened-3677745441",
-      "type": "PR opened",
-      "title": "Fix: Embedded YouTube tutorial video for Issue #418",
-      "occured_at": "2025-11-30T13:08:02Z",
-      "points": 2,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/439",
-      "contributor": "Atharva7126",
-      "contributor_name": "Atharva7126",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-    },
-    {
       "slug": "pr-merged-3750110457",
       "type": "PR Merged",
       "title": "chore: install netcat-openbsd and fix bundler setup in devcontainer",
@@ -2613,28 +2479,6 @@
       "contributor": "naman79820",
       "contributor_name": "naman79820",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-    },
-    {
-      "slug": "pr-merged-3612442685",
-      "type": "PR Merged",
-      "title": "LTI: guard score submission when outcome URL or sourced ID is missing to prevent URI::InvalidURIError (fixes #6284)",
-      "closed_at": "2025-11-30T16:12:48Z",
-      "points": 5,
-      "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6340",
-      "contributor": "h30s",
-      "contributor_name": "h30s",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
-    },
-    {
-      "slug": "pr-merged-3416750084",
-      "type": "PR Merged",
-      "title": "Gsoc 2025 Project 2 Final blog",
-      "closed_at": "2025-11-30T16:03:18Z",
-      "points": 5,
-      "link": "https://github.com/CircuitVerse/Blog/pull/250",
-      "contributor": "ThatDeparted2061",
-      "contributor_name": "ThatDeparted2061",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/166894150?v=4"
     },
     {
       "slug": "issue-opened-3750862842",
@@ -3086,28 +2930,6 @@
       "contributor": "harikrishna-au",
       "contributor_name": "harikrishna-au",
       "contributor_avatar_url": "https://avatars.githubusercontent.com/u/169121181?v=4"
-    },
-    {
-      "slug": "issue-opened-3677939064",
-      "type": "Issue opened",
-      "title": "Missing content in \"Getting Started With CircuitVerse\" Chapter - 2",
-      "occured_at": "2025-11-30T15:44:33Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/440",
-      "contributor": "Atharva7126",
-      "contributor_name": "Atharva7126",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
-    },
-    {
-      "slug": "issue-opened-3677852210",
-      "type": "Issue opened",
-      "title": "Fix: Illustration and CTA layout responsiveness issues (992px–1200px) and footer year update",
-      "occured_at": "2025-11-30T14:44:27Z",
-      "points": 1,
-      "link": "https://github.com/CircuitVerse/Blog/issues/251",
-      "contributor": "naman79820",
-      "contributor_name": "naman79820",
-      "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
     }
   ],
   "topByActivity": {}
