@@ -57,7 +57,7 @@ export const Footer = async ({ config }: FooterProps) => {
             <div className="flex items-center gap-4 pt-2">
               <Hint label="Facebook" side="bottom">
                 <Link
-                  href="https://www.youtube.com/@circuitverse4457"
+                  href="https://www.facebook.com/CircuitVerse"
                   target="_blank"
                   className="text-zinc-400 hover:bg-zinc-100 group/yt dark:hover:bg-zinc-800 p-2 rounded-full transition-all duration-200"
                   aria-label="Facebook"
@@ -89,7 +89,7 @@ export const Footer = async ({ config }: FooterProps) => {
 
               <Hint label="Twitter">
                 <Link
-                  href="https://www.youtube.com/@circuitverse4457"
+                  href="https://x.com/CircuitVerse"
                   target="_blank"
                   className="text-zinc-400 hover:bg-zinc-100 group/yt dark:hover:bg-zinc-800 p-2 rounded-full transition-all duration-200"
                   aria-label="Twitter"
