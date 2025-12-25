@@ -1,6 +1,6 @@
 {
   "period": "week",
-  "updatedAt": 1766643841898,
+  "updatedAt": 1766663539120,
   "startDate": "2025-12-18",
   "endDate": "2025-12-25",
   "hiddenRoles": [],
@@ -73,6 +73,53 @@
       ]
     },
     {
+      "username": "senutpal",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+      "role": "Contributor",
+      "total_points": 10,
+      "activity_breakdown": {
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR merged",
+          "title": "docs - fix typos and grammar errors in chapters 2-7",
+          "occured_at": "2025-12-25T08:49:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/465",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
+          "occured_at": "2025-12-24T17:09:02Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
+          "points": 5,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        }
+      ]
+    },
+    {
       "username": "Atharva7126",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
@@ -134,6 +181,73 @@
           "contributor": "Atharva7126",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        }
+      ]
+    },
+    {
+      "username": "Teesta-Mukherjee",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+      "role": "Contributor",
+      "total_points": 8,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-18",
+          "count": 3,
+          "points": 6
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix - User dropdown does not close on repeated click (mobile)",
+          "occured_at": "2025-12-18T22:13:57Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6485",
+          "points": 2,
+          "contributor": "Teesta-Mukherjee",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix - User dropdown does not close on repeated click (mobile)",
+          "occured_at": "2025-12-18T21:00:49Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6484",
+          "points": 2,
+          "contributor": "Teesta-Mukherjee",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Improve UI layout and spacing of Edit Profile page (#4470)",
+          "occured_at": "2025-12-18T12:02:17Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6481",
+          "points": 2,
+          "contributor": "Teesta-Mukherjee",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix properties panel disappearing after closing Edit Layout",
+          "occured_at": "2025-12-25T09:11:10Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6505",
+          "points": 2,
+          "contributor": "Teesta-Mukherjee",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
         }
       ]
     },
@@ -251,90 +365,6 @@
       ]
     },
     {
-      "username": "Teesta-Mukherjee",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
-      "role": "Contributor",
-      "total_points": 6,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-18",
-          "count": 3,
-          "points": 6
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix - User dropdown does not close on repeated click (mobile)",
-          "occured_at": "2025-12-18T22:13:57Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6485",
-          "points": 2,
-          "contributor": "Teesta-Mukherjee",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Fix - User dropdown does not close on repeated click (mobile)",
-          "occured_at": "2025-12-18T21:00:49Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6484",
-          "points": 2,
-          "contributor": "Teesta-Mukherjee",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Improve UI layout and spacing of Edit Profile page (#4470)",
-          "occured_at": "2025-12-18T12:02:17Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6481",
-          "points": 2,
-          "contributor": "Teesta-Mukherjee",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        }
-      ]
-    },
-    {
-      "username": "senutpal",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "occured_at": "2025-12-24T17:09:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 5,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        }
-      ]
-    },
-    {
       "username": "ghanshyam2005singh",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
@@ -419,38 +449,6 @@
           "contributor": "akshitvigg",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4"
-        }
-      ]
-    },
-    {
-      "username": "webbsssss",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-18",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "title": "fix - update Brewfile for current homebrew versions",
-          "occured_at": "2025-12-18T11:09:35Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6478",
-          "points": 5,
-          "contributor": "webbsssss",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4"
         }
       ]
     },
@@ -657,6 +655,57 @@
           "contributor": "nishant530",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4"
+        }
+      ]
+    },
+    {
+      "username": "Me-Priyank",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-24",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "#472 fixed (proper optimization implemented)",
+          "occured_at": "2025-12-25T07:53:36Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/473",
+          "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
+          "occured_at": "2025-12-24T18:06:26Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
         }
       ]
     },
@@ -1006,38 +1055,6 @@
           "contributor": "SouparnaChatterjee",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4"
-        }
-      ]
-    },
-    {
-      "username": "Me-Priyank",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-      "role": "Contributor",
-      "total_points": 1,
-      "activity_breakdown": {
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-24",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Issue opened",
-          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
-          "occured_at": "2025-12-24T18:06:26Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
-          "points": 1,
-          "contributor": "Me-Priyank",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
         }
       ]
     },
