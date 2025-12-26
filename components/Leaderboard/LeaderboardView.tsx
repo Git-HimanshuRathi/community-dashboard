@@ -74,12 +74,17 @@ export default function LeaderboardView({
 
   // Get selected roles from query params
   // If no roles are selected, default to all visible roles (excluding hidden ones)
+  // If roles param exists but is empty, show no results (user explicitly deselected all)
   const selectedRoles = useMemo(() => {
     const rolesParam = searchParams.get("roles");
-    if (rolesParam) {
+    if (rolesParam !== null) {
+      // User has explicitly set roles (could be empty string or comma-separated list)
+      if (rolesParam === "") {
+        return new Set<string>(); // Empty set = show no results
+      }
       return new Set(rolesParam.split(","));
     }
-    // Default: exclude hidden roles
+    // Default: show all roles (excluding hidden ones)
     const allRoles = new Set<string>();
     entries.forEach((entry) => {
       if (entry.role && !hiddenRoles.includes(entry.role)) {
@@ -88,6 +93,9 @@ export default function LeaderboardView({
     });
     return allRoles;
   }, [searchParams, entries, hiddenRoles]);
+
+  // Track if user has explicitly set role filters (vs default "show all")
+  const hasExplicitRoleFilter = searchParams.has("roles");
 
   // Get unique roles from entries
   const availableRoles = useMemo(() => {
@@ -104,8 +112,13 @@ export default function LeaderboardView({
   const filteredEntries = useMemo(() => {
     let filtered = entries;
 
-    // Filter by roles
-    if (selectedRoles.size > 0) {
+    // Filter by roles - if explicit filter is set, use it; otherwise show all
+    if (hasExplicitRoleFilter) {
+      filtered = filtered.filter(
+        (entry) => entry.role && selectedRoles.has(entry.role)
+      );
+    } else if (selectedRoles.size > 0) {
+      // Default state: filter by all visible roles (excluding hidden)
       filtered = filtered.filter(
         (entry) => entry.role && selectedRoles.has(entry.role)
       );
@@ -122,7 +135,7 @@ export default function LeaderboardView({
     }
 
     return filtered;
-  }, [entries, selectedRoles, searchQuery]);
+  }, [entries, selectedRoles, searchQuery, hasExplicitRoleFilter]);
 
   const toggleRole = (role: string) => {
     const newSelected = new Set(selectedRoles);
@@ -143,11 +156,9 @@ export default function LeaderboardView({
 
   const updateRolesParam = (roles: Set<string>) => {
     const params = new URLSearchParams(searchParams.toString());
-    if (roles.size > 0) {
-      params.set("roles", Array.from(roles).join(","));
-    } else {
-      params.delete("roles");
-    }
+    // Always set the roles param when user interacts with filter
+    // Empty string means "show none", which is different from no param ("show all")
+    params.set("roles", Array.from(roles).join(","));
     router.push(`?${params.toString()}`, { scroll: false });
   };
 
@@ -210,7 +221,7 @@ export default function LeaderboardView({
                 </h1>
                 <p className="text-muted-foreground">
                   {filteredEntries.length} of {entries.length} contributors
-                  {(selectedRoles.size > 0 || searchQuery) && " (filtered)"}
+                  {(hasExplicitRoleFilter || searchQuery) && " (filtered)"}
                 </p>
               </div>
 
@@ -234,7 +245,7 @@ export default function LeaderboardView({
                 {/* Role Filter */}
                 {availableRoles.length > 0 && (
                   <>
-                    {(selectedRoles.size > 0 || searchQuery) && (
+                    {(hasExplicitRoleFilter || searchQuery) && (
                       <Button
                         variant="ghost"
                         size="sm"
@@ -254,7 +265,7 @@ export default function LeaderboardView({
                         >
                           <Filter className="h-4 w-4 mr-2" />
                           Role
-                          {selectedRoles.size > 0 && (
+                          {hasExplicitRoleFilter && (
                             <span className="ml-1 px-1.5 py-0.5 text-xs rounded-full bg-[#50B78B] text-white">
                               {selectedRoles.size}
                             </span>
