@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766752111354,
+  "updatedAt": 1766773330474,
   "startDate": "2025-12-12",
   "endDate": "2025-12-26",
   "hiddenRoles": [],
@@ -256,11 +256,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 31,
+      "total_points": 29,
       "activity_breakdown": {
         "PR opened": {
-          "count": 4,
-          "points": 8
+          "count": 3,
+          "points": 6
         },
         "PR merged": {
           "count": 4,
@@ -286,11 +286,6 @@
           "date": "2025-12-14",
           "count": 2,
           "points": 3
-        },
-        {
-          "date": "2025-12-12",
-          "count": 1,
-          "points": 2
         },
         {
           "date": "2025-12-25",
@@ -334,16 +329,6 @@
           "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
           "occured_at": "2025-12-14T08:02:40Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "points": 2,
-          "contributor": "senutpal",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "refactor - migrate canvasApi.js to TypeScript",
-          "occured_at": "2025-12-12T12:49:42Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/694",
           "points": 2,
           "contributor": "senutpal",
           "contributor_name": null,
@@ -426,15 +411,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 19,
+      "total_points": 24,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
           "points": 8
         },
         "PR merged": {
-          "count": 2,
-          "points": 10
+          "count": 3,
+          "points": 15
         },
         "Issue opened": {
           "count": 1,
@@ -444,8 +429,8 @@
       "daily_activity": [
         {
           "date": "2025-12-26",
-          "count": 1,
-          "points": 2
+          "count": 2,
+          "points": 7
         },
         {
           "date": "2025-12-25",
@@ -495,6 +480,16 @@
           "occured_at": "2025-12-25T07:53:36Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/473",
           "points": 2,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "pagination UI enhancement, fix #17",
+          "occured_at": "2025-12-26T14:09:02Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
+          "points": 5,
           "contributor": "Me-Priyank",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
@@ -632,15 +627,235 @@
       ]
     },
     {
-      "username": "Teesta-Mukherjee",
+      "username": "Git-HimanshuRathi",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
       "role": "Contributor",
       "total_points": 16,
       "activity_breakdown": {
         "PR opened": {
-          "count": 8,
-          "points": 16
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-26",
+          "count": 5,
+          "points": 14
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fix - use absolute paths for footer social media icons",
+          "occured_at": "2025-12-26T14:32:31Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/23",
+          "points": 2,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - Fix footer background not spanning full viewport width",
+          "occured_at": "2025-12-25T21:26:52Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
+          "points": 2,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "fix - use absolute paths for footer social media icons",
+          "occured_at": "2025-12-26T17:23:10Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/23",
+          "points": 5,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "fix - Fix footer background not spanning full viewport width",
+          "occured_at": "2025-12-26T13:48:12Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
+          "points": 5,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - Contradictory activity trend message vs. indicator badge on Home page",
+          "occured_at": "2025-12-26T16:28:15Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/24",
+          "points": 1,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Bug - Broken Social Media Icons in Footer",
+          "occured_at": "2025-12-26T14:23:29Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/22",
+          "points": 1,
+          "contributor": "Git-HimanshuRathi",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
+        }
+      ]
+    },
+    {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-15",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-25",
+          "count": 5,
+          "points": 10
+        },
+        {
+          "date": "2025-12-13",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "occured_at": "2025-12-15T13:35:14Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "layout bug",
+          "occured_at": "2025-12-25T18:49:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
+          "points": 2,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
+          "occured_at": "2025-12-25T19:21:27Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
+          "points": 5,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
+          "occured_at": "2025-12-13T20:21:33Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "GitHub icon exists in navbar but is not visible",
+          "occured_at": "2025-12-26T17:44:29Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
+          "occured_at": "2025-12-25T19:44:47Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Add hover effect to homepage pagination buttons",
+          "occured_at": "2025-12-25T15:36:48Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
+          "occured_at": "2025-12-25T13:28:15Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
+          "points": 1,
+          "contributor": "naman79820",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
+        }
+      ]
+    },
+    {
+      "username": "Teesta-Mukherjee",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 7,
+          "points": 14
         }
       },
       "daily_activity": [
@@ -651,11 +866,6 @@
         },
         {
           "date": "2025-12-17",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-12",
           "count": 1,
           "points": 2
         },
@@ -708,16 +918,6 @@
         },
         {
           "type": "PR opened",
-          "title": "Fix - full-width hover highlight for dropdown text (#2919)",
-          "occured_at": "2025-12-12T17:26:47Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6466",
-          "points": 2,
-          "contributor": "Teesta-Mukherjee",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        },
-        {
-          "type": "PR opened",
           "title": "Fix alignment of Boolean Logic Table dialog",
           "occured_at": "2025-12-25T14:21:23Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6507",
@@ -745,116 +945,6 @@
           "contributor": "Teesta-Mukherjee",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168867474?v=4"
-        }
-      ]
-    },
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-25",
-          "count": 5,
-          "points": 10
-        },
-        {
-          "date": "2025-12-13",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "occured_at": "2025-12-15T13:35:14Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
-          "points": 2,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "layout bug",
-          "occured_at": "2025-12-25T18:49:24Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
-          "points": 2,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "occured_at": "2025-12-25T19:21:27Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
-          "points": 5,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Mobile Images overflow container on “Chapter 4 → Output” page",
-          "occured_at": "2025-12-13T20:21:33Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/457",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Fix excessive spacing causing incomplete full-width background in footer section",
-          "occured_at": "2025-12-25T19:44:47Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/13",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "Add hover effect to homepage pagination buttons",
-          "occured_at": "2025-12-25T15:36:48Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/8",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
-        },
-        {
-          "type": "Issue opened",
-          "title": "🐛 People Page Fails to Load Without NEXT_PUBLIC_BASE_URL",
-          "occured_at": "2025-12-25T13:28:15Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/3",
-          "points": 1,
-          "contributor": "naman79820",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4"
         }
       ]
     },
@@ -1308,6 +1398,52 @@
           "contributor": "webbsssss",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4"
+        }
+      ]
+    },
+    {
+      "username": "madaankartik",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-26",
+          "count": 2,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "occured_at": "2025-12-26T13:33:28Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "points": 2,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "occured_at": "2025-12-26T17:25:10Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "points": 5,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
         }
       ]
     },
@@ -1884,38 +2020,6 @@
       ]
     },
     {
-      "username": "nisshchayarathi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-12",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "UI - show profile avatar in navbar and display full username in dropdown",
-          "occured_at": "2025-12-12T13:17:29Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6465",
-          "points": 2,
-          "contributor": "nisshchayarathi",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197673239?v=4"
-        }
-      ]
-    },
-    {
       "username": "sai-ganesh-1706",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/191041304?v=4",
@@ -2108,38 +2212,6 @@
       ]
     },
     {
-      "username": "Git-HimanshuRathi",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "fix - Fix footer background not spanning full viewport width",
-          "occured_at": "2025-12-25T21:26:52Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
-          "points": 2,
-          "contributor": "Git-HimanshuRathi",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4"
-        }
-      ]
-    },
-    {
       "username": "Prachi194agrawal",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4",
@@ -2200,6 +2272,38 @@
           "contributor": "Aakansha-Chavan",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
+        }
+      ]
+    },
+    {
+      "username": "anjaneyulu-01",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/233932281?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-26",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "title": "JavaScript error on \"Getting Started\" dropdown - createPopper is not a function",
+          "occured_at": "2025-12-26T14:38:38Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6509",
+          "points": 1,
+          "contributor": "anjaneyulu-01",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/233932281?v=4"
         }
       ]
     },

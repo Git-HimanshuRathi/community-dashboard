@@ -1,9 +1,17 @@
 {
-  "updatedAt": 1766752111370,
+  "updatedAt": 1766773330490,
   "groups": [
     {
       "date": "2025-12-26",
       "items": [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "GitHub icon exists in navbar but is not visible",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/25",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
         {
           "username": "Atharva7126",
           "name": null,
@@ -69,11 +77,83 @@
           "points": 2
         },
         {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "pagination UI enhancement, fix #17",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/18",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 5
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix - use absolute paths for footer social media icons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/23",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix - use absolute paths for footer social media icons",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/23",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 5
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix - Fix footer background not spanning full viewport width",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 5
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "Bug - Contradictory activity trend message vs. indicator badge on Home page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/24",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 1
+        },
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "Bug - Broken Social Media Icons in Footer",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/22",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 1
+        },
+        {
           "username": "ys748477-dotcom",
           "name": null,
           "title": "🐞 Bug - Canvas does not fully redraw after resize (DevTools toggle) in v0 simulator",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/700",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 1
+        },
+        {
+          "username": "madaankartik",
+          "name": null,
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+          "points": 2
+        },
+        {
+          "username": "madaankartik",
+          "name": null,
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+          "points": 5
+        },
+        {
+          "username": "anjaneyulu-01",
+          "name": null,
+          "title": "JavaScript error on \"Getting Started\" dropdown - createPopper is not a function",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6509",
+          "avatar_url": "https://avatars.githubusercontent.com/u/233932281?v=4",
           "points": 1
         },
         {
@@ -274,6 +354,14 @@
           "points": 2
         },
         {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix - Fix footer background not spanning full viewport width",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        },
+        {
           "username": "SouparnaChatterjee",
           "name": null,
           "title": "Drag panel position handling & text-selection behavior in Vue simulator",
@@ -312,14 +400,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
           "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
           "points": 5
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - Fix footer background not spanning full viewport width",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/14",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
         }
       ]
     },
@@ -333,6 +413,14 @@
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
           "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
           "points": 5
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
         },
         {
           "username": "ghanshyam2005singh",
@@ -356,14 +444,6 @@
           "title": "Enhancement - Add hover-to-open functionality for \"Getting Started\" navbar dropdown",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6501",
           "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
           "points": 1
         },
         {
