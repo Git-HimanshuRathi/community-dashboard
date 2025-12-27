@@ -1,6 +1,6 @@
 {
   "period": "2week",
-  "updatedAt": 1766797402115,
+  "updatedAt": 1766816548521,
   "startDate": "2025-12-13",
   "endDate": "2025-12-27",
   "hiddenRoles": [],
@@ -11,7 +11,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 50,
+      "total_points": 51,
       "activity_breakdown": {
         "PR opened": {
           "count": 7,
@@ -22,8 +22,8 @@
           "points": 30
         },
         "Issue opened": {
-          "count": 6,
-          "points": 6
+          "count": 7,
+          "points": 7
         }
       },
       "daily_activity": [
@@ -56,6 +56,11 @@
           "date": "2025-12-16",
           "count": 1,
           "points": 5
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 1
         }
       ],
       "activities": [
@@ -194,6 +199,16 @@
           "title": "Bug - Fix video title and YouTube UI overlap",
           "occured_at": "2025-12-18T14:29:42Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/466",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Feat - Fix leaderboard sorting, search, and clear filter functionality",
+          "occured_at": "2025-12-27T06:07:29Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/34",
           "points": 1,
           "contributor": "Atharva7126",
           "contributor_name": null,
@@ -914,6 +929,77 @@
       ]
     },
     {
+      "username": "madaankartik",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
+      "role": "Contributor",
+      "total_points": 14,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-27",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2025-12-26",
+          "count": 2,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "github_icon_fixed_inside_the_navbar",
+          "occured_at": "2025-12-27T05:15:27Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/33",
+          "points": 2,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "occured_at": "2025-12-26T13:33:28Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "points": 2,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "github_icon_fixed_inside_the_navbar",
+          "occured_at": "2025-12-27T05:25:58Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/33",
+          "points": 5,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "fix - make leaderboard filters responsive on mobile",
+          "occured_at": "2025-12-26T17:25:10Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
+          "points": 5,
+          "contributor": "madaankartik",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
+        }
+      ]
+    },
+    {
       "username": "ShinichiShi",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
@@ -1433,52 +1519,6 @@
           "contributor": "webbsssss",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4"
-        }
-      ]
-    },
-    {
-      "username": "madaankartik",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-26",
-          "count": 2,
-          "points": 7
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "fix - make leaderboard filters responsive on mobile",
-          "occured_at": "2025-12-26T13:33:28Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
-          "points": 2,
-          "contributor": "madaankartik",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "fix - make leaderboard filters responsive on mobile",
-          "occured_at": "2025-12-26T17:25:10Z",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
-          "points": 5,
-          "contributor": "madaankartik",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4"
         }
       ]
     },
