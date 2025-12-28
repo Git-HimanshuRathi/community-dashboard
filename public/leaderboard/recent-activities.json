@@ -1,6 +1,19 @@
 {
-  "updatedAt": 1766859663299,
+  "updatedAt": 1766884338667,
   "groups": [
+    {
+      "date": "2025-12-28",
+      "items": [
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "fix(TabsBar) - toggle button now properly expands/collapses tabs bar height",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/703",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        }
+      ]
+    },
     {
       "date": "2025-12-27",
       "items": [
@@ -53,6 +66,30 @@
           "points": 5
         },
         {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6511",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
+        },
+        {
+          "username": "manmeetsantre",
+          "name": null,
+          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+          "points": 2
+        },
+        {
+          "username": "manmeetsantre",
+          "name": null,
+          "title": "CircuitVerse Logo on Top-Left Does Not Redirect to Main Website",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+          "points": 1
+        },
+        {
           "username": "madaankartik",
           "name": null,
           "title": "github_icon_fixed_inside_the_navbar",
@@ -67,6 +104,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/33",
           "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
           "points": 5
+        },
+        {
+          "username": "yats0x7",
+          "name": null,
+          "title": "Implement pagination or virtualization for \"Yearly\" leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/36",
+          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
+          "points": 1
         },
         {
           "username": "ViRUS-0-0",
@@ -535,19 +580,19 @@
           "points": 5
         },
         {
-          "username": "ShashwatXD",
-          "name": null,
-          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
-          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
-          "points": 5
-        },
-        {
           "username": "manmeetsantre",
           "name": null,
           "title": "Fix power text alignment",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
           "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShashwatXD",
+          "name": null,
+          "title": "feat(groups) - add pull-to-refresh functionality to groups page",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/454",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
           "points": 5
         }
       ]
@@ -633,6 +678,14 @@
           "points": 2
         },
         {
+          "username": "blazethunderstorm",
+          "name": null,
+          "title": "Migrate from Sprockets to Propshaft + Vite",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6499",
+          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
+          "points": 2
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "Fix typos errors across code and docs",
@@ -649,12 +702,36 @@
           "points": 2
         },
         {
+          "username": "nishant530",
+          "name": null,
+          "title": "successfully fix the grammetical mistakes in chapter 1",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/470",
+          "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
+          "points": 2
+        },
+        {
           "username": "Prachi194agrawal",
           "name": null,
           "title": "fix - Add search bar validation and input handling",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/698",
           "avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4",
           "points": 2
+        },
+        {
+          "username": "Prachi194agrawal",
+          "name": null,
+          "title": "fix - Add search bar validation and input handling",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/698",
+          "avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4",
+          "points": 2
+        },
+        {
+          "username": "DhananjayDogne",
+          "name": null,
+          "title": "🐞 Bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6500",
+          "avatar_url": "https://avatars.githubusercontent.com/u/111991487?v=4",
+          "points": 1
         },
         {
           "username": "DhananjayDogne",
@@ -675,22 +752,6 @@
           "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "ys748477-dotcom",
-          "name": null,
-          "title": "Wire routing parity investigation - v0 simulator tightly couples wire geometry with transform/listener system",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/697",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "nishant530",
-          "name": null,
-          "title": "Minor grammar and clarity improvements in introductory documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/469",
-          "avatar_url": "https://avatars.githubusercontent.com/u/206030473?v=4",
           "points": 1
         },
         {
@@ -943,19 +1004,19 @@
           "points": 2
         },
         {
-          "username": "ys748477-dotcom",
-          "name": null,
-          "title": "Add documentation for simulator circuit data flow",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
           "username": "webbsssss",
           "name": null,
           "title": "fix - update Brewfile for current homebrew versions",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6478",
           "avatar_url": "https://avatars.githubusercontent.com/u/250015813?v=4",
+          "points": 2
+        },
+        {
+          "username": "ys748477-dotcom",
+          "name": null,
+          "title": "Add documentation for simulator circuit data flow",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/695",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 2
         }
       ]
@@ -1062,75 +1123,6 @@
           "title": "🐞 Bug - typos and grammar errors across documentation files",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6471",
           "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "date": "2025-12-14",
-      "items": [
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "docs - fix typo 'scoll' to 'scroll' in keyboard shortcuts documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/459",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "Bug - Fix 'scoll' typo in keyboard shortcuts documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/458",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "Fix grammar error - change 'an CircuitVerse' to 'a CircuitVerse' in LMS integration docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/461",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 2
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "Fix grammar error - 'an CircuitVerse' should be 'a CircuitVerse' in LMS Integration",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/460",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 1
-        },
-        {
-          "username": "manmeetsantre",
-          "name": null,
-          "title": "🐞 Bug \"CircuitVerse\" logo on Learn & Explore Tutorials pages does not redirect to Home",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/741",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-          "points": 1
-        },
-        {
-          "username": "SuyashJain17",
-          "name": null,
-          "title": "Document common Windows setup pitfalls in setup guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6470",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153724685?v=4",
-          "points": 2
-        },
-        {
-          "username": "SuyashJain17",
-          "name": null,
-          "title": "Improve Windows setup documentation by documenting common pitfalls",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6469",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153724685?v=4",
-          "points": 1
-        },
-        {
-          "username": "SuyashJain17",
-          "name": null,
-          "title": "🐞 Notification bell icon missing aria-label in navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6468",
-          "avatar_url": "https://avatars.githubusercontent.com/u/153724685?v=4",
           "points": 1
         }
       ]
