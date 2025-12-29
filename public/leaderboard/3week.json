@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1766970624939,
+  "updatedAt": 1766989576015,
   "startDate": "2025-12-08",
   "endDate": "2025-12-29",
   "hiddenRoles": [],
@@ -1101,15 +1101,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4",
       "role": "Contributor",
-      "total_points": 22,
+      "total_points": 17,
       "activity_breakdown": {
         "PR opened": {
           "count": 5,
           "points": 10
         },
         "PR merged": {
-          "count": 2,
-          "points": 10
+          "count": 1,
+          "points": 5
         },
         "Issue opened": {
           "count": 2,
@@ -1126,11 +1126,6 @@
           "date": "2025-12-09",
           "count": 2,
           "points": 7
-        },
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 5
         }
       ],
       "activities": [
@@ -1189,16 +1184,6 @@
           "title": "Fix - Button hover color now stays green (matches CircuitVerse scheme)",
           "occured_at": "2025-12-09T13:53:39Z",
           "link": "https://github.com/CircuitVerse/Blog/pull/256",
-          "points": 5,
-          "contributor": "ghanshyam2005singh",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/56252619?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "docs - update README with Docusaurus setup instructions (#442)",
-          "occured_at": "2025-12-08T03:46:39Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/443",
           "points": 5,
           "contributor": "ghanshyam2005singh",
           "contributor_name": null,
@@ -2139,38 +2124,6 @@
           "contributor": "SouparnaChatterjee",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4"
-        }
-      ]
-    },
-    {
-      "username": "salmoneatenbybear",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
-      "role": "Contributor",
-      "total_points": 5,
-      "activity_breakdown": {
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-08",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR merged",
-          "title": "chore - About page members restructuring",
-          "occured_at": "2025-12-08T03:43:45Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6444",
-          "points": 5,
-          "contributor": "salmoneatenbybear",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
         }
       ]
     },
