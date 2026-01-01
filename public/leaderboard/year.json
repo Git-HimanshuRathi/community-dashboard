@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1767270583158,
+  "updatedAt": 1767291754504,
   "startDate": "2025-01-01",
   "endDate": "2026-01-01",
   "hiddenRoles": [],
@@ -5420,15 +5420,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
       "role": "Contributor",
-      "total_points": 113,
+      "total_points": 120,
       "activity_breakdown": {
         "PR opened": {
-          "count": 15,
-          "points": 30
+          "count": 16,
+          "points": 32
         },
         "PR merged": {
-          "count": 12,
-          "points": 60
+          "count": 13,
+          "points": 65
         },
         "Issue opened": {
           "count": 23,
@@ -5503,6 +5503,11 @@
         },
         {
           "date": "2025-10-09",
+          "count": 2,
+          "points": 7
+        },
+        {
+          "date": "2026-01-01",
           "count": 2,
           "points": 7
         },
@@ -5669,6 +5674,13 @@
           "points": 2
         },
         {
+          "type": "PR opened",
+          "occured_at": "2026-01-01T16:20:47Z",
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
+          "points": 2
+        },
+        {
           "type": "PR merged",
           "occured_at": "2025-02-10T13:33:16Z",
           "title": "Revert \"I have removed extra space above footer. Issue #3621\"",
@@ -5750,6 +5762,13 @@
           "occured_at": "2025-10-09T08:25:11Z",
           "title": "chore - add funding json",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6280",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-01T16:24:09Z",
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
           "points": 5
         },
         {
@@ -6863,7 +6882,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 67,
+      "total_points": 71,
       "activity_breakdown": {
         "PR opened": {
           "count": 11,
@@ -6874,8 +6893,8 @@
           "points": 35
         },
         "Issue opened": {
-          "count": 10,
-          "points": 10
+          "count": 14,
+          "points": 14
         }
       },
       "daily_activity": [
@@ -6938,6 +6957,11 @@
           "date": "2025-12-06",
           "count": 1,
           "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 4,
+          "points": 4
         }
       ],
       "raw_activities": [
@@ -7128,6 +7152,34 @@
           "occured_at": "2025-11-30T15:44:33Z",
           "title": "Missing content in \"Getting Started With CircuitVerse\" Chapter - 2",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/440",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T18:19:46Z",
+          "title": "Back button in username section shows black background on hover",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/64",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T18:10:59Z",
+          "title": "Remove unnecessary and unused imports from the codebase",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/63",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T17:53:34Z",
+          "title": "Heading and subheading use the same color in \"Our People\" section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/62",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T17:46:06Z",
+          "title": "Contribution heatmap displays wrong year and should support year switching",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/61",
           "points": 1
         },
         {
@@ -8300,11 +8352,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
       "role": "Contributor",
-      "total_points": 45,
+      "total_points": 47,
       "activity_breakdown": {
         "PR opened": {
-          "count": 15,
-          "points": 30
+          "count": 16,
+          "points": 32
         },
         "PR merged": {
           "count": 3,
@@ -8354,6 +8406,11 @@
         },
         {
           "date": "2025-12-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-01",
           "count": 1,
           "points": 2
         },
@@ -8477,6 +8534,13 @@
           "occured_at": "2025-12-04T18:09:00Z",
           "title": "Fix - Handle JSON - - ParserError in sim_version to prevent crashes",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6425",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-01T14:17:09Z",
+          "title": "feat - Add global scroll-to-top button across all main pages",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6538",
           "points": 2
         },
         {
@@ -16595,6 +16659,46 @@
           "occured_at": "2025-12-03T12:39:02Z",
           "title": "🐞 Bug - Navbar active state not working for some menu items.",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6419",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "JANVI-CHATURVEDI",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-01T14:42:28Z",
+          "title": "Show 'Continue with' on signup social auth section",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6540",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T14:37:53Z",
+          "title": "Signup social auth text update",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6539",
           "points": 1
         }
       ]

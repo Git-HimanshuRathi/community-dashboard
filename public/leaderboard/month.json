@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1767270583173,
+  "updatedAt": 1767291754517,
   "startDate": "2025-12-02",
   "endDate": "2026-01-01",
   "hiddenRoles": [],
@@ -11,7 +11,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 62,
+      "total_points": 66,
       "activity_breakdown": {
         "PR opened": {
           "count": 9,
@@ -22,8 +22,8 @@
           "points": 35
         },
         "Issue opened": {
-          "count": 9,
-          "points": 9
+          "count": 13,
+          "points": 13
         }
       },
       "daily_activity": [
@@ -81,6 +81,11 @@
           "date": "2025-12-06",
           "count": 1,
           "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 4,
+          "points": 4
         }
       ],
       "activities": [
@@ -319,6 +324,46 @@
           "title": "Feature - Replace system alert for Circuit Name entry with a themed modal",
           "occured_at": "2025-12-06T07:26:52Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6436",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Back button in username section shows black background on hover",
+          "occured_at": "2026-01-01T18:19:46Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/64",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Remove unnecessary and unused imports from the codebase",
+          "occured_at": "2026-01-01T18:10:59Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/63",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Heading and subheading use the same color in \"Our People\" section",
+          "occured_at": "2026-01-01T17:53:34Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/62",
+          "points": 1,
+          "contributor": "Atharva7126",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Contribution heatmap displays wrong year and should support year switching",
+          "occured_at": "2026-01-01T17:46:06Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/61",
           "points": 1,
           "contributor": "Atharva7126",
           "contributor_name": null,
@@ -2430,6 +2475,107 @@
       ]
     },
     {
+      "username": "h30s",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
+      "role": "Contributor",
+      "total_points": 15,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-05",
+          "count": 3,
+          "points": 6
+        },
+        {
+          "date": "2025-12-04",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-27",
+          "count": 1,
+          "points": 5
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Fix S3 AccessDenied errors crashing the application",
+          "occured_at": "2025-12-05T14:47:03Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6432",
+          "points": 2,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix undefined method 'project_url' error in JSON jbuilder",
+          "occured_at": "2025-12-05T14:03:53Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6431",
+          "points": 2,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "fix - Handle JSON - - ParserError for truncated project data",
+          "occured_at": "2025-12-05T06:40:22Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6427",
+          "points": 2,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "Fix - Handle JSON - - ParserError in sim_version to prevent crashes",
+          "occured_at": "2025-12-04T18:09:00Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6425",
+          "points": 2,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "feat - Add global scroll-to-top button across all main pages",
+          "occured_at": "2026-01-01T14:17:09Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6538",
+          "points": 2,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "Fix undefined method 'project_url' error in JSON jbuilder",
+          "occured_at": "2025-12-27T08:25:02Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6431",
+          "points": 5,
+          "contributor": "h30s",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
+        }
+      ]
+    },
+    {
       "username": "salmoneatenbybear",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4",
@@ -2502,92 +2648,6 @@
           "contributor": "salmoneatenbybear",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/177742943?v=4"
-        }
-      ]
-    },
-    {
-      "username": "h30s",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-05",
-          "count": 3,
-          "points": 6
-        },
-        {
-          "date": "2025-12-04",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-27",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix S3 AccessDenied errors crashing the application",
-          "occured_at": "2025-12-05T14:47:03Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6432",
-          "points": 2,
-          "contributor": "h30s",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Fix undefined method 'project_url' error in JSON jbuilder",
-          "occured_at": "2025-12-05T14:03:53Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6431",
-          "points": 2,
-          "contributor": "h30s",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "fix - Handle JSON - - ParserError for truncated project data",
-          "occured_at": "2025-12-05T06:40:22Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6427",
-          "points": 2,
-          "contributor": "h30s",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
-        },
-        {
-          "type": "PR opened",
-          "title": "Fix - Handle JSON - - ParserError in sim_version to prevent crashes",
-          "occured_at": "2025-12-04T18:09:00Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6425",
-          "points": 2,
-          "contributor": "h30s",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
-        },
-        {
-          "type": "PR merged",
-          "title": "Fix undefined method 'project_url' error in JSON jbuilder",
-          "occured_at": "2025-12-27T08:25:02Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6431",
-          "points": 5,
-          "contributor": "h30s",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4"
         }
       ]
     },
@@ -3102,6 +3162,52 @@
           "contributor": "akritah",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/69254659?v=4"
+        }
+      ]
+    },
+    {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+      "role": "Contributor",
+      "total_points": 7,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 7
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "occured_at": "2026-01-01T16:20:47Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
+          "points": 2,
+          "contributor": "tachyons",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4"
+        },
+        {
+          "type": "PR merged",
+          "title": "chore - bump aws-sdk-s3 to fix security advisory",
+          "occured_at": "2026-01-01T16:24:09Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
+          "points": 5,
+          "contributor": "tachyons",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4"
         }
       ]
     },
@@ -3953,6 +4059,52 @@
       ]
     },
     {
+      "username": "JANVI-CHATURVEDI",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 3
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "title": "Show 'Continue with' on signup social auth section",
+          "occured_at": "2026-01-01T14:42:28Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6540",
+          "points": 2,
+          "contributor": "JANVI-CHATURVEDI",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Signup social auth text update",
+          "occured_at": "2026-01-01T14:37:53Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6539",
+          "points": 1,
+          "contributor": "JANVI-CHATURVEDI",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4"
+        }
+      ]
+    },
+    {
       "username": "star-warrior",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
@@ -4217,38 +4369,6 @@
           "contributor": "Aakansha-Chavan",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4"
-        }
-      ]
-    },
-    {
-      "username": "bhumika-ks31",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-02",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Update brewfile node 24",
-          "occured_at": "2025-12-02T14:46:25Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6413",
-          "points": 2,
-          "contributor": "bhumika-ks31",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/204588257?v=4"
         }
       ]
     },
