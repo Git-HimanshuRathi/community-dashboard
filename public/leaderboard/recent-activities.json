@@ -1,6 +1,51 @@
 {
-  "updatedAt": 1767248676779,
+  "updatedAt": 1767270583186,
   "groups": [
+    {
+      "date": "2026-01-01",
+      "items": [
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "refactor - migrate node.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Broken navigation when opening contributor profile from /people",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Broken navigation when opening contributor profile from /people",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/59",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "manmeetsantre",
+          "name": null,
+          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
+          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+          "points": 1
+        },
+        {
+          "username": "ssagar1999",
+          "name": null,
+          "title": "Feature Missing Dark/Light Mode Toggle on Page (Eye Comfort & Accessibility)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6537",
+          "avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4",
+          "points": 1
+        }
+      ]
+    },
     {
       "date": "2025-12-31",
       "items": [

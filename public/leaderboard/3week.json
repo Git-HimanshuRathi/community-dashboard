@@ -1,6 +1,6 @@
 {
   "period": "3week",
-  "updatedAt": 1767248676764,
+  "updatedAt": 1767270583171,
   "startDate": "2025-12-11",
   "endDate": "2026-01-01",
   "hiddenRoles": [],
@@ -548,7 +548,7 @@
           "points": 2
         },
         {
-          "date": "2025-12-11",
+          "date": "2026-01-01",
           "count": 1,
           "points": 2
         },
@@ -631,9 +631,9 @@
         },
         {
           "type": "PR opened",
-          "title": "refactor - migrate verilogHelpers.js to TypeScript",
-          "occured_at": "2025-12-11T09:23:55Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/693",
+          "title": "refactor - migrate node.js to TypeScript",
+          "occured_at": "2026-01-01T07:33:37Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
           "points": 2,
           "contributor": "senutpal",
           "contributor_name": null,
@@ -1226,7 +1226,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 29,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
           "count": 6,
@@ -1237,8 +1237,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 4,
+          "points": 4
         }
       },
       "daily_activity": [
@@ -1266,6 +1266,11 @@
           "date": "2025-12-24",
           "count": 1,
           "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 2
         }
       ],
       "activities": [
@@ -1371,6 +1376,26 @@
         },
         {
           "type": "Issue opened",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "occured_at": "2026-01-01T12:23:47Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "occured_at": "2026-01-01T12:23:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/59",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
           "occured_at": "2025-12-28T10:39:09Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
@@ -1386,7 +1411,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
       "role": "Contributor",
-      "total_points": 27,
+      "total_points": 28,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
@@ -1397,8 +1422,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -1429,6 +1454,11 @@
         },
         {
           "date": "2025-12-14",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-01",
           "count": 1,
           "points": 1
         }
@@ -1529,6 +1559,16 @@
           "title": "Fix misaligned description text under live circuit embed in Chapter 4",
           "occured_at": "2025-12-12T20:00:37Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/451",
+          "points": 1,
+          "contributor": "manmeetsantre",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
+          "occured_at": "2026-01-01T11:39:54Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
           "points": 1,
           "contributor": "manmeetsantre",
           "contributor_name": null,
@@ -3743,70 +3783,6 @@
       ]
     },
     {
-      "username": "ayuxsh009",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/149216976?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "Fix #6454 - Handle Recaptcha - - RecaptchaError gracefully",
-          "occured_at": "2025-12-11T10:54:38Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6460",
-          "points": 2,
-          "contributor": "ayuxsh009",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/149216976?v=4"
-        }
-      ]
-    },
-    {
-      "username": "rehanshuraj",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/197035425?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-11",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "fix/ReadtimeoutError",
-          "occured_at": "2025-12-11T06:53:06Z",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6459",
-          "points": 2,
-          "contributor": "rehanshuraj",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/197035425?v=4"
-        }
-      ]
-    },
-    {
       "username": "omkarrr2533",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/201979858?v=4",
@@ -3995,6 +3971,38 @@
           "contributor": "DhananjayDogne",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/111991487?v=4"
+        }
+      ]
+    },
+    {
+      "username": "ssagar1999",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "title": "Feature Missing Dark/Light Mode Toggle on Page (Eye Comfort & Accessibility)",
+          "occured_at": "2026-01-01T07:26:50Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6537",
+          "points": 1,
+          "contributor": "ssagar1999",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4"
         }
       ]
     }

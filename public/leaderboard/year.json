@@ -1,6 +1,6 @@
 {
   "period": "year",
-  "updatedAt": 1767248676752,
+  "updatedAt": 1767270583158,
   "startDate": "2025-01-01",
   "endDate": "2026-01-01",
   "hiddenRoles": [],
@@ -7433,11 +7433,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 53,
+      "total_points": 55,
       "activity_breakdown": {
         "PR opened": {
-          "count": 14,
-          "points": 28
+          "count": 15,
+          "points": 30
         },
         "PR merged": {
           "count": 4,
@@ -7488,6 +7488,11 @@
           "date": "2025-12-07",
           "count": 2,
           "points": 3
+        },
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2025-12-31",
@@ -7594,6 +7599,13 @@
           "occured_at": "2025-12-07T17:35:27Z",
           "title": "fix - correct typo in system requirements filename and references (#444)",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/445",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-01T07:33:37Z",
+          "title": "refactor - migrate node.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
           "points": 2
         },
         {
@@ -9382,7 +9394,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 29,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
           "count": 6,
@@ -9393,8 +9405,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 4,
+          "points": 4
         }
       },
       "daily_activity": [
@@ -9422,6 +9434,11 @@
           "date": "2025-12-24",
           "count": 1,
           "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 2
         }
       ],
       "raw_activities": [
@@ -9493,6 +9510,20 @@
           "occured_at": "2025-12-24T18:06:26Z",
           "title": "Docs Website Performance Issue - Large Unused JavaScript & CSS and Low Code Coverage (27%)",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/472",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T12:23:47Z",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T12:23:24Z",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/59",
           "points": 1
         },
         {
@@ -9874,6 +9905,150 @@
       ]
     },
     {
+      "username": "manmeetsantre",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
+      "role": "Contributor",
+      "total_points": 28,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
+        "Issue opened": {
+          "count": 5,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2025-12-27",
+          "count": 4,
+          "points": 6
+        },
+        {
+          "date": "2025-12-16",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-12",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2025-12-31",
+          "count": 2,
+          "points": 10
+        },
+        {
+          "date": "2025-12-25",
+          "count": 1,
+          "points": 5
+        },
+        {
+          "date": "2025-12-14",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-27T21:36:43Z",
+          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-16T08:28:56Z",
+          "title": "Fix logo redirect to main CircuitVerse homepage on Learn web page",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/742",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-12T20:42:20Z",
+          "title": "Fix power text alignment",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-27T21:36:43Z",
+          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-31T19:31:09Z",
+          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-25T18:50:41Z",
+          "title": "Fix power text alignment",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2025-12-31T19:31:09Z",
+          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-27T21:27:23Z",
+          "title": "CircuitVerse Logo in Footer Does Not Redirect to Main Website",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-14T18:12:34Z",
+          "title": "🐞 Bug \"CircuitVerse\" logo on Learn & Explore Tutorials pages does not redirect to Home",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/741",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-12T20:00:37Z",
+          "title": "Fix misaligned description text under live circuit embed in Chapter 4",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/451",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T11:39:54Z",
+          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-27T21:27:23Z",
+          "title": "CircuitVerse Logo in Footer Does Not Redirect to Main Website",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "vermagaurav24",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/155369415?v=4",
@@ -10204,138 +10379,6 @@
           "occured_at": "2025-04-07T20:59:00Z",
           "title": "Feature - Toggle issue in the profile name dropdown menu.",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5627",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "manmeetsantre",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-      "role": "Contributor",
-      "total_points": 27,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        },
-        "Issue opened": {
-          "count": 4,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-27",
-          "count": 4,
-          "points": 6
-        },
-        {
-          "date": "2025-12-16",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-12",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2025-12-31",
-          "count": 2,
-          "points": 10
-        },
-        {
-          "date": "2025-12-25",
-          "count": 1,
-          "points": 5
-        },
-        {
-          "date": "2025-12-14",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-27T21:36:43Z",
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-16T08:28:56Z",
-          "title": "Fix logo redirect to main CircuitVerse homepage on Learn web page",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/742",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-12T20:42:20Z",
-          "title": "Fix power text alignment",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-27T21:36:43Z",
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-31T19:31:09Z",
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-25T18:50:41Z",
-          "title": "Fix power text alignment",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/452",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2025-12-31T19:31:09Z",
-          "title": "Fix - CircuitVerse Logo Now Redirects to Homepage",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/38",
-          "points": 5
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-27T21:27:23Z",
-          "title": "CircuitVerse Logo in Footer Does Not Redirect to Main Website",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-14T18:12:34Z",
-          "title": "🐞 Bug \"CircuitVerse\" logo on Learn & Explore Tutorials pages does not redirect to Home",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/741",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-12T20:00:37Z",
-          "title": "Fix misaligned description text under live circuit embed in Chapter 4",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/451",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-27T21:27:23Z",
-          "title": "CircuitVerse Logo in Footer Does Not Redirect to Main Website",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/37",
           "points": 1
         }
       ]
@@ -19529,6 +19572,35 @@
           "occured_at": "2025-12-03T23:52:15Z",
           "title": "UI/UX Improvement - Modernize Main CircuitVerse Website Design",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6422",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "ssagar1999",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-01T07:26:50Z",
+          "title": "Feature Missing Dark/Light Mode Toggle on Page (Eye Comfort & Accessibility)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6537",
           "points": 1
         }
       ]

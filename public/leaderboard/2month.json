@@ -1,6 +1,6 @@
 {
   "period": "2month",
-  "updatedAt": 1767248676769,
+  "updatedAt": 1767270583176,
   "startDate": "2025-11-02",
   "endDate": "2026-01-01",
   "hiddenRoles": [],
@@ -941,11 +941,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
       "role": "Contributor",
-      "total_points": 53,
+      "total_points": 55,
       "activity_breakdown": {
         "PR opened": {
-          "count": 14,
-          "points": 28
+          "count": 15,
+          "points": 30
         },
         "PR merged": {
           "count": 4,
@@ -996,6 +996,11 @@
           "date": "2025-12-07",
           "count": 2,
           "points": 3
+        },
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 2
         },
         {
           "date": "2025-12-31",
@@ -1129,6 +1134,16 @@
           "title": "fix - correct typo in system requirements filename and references (#444)",
           "occured_at": "2025-12-07T17:35:27Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/445",
+          "points": 2,
+          "contributor": "senutpal",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4"
+        },
+        {
+          "type": "PR opened",
+          "title": "refactor - migrate node.js to TypeScript",
+          "occured_at": "2026-01-01T07:33:37Z",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
           "points": 2,
           "contributor": "senutpal",
           "contributor_name": null,
@@ -1937,7 +1952,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 29,
+      "total_points": 31,
       "activity_breakdown": {
         "PR opened": {
           "count": 6,
@@ -1948,8 +1963,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 4,
+          "points": 4
         }
       },
       "daily_activity": [
@@ -1977,6 +1992,11 @@
           "date": "2025-12-24",
           "count": 1,
           "points": 1
+        },
+        {
+          "date": "2026-01-01",
+          "count": 2,
+          "points": 2
         }
       ],
       "activities": [
@@ -2082,6 +2102,26 @@
         },
         {
           "type": "Issue opened",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "occured_at": "2026-01-01T12:23:47Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Broken navigation when opening contributor profile from /people",
+          "occured_at": "2026-01-01T12:23:24Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/59",
+          "points": 1,
+          "contributor": "Me-Priyank",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4"
+        },
+        {
+          "type": "Issue opened",
           "title": "🐞 Bug - Teachers page (/teachers) has unintended horizontal scrolling",
           "occured_at": "2025-12-28T10:39:09Z",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6517",
@@ -2097,7 +2137,7 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
       "role": "Contributor",
-      "total_points": 27,
+      "total_points": 28,
       "activity_breakdown": {
         "PR opened": {
           "count": 4,
@@ -2108,8 +2148,8 @@
           "points": 15
         },
         "Issue opened": {
-          "count": 4,
-          "points": 4
+          "count": 5,
+          "points": 5
         }
       },
       "daily_activity": [
@@ -2140,6 +2180,11 @@
         },
         {
           "date": "2025-12-14",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-01",
           "count": 1,
           "points": 1
         }
@@ -2240,6 +2285,16 @@
           "title": "Fix misaligned description text under live circuit embed in Chapter 4",
           "occured_at": "2025-12-12T20:00:37Z",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/451",
+          "points": 1,
+          "contributor": "manmeetsantre",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4"
+        },
+        {
+          "type": "Issue opened",
+          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
+          "occured_at": "2026-01-01T11:39:54Z",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
           "points": 1,
           "contributor": "manmeetsantre",
           "contributor_name": null,
@@ -5320,38 +5375,6 @@
       ]
     },
     {
-      "username": "renganathc",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/61966174?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-11-02",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "title": "convert moduleSetup.js to TypeScript",
-          "occured_at": "2025-11-02T07:23:22Z",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/674",
-          "points": 2,
-          "contributor": "renganathc",
-          "contributor_name": null,
-          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/61966174?v=4"
-        }
-      ]
-    },
-    {
       "username": "Prachi194agrawal",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/147470645?v=4",
@@ -6397,6 +6420,38 @@
           "contributor": "ParthMozarkar",
           "contributor_name": null,
           "contributor_avatar_url": "https://avatars.githubusercontent.com/u/218128772?v=4"
+        }
+      ]
+    },
+    {
+      "username": "ssagar1999",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-01",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "title": "Feature Missing Dark/Light Mode Toggle on Page (Eye Comfort & Accessibility)",
+          "occured_at": "2026-01-01T07:26:50Z",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6537",
+          "points": 1,
+          "contributor": "ssagar1999",
+          "contributor_name": null,
+          "contributor_avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4"
         }
       ]
     }
