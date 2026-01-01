@@ -33,29 +33,56 @@ export function PaginatedActivitySection({
   const endIndex = startIndex + itemsPerPage;
   const currentActivities = group.activities.slice(startIndex, endIndex);
 
-  const goToPage = (page: number) => {
-    setCurrentPage(Math.max(1, Math.min(page, totalPages)));
-  };
+const windowSize = 3;
+const [windowStart, setWindowStart] = useState(1);
 
-  const goToPrevious = () => {
-    setCurrentPage((prev) => Math.max(1, prev - 1));
-  };
+const goToNext = () => {
+  setCurrentPage((prev) => {
+    const next = Math.min(totalPages, prev + 1);
+    setWindowStart((ws) => {
+      if(next > ws + windowSize - 1){
+        return ws + 1;
+      }
+      return ws;
+    });
 
-  const goToNext = () => {
-    setCurrentPage((prev) => Math.min(totalPages, prev + 1));
-  };
+    return next;
+  });
+};
+
+const goToPrevious = () => {
+  setCurrentPage((prev) => {
+    const next = Math.max(1, prev - 1);
+    setWindowStart((ws) => {
+      // shift only if previous page is outside view
+      if(next < ws){
+        return ws - 1;
+      }
+      return ws;
+    });
+
+    return next;
+  });
+};
+
+const goToPage = (page: number) => {
+  setCurrentPage(page);
+  setWindowStart((ws) => {
+    if(page < ws) 
+      return page;
+    if(page > ws + windowSize - 1){
+      return page - windowSize + 1;
+    }
+
+    return ws;
+  });
+};
 
   const getPageNumbers = () => {
-    const pages: (number | string)[] = [];
-
-    if (totalPages <= 4) {
-      // Show all pages if 4 or fewer
-      for (let i = 1; i <= totalPages; i++) pages.push(i);
-    } else {
-      // Show: 1 2 3 ... last
-      pages.push(1, 2, 3);
-      pages.push("...");
-      pages.push(totalPages);
+    const pages: number[] = [];
+    const end = Math.min(windowStart + windowSize - 1, totalPages);
+    for(let i = windowStart; i <= end; i++){
+      pages.push(i);
     }
 
     return pages;
@@ -158,37 +185,21 @@ export function PaginatedActivitySection({
               </Button>
 
               <div className="flex items-center gap-1">
-                {getPageNumbers().map((page, index) => {
-                  if (page === "...") {
-                    return (
-                      <span
-                        key={`ellipsis-${index}`}
-                        className="px-2 text-xs text-zinc-400"
-                      >
-                        ...
-                      </span>
-                    );
-                  }
-
-                  const pageNum = page as number;
-                  return (
-                    <Button
-                      key={pageNum}
-                      variant={
-                        currentPage === pageNum ? "default" : "ghost"
-                      }
-                      size="sm"
-                      onClick={() => goToPage(pageNum)}
-                      className={`h-8 w-8 p-0 transition-all cursor-pointer ${
-                        currentPage === pageNum
-                          ? "bg-[#50B78B] hover:bg-[#50B78B]/90 text-white shadow-sm"
-                          : "hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B] hover:border-[#50B78B]/20 hover:shadow-sm"
-                      }`}
-                    >
-                      {pageNum}
-                    </Button>
-                  );
-                })}
+                {getPageNumbers().map((pageNum, index) => (
+                  <Button
+                    key={index}
+                    variant={currentPage === pageNum ? "default" : "ghost"}
+                    size="sm"
+                    onClick={() => goToPage(pageNum)}
+                    className={`h-8 w-8 p-0 cursor-pointer ${
+                      currentPage === pageNum
+                        ? "bg-[#50B78B] text-white"
+                        : "hover:bg-zinc-100 dark:hover:bg-zinc-800 hover:text-[#50B78B]"
+                    }`}
+                  >
+                    {pageNum}
+                  </Button>
+                ))}
               </div>
 
               <Button
