@@ -12,7 +12,7 @@ import Link from "next/link";
 import { Medal, Trophy, Filter, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useMemo, useState, useEffect } from "react";
-import { sortEntries } from "@/lib/leaderboard";
+import { sortEntries, type SortBy } from "@/lib/leaderboard";
 import { useRouter, useSearchParams, usePathname } from "next/navigation";
 import ActivityTrendChart from "../../components/Leaderboard/ActivityTrendChart";
 import { Input } from "@/components/ui/input";
@@ -74,7 +74,6 @@ export default function LeaderboardView({
   const [searchQuery, setSearchQuery] = useState("");
 
   // sorting
-  type SortBy = 'points' | 'pr_opened' | 'pr_merged' | 'issues';
   const [sortBy, setSortBy] = useState<SortBy>(() => {
     const s = searchParams.get('sort');
     if(s === 'pr_opened' || s === 'pr_merged' || s === 'issues')
@@ -141,10 +140,10 @@ export default function LeaderboardView({
 
     // applying sorting
     try{
-      filtered = sortEntries(filtered, sortBy as any);
+      filtered = sortEntries(filtered, sortBy);
     } 
     catch(e){
-
+      console.error('Error sorting entries:', e);
     }
 
     return filtered;
@@ -276,7 +275,7 @@ export default function LeaderboardView({
                   <div className="hidden sm:flex">
                     <button
                       type="button"
-                      className="h-9 w-28 px-3 cursor-not-allowed rounded-md bg-[#50B78B] text-white text-sm flex items-center justify-center gap-2"
+                      className="h-9 w-28 px-3 rounded-md bg-[#50B78B] text-white text-sm flex items-center justify-center gap-2"
                     >
                       <span>
                         {sortBy === "points"
@@ -297,7 +296,7 @@ export default function LeaderboardView({
                       variant="ghost"
                       size="sm"
                       onClick={clearFilters}
-                      className="h-9 hover:bg-[#50B78B]/20"
+                      className="h-9 hover:bg-[#50B78B]/20 cursor-pointer"
                     >
                       <X className="h-4 w-4 mr-1" />
                       Clear
@@ -309,7 +308,7 @@ export default function LeaderboardView({
                       <Button
                         variant="outline"
                         size="sm"
-                        className="h-9 border border-[#50B78B]/30 hover:bg-[#50B78B]/20"
+                        className="h-9 border border-[#50B78B]/30 hover:bg-[#50B78B]/20 cursor-pointer"
                       >
                         <Filter className="h-4 w-4 mr-1.5" />
                         Filter
@@ -355,7 +354,7 @@ export default function LeaderboardView({
                                           window.history.replaceState(null, '', `${pathname}?${params.toString()}`);
                                       }
                                     }}
-                                    className={cn('w-full text-left px-4 py-2 rounded-md text-sm', active ? 'bg-[#50B78B] text-white' : 'hover:bg-muted')}
+                                    className={cn('w-full text-left px-4 py-2 cursor-pointer rounded-md text-sm', active ? 'bg-[#50B78B] text-white' : 'hover:bg-muted')}
                                     aria-pressed={active}
                                   >
                                     <div className="flex items-center justify-between">
