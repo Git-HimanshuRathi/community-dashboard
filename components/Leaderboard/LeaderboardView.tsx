@@ -112,7 +112,7 @@ const getActivityStyle = (activityName: string) => {
   };
 };
 
-function useDebounce<T>(value: T, delay = 3000): T {
+function useDebounce<T>(value: T, delay = 400): T {
   const [debouncedValue, setDebouncedValue] = useState(value);
 
   useEffect(() => {
@@ -280,7 +280,7 @@ export default function LeaderboardView({
   }, [filteredEntries, pageSize, currentPage]);
 
   // Reset to page 1 when pageSize changes or when filteredEntries change significantly
-  useEffect(() => {
+useEffect(() => {
   if (currentPage > totalPages && totalPages > 0) {
     const params = new URLSearchParams(searchParams.toString());
     params.delete("page");
@@ -290,7 +290,15 @@ export default function LeaderboardView({
       window.history.replaceState(null, "", `${pathname}?${params.toString()}`);
     }
   }
-}, [debouncedSearchQuery, pageSize, totalPages]);
+}, [
+  debouncedSearchQuery,
+  pageSize,
+  totalPages,
+  currentPage,
+  searchParams,
+  pathname,
+]);
+
 
 
   // Reset to page 1 when search query changes
