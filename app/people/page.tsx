@@ -114,11 +114,11 @@ export default function PeoplePage() {
   return (
     <div className="mx-auto px-4 py-8 max-w-7xl">
       <div className="mb-8 text-center">
-        <h1 className="text-4xl font-extrabold">
+        <h1 className="text-4xl font-bold">
           <span className="text-black dark:text-white">Our </span>
           <span className="text-emerald-600 dark:text-emerald-400">People</span>
         </h1>
-        <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-4">
+        <p className="text-lg text-muted-foreground max-w-2xl mx-auto mb-4 mt-4">
           Meet the team who made CircuitVerse possible.
         </p>
         {updatedAt && (
@@ -226,7 +226,7 @@ export default function PeoplePage() {
         <>
           <TeamSection
             title="Core Team"
-            description="The dedicated team members who lead and maintain CircuitVerse..."
+            description="The dedicated team members who lead and maintain CircuitVerse, ensuring the platform continues to evolve and serve the community."
             members={coreTeam}
             teamType="core"
           />
