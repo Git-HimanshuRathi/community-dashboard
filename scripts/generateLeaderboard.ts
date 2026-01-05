@@ -259,14 +259,10 @@ function addActivity(
    REVIEW FETCHING
 ------------------------------------------------------- */
 
-interface GitHubRepo {
-  name: string;
-  full_name: string;
-}
-
 interface GitHubPR {
   number: number;
   user: { login: string; avatar_url?: string; type?: string };
+  updated_at?: string;
 }
 
 interface GitHubReview {
@@ -275,30 +271,7 @@ interface GitHubReview {
   submitted_at: string;
 }
 
-async function fetchOrgRepos(): Promise<GitHubRepo[]> {
-  const repos: GitHubRepo[] = [];
-  let page = 1;
-  while (true) {
-    const res = await fetch(
-      `${GITHUB_API}/orgs/${ORG}/repos?per_page=100&page=${page}`,
-      {
-        headers: {
-          Authorization: `Bearer ${TOKEN}`,
-          Accept: "application/vnd.github+json",
-        },
-      }
-    );
-    if (!res.ok) break;
-    const data = await res.json();
-    if (!data.length) break;
-    repos.push(...data);
-    page++;
-    await sleep(1000);
-  }
-  return repos;
-}
-
-async function fetchRepoPRs(repo: string, _since: Date): Promise<GitHubPR[]> {
+async function fetchRepoPRs(repo: string, since: Date): Promise<GitHubPR[]> {
   const prs: GitHubPR[] = [];
   let page = 1;
   while (true) {
@@ -311,10 +284,24 @@ async function fetchRepoPRs(repo: string, _since: Date): Promise<GitHubPR[]> {
         },
       }
     );
-    if (!res.ok) break;
+    if (!res.ok) {
+      console.error(`   ⚠️ Failed to fetch PRs for ${repo}: ${res.status}`);
+      break;
+    }
     const data = await res.json();
     if (!data.length) break;
-    prs.push(...data);
+    
+    // Filter PRs updated since the cutoff date
+    for (const pr of data) {
+      if (pr.updated_at && new Date(pr.updated_at) >= since) {
+        prs.push(pr);
+      }
+    }
+    
+    // Stop if we've gone past the since date
+    const lastPR = data[data.length - 1];
+    if (lastPR?.updated_at && new Date(lastPR.updated_at) < since) break;
+    
     page++;
     await sleep(1000);
   }
@@ -346,6 +333,9 @@ async function fetchAllReviews(
   // Only fetch from main repos to speed up (limit API calls)
   const MAIN_REPOS = ["CircuitVerse", "cv-frontend-vue", "mobile-app"];
   
+  // Track reviews to avoid duplicates (one review per reviewer per PR)
+  const reviewSeen = new Set<string>();
+  
   for (const repoName of MAIN_REPOS) {
     console.log(`   → ${repoName}`);
     const prs = await fetchRepoPRs(repoName, since);
@@ -372,12 +362,17 @@ async function fetchAllReviews(
         const reviewDate = new Date(review.submitted_at);
         if (reviewDate < since || reviewDate > now) continue;
         
+        // Deduplicate: only count one review per reviewer per PR
+        const dedupKey = `${review.user.login}:${repoName}:${pr.number}`;
+        if (reviewSeen.has(dedupKey)) continue;
+        reviewSeen.add(dedupKey);
+        
         addActivity(
           ensureUser(users, review.user),
           "Review submitted",
           review.submitted_at,
           POINTS["Review submitted"],
-          { title: `Review on PR #${pr.number}`, link: undefined }
+          { title: `Review on PR #${pr.number}`, link: `https://github.com/${ORG}/${repoName}/pull/${pr.number}` }
         );
       }
     }
