@@ -153,6 +153,15 @@ function isBotUser(user: { login?: string; type?: string } | null | undefined): 
   return user.login.endsWith("[bot]");
 }
 
+// Utility to split array into chunks for parallel processing
+function chunk<T>(arr: T[], size: number): T[][] {
+  const chunks: T[][] = [];
+  for (let i = 0; i < arr.length; i += size) {
+    chunks.push(arr.slice(i, i + size));
+  }
+  return chunks;
+}
+
 /* -------------------------------------------------------
    GITHUB SEARCH (RATE + 1000 CAP SAFE)
 ------------------------------------------------------- */
@@ -360,43 +369,58 @@ async function fetchAllReviews(
   // Track reviews to avoid duplicates (one review per reviewer per PR)
   const reviewSeen = new Set<string>();
   
+  // Parallel batch size
+  const BATCH_SIZE = 5;
+  
   for (const repoName of MAIN_REPOS) {
     console.log(`   → ${repoName}`);
     const prs = await fetchRepoPRs(repoName, since);
-    console.log(`      ${prs.length} PRs found`);
+    console.log(`      ${prs.length} PRs found (fetching in batches of ${BATCH_SIZE})`);
     
-    for (const pr of prs) {
-      const reviews = await fetchPRReviews(repoName, pr.number);
+    // Process PRs in parallel batches
+    const prBatches = chunk(prs, BATCH_SIZE);
+    
+    for (const batch of prBatches) {
+      // Fetch reviews for batch in parallel
+      const reviewResults = await Promise.all(
+        batch.map(pr => fetchPRReviews(repoName, pr.number).then(reviews => ({ pr, reviews })))
+      );
       
-      for (const review of reviews) {
-        // Skip bots
-        if (!review.user?.login) continue;
-        if (review.user.login.endsWith("[bot]")) continue;
-        if (review.user.type && review.user.type !== "User") continue;
-        
-        // Skip self-reviews
-        if (review.user.login === pr.user.login) continue;
-        
-        // Only count approved or changes_requested
-        if (!["APPROVED", "CHANGES_REQUESTED"].includes(review.state)) continue;
-        
-        // Check date
-        const reviewDate = new Date(review.submitted_at);
-        if (reviewDate < since || reviewDate > now) continue;
-        
-        // Deduplicate: only count one review per reviewer per PR
-        const dedupKey = `${review.user.login}:${repoName}:${pr.number}`;
-        if (reviewSeen.has(dedupKey)) continue;
-        reviewSeen.add(dedupKey);
-        
-        addActivity(
-          ensureUser(users, review.user),
-          "Review submitted",
-          review.submitted_at,
-          POINTS["Review submitted"],
-          { title: `Review on PR #${pr.number}`, link: `https://github.com/${ORG}/${repoName}/pull/${pr.number}` }
-        );
+      // Process review results
+      for (const { pr, reviews } of reviewResults) {
+        for (const review of reviews) {
+          // Skip bots
+          if (!review.user?.login) continue;
+          if (review.user.login.endsWith("[bot]")) continue;
+          if (review.user.type && review.user.type !== "User") continue;
+          
+          // Skip self-reviews
+          if (review.user.login === pr.user.login) continue;
+          
+          // Only count approved or changes_requested
+          if (!["APPROVED", "CHANGES_REQUESTED"].includes(review.state)) continue;
+          
+          // Check date
+          const reviewDate = new Date(review.submitted_at);
+          if (reviewDate < since || reviewDate > now) continue;
+          
+          // Deduplicate: only count one review per reviewer per PR
+          const dedupKey = `${review.user.login}:${repoName}:${pr.number}`;
+          if (reviewSeen.has(dedupKey)) continue;
+          reviewSeen.add(dedupKey);
+          
+          addActivity(
+            ensureUser(users, review.user),
+            "Review submitted",
+            review.submitted_at,
+            POINTS["Review submitted"],
+            { title: `Review on PR #${pr.number}`, link: `https://github.com/${ORG}/${repoName}/pull/${pr.number}` }
+          );
+        }
       }
+      
+      // Small delay between batches to avoid overwhelming the API
+      await sleep(300);
     }
   }
 }
