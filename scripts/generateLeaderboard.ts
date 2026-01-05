@@ -471,8 +471,9 @@ function deduplicateAndRecalculate(users: Map<string, Contributor>) {
       if (!user.activity_breakdown[act.type]) {
         user.activity_breakdown[act.type] = { count: 0, points: 0 };
       }
-      user.activity_breakdown[act.type].count++;
-      user.activity_breakdown[act.type].points += act.points;
+      const breakdown = user.activity_breakdown[act.type]!;
+      breakdown.count++;
+      breakdown.points += act.points;
       
       // Update daily activity
       const day = act.occured_at.slice(0, 10);
