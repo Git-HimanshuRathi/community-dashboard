@@ -289,6 +289,10 @@ function addActivity(
    REVIEW FETCHING
 ------------------------------------------------------- */
 
+interface GitHubRepo {
+  name: string;
+}
+
 interface GitHubPR {
   number: number;
   user: { login: string; avatar_url?: string; type?: string };
@@ -299,6 +303,40 @@ interface GitHubReview {
   user: { login: string; avatar_url?: string; type?: string };
   state: string;
   submitted_at: string;
+}
+
+async function fetchOrgRepos(): Promise<string[]> {
+  const repos: string[] = [];
+  let page = 1;
+
+  console.log(`📦 Fetching all repositories for ${ORG}...`);
+
+  while (true) {
+    const res = await fetch(
+      `${GITHUB_API}/orgs/${ORG}/repos?per_page=100&page=${page}`,
+      {
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+          Accept: "application/vnd.github+json",
+        },
+      }
+    );
+
+    if (!res.ok) {
+        console.error(`   ⚠️ Failed to fetch repos: ${res.status}`);
+        break;
+    }
+
+    await smartSleep(res, 500);
+    const data: GitHubRepo[] = await res.json();
+    if (!data.length) break;
+
+    for (const r of data) {
+      repos.push(r.name);
+    }
+    page++;
+  }
+  return repos;
 }
 
 async function fetchRepoPRs(repo: string, since: Date): Promise<GitHubPR[]> {
@@ -363,8 +401,8 @@ async function fetchAllReviews(
 ) {
   console.log("🔍 Review submitted");
   
-  // Only fetch from main repos to speed up (limit API calls)
-  const MAIN_REPOS = ["CircuitVerse", "cv-frontend-vue", "mobile-app"];
+  // Fetch all repos in the organization
+  const allRepos = await fetchOrgRepos();
   
   // Track reviews to avoid duplicates (one review per reviewer per PR)
   const reviewSeen = new Set<string>();
@@ -372,7 +410,7 @@ async function fetchAllReviews(
   // Parallel batch size
   const BATCH_SIZE = 5;
   
-  for (const repoName of MAIN_REPOS) {
+  for (const repoName of allRepos) {
     console.log(`   → ${repoName}`);
     const prs = await fetchRepoPRs(repoName, since);
     console.log(`      ${prs.length} PRs found (fetching in batches of ${BATCH_SIZE})`);
