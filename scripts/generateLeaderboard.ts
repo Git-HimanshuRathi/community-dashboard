@@ -318,7 +318,10 @@ async function fetchPRReviews(repo: string, prNumber: number): Promise<GitHubRev
       },
     }
   );
-  if (!res.ok) return [];
+  if (!res.ok) {
+    console.error(`   ⚠️ Failed to fetch reviews for ${repo}#${prNumber}: ${res.status}`);
+    return [];
+  }
   await sleep(500);
   return res.json();
 }
@@ -468,9 +471,8 @@ function deduplicateAndRecalculate(users: Map<string, Contributor>) {
       if (!user.activity_breakdown[act.type]) {
         user.activity_breakdown[act.type] = { count: 0, points: 0 };
       }
-      const breakdown = user.activity_breakdown[act.type]!;
-      breakdown.count += 1;
-      breakdown.points += act.points;
+      user.activity_breakdown[act.type].count++;
+      user.activity_breakdown[act.type].points += act.points;
       
       // Update daily activity
       const day = act.occured_at.slice(0, 10);
