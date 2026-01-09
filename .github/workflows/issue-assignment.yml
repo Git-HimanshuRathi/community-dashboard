@@ -9,11 +9,11 @@ permissions:
   contents: read
 
 jobs:
-  claim-issue:
-    # Only run on issue comments (not PR comments) and when comment contains @bot claim
+  assign-issue:
+    # Only run on issue comments (not PR comments) and when comment contains @bot assign
     if: |
       !github.event.issue.pull_request &&
-      contains(github.event.comment.body, '@bot claim')
+      contains(github.event.comment.body, '@bot assign')
     runs-on: ubuntu-latest
     # Prevent race conditions - only one job per issue at a time
     concurrency:
@@ -30,12 +30,12 @@ jobs:
             const issue = context.payload.issue;
             const repo = context.repo;
 
-            console.log(`Processing @bot claim from ${commenter} on issue #${issue.number}`);
+            console.log(`Processing @bot assign from ${commenter} on issue #${issue.number}`);
 
             // Validate exact command match
             const commentBody = context.payload.comment.body.trim();
-            if (commentBody !== '@bot claim') {
-              console.log(`Comment "${commentBody}" is not an exact match for "@bot claim", skipping`);
+            if (commentBody !== '@bot assign') {
+              console.log(`Comment "${commentBody}" is not an exact match for "@bot assign", skipping`);
               return;
             }
 
@@ -47,9 +47,10 @@ jobs:
 
             // Check if issue is already assigned
             if (currentIssue.assignees && currentIssue.assignees.length > 0) {
-              const isAlreadyAssignedToCommenter = currentIssue.assignees.some(a => a.login === commenter);
+              const currentAssignee = currentIssue.assignees[0].login;
 
-              if (isAlreadyAssignedToCommenter) {
+              // Check if already assigned to the same commenter
+              if (currentAssignee === commenter) {
                 console.log(`Issue already assigned to commenter ${commenter}`);
                 await github.rest.issues.createComment({
                   ...repo,
@@ -59,13 +60,11 @@ jobs:
                 return;
               }
 
-              // Assigned to someone else
-              const assigneesList = currentIssue.assignees.map(a => `@${a.login}`).join(', ');
-              console.log(`Issue already assigned to ${assigneesList}`);
+              console.log(`Issue already assigned to ${currentAssignee}`);
               await github.rest.issues.createComment({
                 ...repo,
                 issue_number: issue.number,
-                body: `@${commenter} This issue cannot be claimed, as it is already assigned to ${assigneesList}.`
+                body: `@${commenter} This issue cannot be claimed, as someone else is already working on it.`
               });
               return;
             }
@@ -157,11 +156,11 @@ jobs:
 
             console.log(`Successfully assigned issue #${issue.number} to ${commenter}`);
 
-  drop-issue:
-    # Only run on issue comments (not PR comments) and when comment contains @bot drop
+  unclaim-issue:
+    # Only run on issue comments (not PR comments) and when comment contains @bot unclaim
     if: |
       !github.event.issue.pull_request &&
-      contains(github.event.comment.body, '@bot drop')
+      contains(github.event.comment.body, '@bot unclaim')
     runs-on: ubuntu-latest
     # Prevent race conditions - only one job per issue at a time
     concurrency:
@@ -169,7 +168,7 @@ jobs:
       cancel-in-progress: false
 
     steps:
-      - name: Drop Issue
+      - name: Unclaim Issue
         uses: actions/github-script@v8
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -178,12 +177,12 @@ jobs:
             const issue = context.payload.issue;
             const repo = context.repo;
 
-            console.log(`Processing @bot drop from ${commenter} on issue #${issue.number}`);
+            console.log(`Processing @bot unclaim from ${commenter} on issue #${issue.number}`);
 
             // Validate exact command match
             const commentBody = context.payload.comment.body.trim();
-            if (commentBody !== '@bot drop') {
-              console.log(`Comment "${commentBody}" is not an exact match for "@bot drop", skipping`);
+            if (commentBody !== '@bot unclaim') {
+              console.log(`Comment "${commentBody}" is not an exact match for "@bot unclaim", skipping`);
               return;
             }
 
@@ -249,7 +248,7 @@ jobs:
             await github.rest.issues.createComment({
               ...repo,
               issue_number: issue.number,
-              body: `@${commenter} You have dropped this issue. It's now available for others to claim.`
+              body: `@${commenter} You have been unassigned from this issue. It's now available for others to claim.`
             });
 
             console.log(`Successfully unassigned ${commenter} from issue #${issue.number}`);
