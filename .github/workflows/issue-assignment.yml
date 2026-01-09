@@ -1,0 +1,171 @@
+name: Issue Assignment Bot
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  assign-issue:
+    # Only run on issue comments (not PR comments) and when comment contains @bot assign
+    if: |
+      !github.event.issue.pull_request &&
+      contains(github.event.comment.body, '@bot assign')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check and Assign Issue
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const commenter = context.payload.comment.user.login;
+            const issue = context.payload.issue;
+            const repo = context.repo;
+
+            console.log(`Processing @bot assign from ${commenter} on issue #${issue.number}`);
+
+            // Check if issue is already assigned
+            if (issue.assignees && issue.assignees.length > 0) {
+              console.log(`Issue already assigned`);
+
+              await github.rest.issues.createComment({
+                ...repo,
+                issue_number: issue.number,
+                body: `@${commenter} This issue cannot be claimed, as someone else is already working on it.`
+              });
+              return;
+            }
+
+            // Check if commenter has any other open assigned issues
+            const { data: allOpenIssues } = await github.rest.issues.listForRepo({
+              ...repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            // Filter to find issues assigned to this commenter (excluding current issue)
+            const otherAssignedIssues = allOpenIssues.filter(i =>
+              i.number !== issue.number &&
+              i.assignees &&
+              i.assignees.some(a => a.login === commenter)
+            );
+
+            if (otherAssignedIssues.length > 0) {
+              // User already has an active issue
+              const issuesList = otherAssignedIssues
+                .slice(0, 5)
+                .map(i => `- #${i.number}: ${i.title}`)
+                .join('\n');
+
+              console.log(`User ${commenter} already has ${otherAssignedIssues.length} assigned issues`);
+
+              await github.rest.issues.createComment({
+                ...repo,
+                issue_number: issue.number,
+                body: `Hey @${commenter}, you already have an open issue assigned:\n\n${issuesList}\n\n**Please complete or close your existing issue before claiming a new one.**`
+              });
+              return;
+            }
+
+            // Assign the issue
+            console.log(`Assigning issue #${issue.number} to ${commenter}`);
+
+            await github.rest.issues.addAssignees({
+              ...repo,
+              issue_number: issue.number,
+              assignees: [commenter]
+            });
+
+            // Add "in progress" label
+            try {
+              await github.rest.issues.addLabels({
+                ...repo,
+                issue_number: issue.number,
+                labels: ['in progress']
+              });
+              console.log(`Added "in progress" label to issue #${issue.number}`);
+            } catch (error) {
+              console.log(`Could not add label: ${error.message}`);
+            }
+
+            await github.rest.issues.createComment({
+              ...repo,
+              issue_number: issue.number,
+              body: `Assigned to @${commenter}!`
+            });
+
+            console.log(`Successfully assigned issue #${issue.number} to ${commenter}`);
+
+  unclaim-issue:
+    # Only run on issue comments (not PR comments) and when comment contains @bot unclaim
+    if: |
+      !github.event.issue.pull_request &&
+      contains(github.event.comment.body, '@bot unclaim')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Unclaim Issue
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const commenter = context.payload.comment.user.login;
+            const issue = context.payload.issue;
+            const repo = context.repo;
+
+            console.log(`Processing @bot unclaim from ${commenter} on issue #${issue.number}`);
+
+            // Check if commenter is actually assigned to this issue
+            const isAssigned = issue.assignees && issue.assignees.some(a => a.login === commenter);
+
+            if (!isAssigned) {
+              console.log(`User ${commenter} is not assigned to this issue`);
+
+              await github.rest.issues.createComment({
+                ...repo,
+                issue_number: issue.number,
+                body: `@${commenter} You are not assigned to this issue.`
+              });
+              return;
+            }
+
+            // Remove assignee
+            console.log(`Removing ${commenter} from issue #${issue.number}`);
+
+            await github.rest.issues.removeAssignees({
+              ...repo,
+              issue_number: issue.number,
+              assignees: [commenter]
+            });
+
+            // Remove "in progress" label if no one else is assigned
+            try {
+              // Re-fetch issue to check remaining assignees
+              const { data: updatedIssue } = await github.rest.issues.get({
+                ...repo,
+                issue_number: issue.number
+              });
+
+              if (!updatedIssue.assignees || updatedIssue.assignees.length === 0) {
+                await github.rest.issues.removeLabel({
+                  ...repo,
+                  issue_number: issue.number,
+                  name: 'in progress'
+                });
+                console.log(`Removed "in progress" label from issue #${issue.number}`);
+              }
+            } catch (error) {
+              console.log(`Could not remove label: ${error.message}`);
+            }
+
+            await github.rest.issues.createComment({
+              ...repo,
+              issue_number: issue.number,
+              body: `@${commenter} You have been unassigned from this issue.`
+            });
+
+            console.log(`Successfully unassigned ${commenter} from issue #${issue.number}`);
