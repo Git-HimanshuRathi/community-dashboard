@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768221571561,
+  "updatedAt": 1768265957032,
   "groups": [
     [
       "2026-01-10",
@@ -97,7 +97,7 @@
           "name": null,
           "title": "Closed issue #124 - Minor Typos",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/124",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -349,22 +349,6 @@
           "points": 5
         },
         {
-          "username": "yats0x7",
-          "name": null,
-          "title": "Chore - Remove unused legacy i18n code (#757)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/760",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
-          "points": 2
-        },
-        {
-          "username": "yats0x7",
-          "name": null,
-          "title": "Chore - Remove unused legacy i18n code in simulator/src",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/757",
-          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
-          "points": 1
-        },
-        {
           "username": "JANVI-CHATURVEDI",
           "name": null,
           "title": "Fix footer FAQ link to point to correct documentation faq page",
@@ -378,6 +362,22 @@
           "title": "🐞 Bug - Footer FAQ link points to wrong documentation page",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6601",
           "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
+          "username": "yats0x7",
+          "name": null,
+          "title": "Chore - Remove unused legacy i18n code (#757)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/760",
+          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
+          "points": 2
+        },
+        {
+          "username": "yats0x7",
+          "name": null,
+          "title": "Chore - Remove unused legacy i18n code in simulator/src",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/757",
+          "avatar_url": "https://avatars.githubusercontent.com/u/217891881?v=4",
           "points": 1
         },
         {
@@ -550,7 +550,7 @@
           "name": null,
           "title": "Review on PR #475",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/475",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -576,6 +576,38 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/139",
           "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
           "points": 4
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI - move leaderboard controls below contributor count",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI - move leaderboard controls below contributor count",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI/UX Issue - Search and filter misalignment on leaderboard at 768–1023px",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/140",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "🐞 Bug - Favicon not showing on CircuitVerse main website",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6569",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
         },
         {
           "username": "haaasini01",
@@ -647,38 +679,6 @@
           "title": "Pagination keeps scroll position on page change",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/136",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI - move leaderboard controls below contributor count",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI - move leaderboard controls below contributor count",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI/UX Issue - Search and filter misalignment on leaderboard at 768–1023px",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/140",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "🐞 Bug - Favicon not showing on CircuitVerse main website",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6569",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         },
         {
@@ -823,22 +823,6 @@
           "points": 1
         },
         {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Remove stray char from truth table in Canonical Functions subchapter",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/745",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Stray character displayed in the truth table in Canonical Functions subchapterz",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
           "username": "himanshujays29",
           "name": null,
           "title": "Fix contributor name overflow in profile card layout",
@@ -861,6 +845,22 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/56",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 5
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Remove stray char from truth table in Canonical Functions subchapter",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/745",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 2
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "Stray character displayed in the truth table in Canonical Functions subchapterz",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/744",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 1
         },
         {
           "username": "senutpal",
@@ -918,10 +918,42 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "Fix panel minimize/collapse not working on initial Tauri launch",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/791",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "🐞 Bug - Verilog module does not initialize correctly on first launch in Tauri app (works after refresh)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "🐞 Bug - UI panels and Verilog module broken on first launch in Tauri app",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/790",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #792 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #792 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
         },
         {
           "username": "naman79820",
@@ -1006,6 +1038,22 @@
         {
           "username": "tachyons",
           "name": null,
+          "title": "Closed issue #780 - 🐞 Bug - vite - Rollup failed to resolve import \"/v0/src/main.ts\" from \"index-cv.html\"",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/780",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #471 - Improve search bar UX - center alignment and inline search behavior",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/471",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
           "title": "Review on PR #6572",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6572",
           "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
@@ -1036,12 +1084,44 @@
           "points": 5
         },
         {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #201",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Review on PR #196",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 4
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "feat - make Issues, Open PRs, and Merged PR stats clickable on repo cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/204",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
           "username": "himanshujays29",
           "name": null,
           "title": "fix - correct \"Edit this page\" GitHub URL path",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/502",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Feature - Add clickable links to repo Issues and PR stats",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/203",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
         },
         {
           "username": "akshitvigg",
@@ -1116,6 +1196,38 @@
           "points": 2
         },
         {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Improve tags page clear filter UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6618",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 2
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Tag filter state is not clearly indicated and cannot be easily cleared",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Labeled issue #6617 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aditya30ag",
+          "name": null,
+          "title": "Fix/code quality improvements",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6619",
+          "avatar_url": "https://avatars.githubusercontent.com/u/162010355?v=4",
+          "points": 2
+        },
+        {
           "username": "manash213cyber",
           "name": null,
           "title": "fix broken 'Edit this page' link",
@@ -1130,6 +1242,30 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/789",
           "avatar_url": "https://avatars.githubusercontent.com/u/69254659?v=4",
           "points": 1
+        },
+        {
+          "username": "Harshitshukla0208",
+          "name": null,
+          "title": "fix(issue) - Address issue #6564 - Feature - add a border outline in the search bar box",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6624",
+          "avatar_url": "https://avatars.githubusercontent.com/u/120409631?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harshitshukla0208",
+          "name": null,
+          "title": "fix(issue) - Address issue #6596 - ActionView - - Template - - Error - No route matches { - action=>\"show\", - controller=>\"tags\", - tag=>\"\"}, missing required keys - - tag (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6623",
+          "avatar_url": "https://avatars.githubusercontent.com/u/120409631?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harshitshukla0208",
+          "name": null,
+          "title": "fix(issue) - Address issue #6620 - UI - Navbar appears left-aligned instead of centered",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6622",
+          "avatar_url": "https://avatars.githubusercontent.com/u/120409631?v=4",
+          "points": 2
         },
         {
           "username": "Toxic209",
@@ -1156,11 +1292,35 @@
           "points": 2
         },
         {
+          "username": "Nid-debug",
+          "name": null,
+          "title": "UI - Navbar appears left-aligned instead of centered",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6620",
+          "avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4",
+          "points": 1
+        },
+        {
+          "username": "Nid-debug",
+          "name": null,
+          "title": "Labeled issue #6620 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6620",
+          "avatar_url": "https://avatars.githubusercontent.com/u/182516930?v=4",
+          "points": 2
+        },
+        {
           "username": "Padhmashikha",
           "name": null,
           "title": "Fix #6604 - Remove duplicate stylesheet include",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6613",
           "avatar_url": "https://avatars.githubusercontent.com/u/219302428?v=4",
+          "points": 2
+        },
+        {
+          "username": "31groot",
+          "name": null,
+          "title": "fix - prevent crash when search query contains null byte (#6612)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6621",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159657559?v=4",
           "points": 2
         }
       ]
@@ -1333,7 +1493,7 @@
           "name": null,
           "title": "Review on PR #499",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/499",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -1341,7 +1501,7 @@
           "name": null,
           "title": "Review on PR #759",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/759",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -1349,7 +1509,7 @@
           "name": null,
           "title": "Closed issue #758 - Chore - Remove unused banana-i18n files from v0 and v1 directories",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/758",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -1357,7 +1517,7 @@
           "name": null,
           "title": "Closed issue #757 - Chore - Remove unused legacy i18n code in simulator/src",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/757",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -1365,7 +1525,7 @@
           "name": null,
           "title": "Closed issue #493 - fix(netlify) - pin Node 22 to fix Docusaurus build failure",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -1373,7 +1533,7 @@
           "name": null,
           "title": "Closed issue #479 - Netlify CI fails",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/479",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -1381,7 +1541,7 @@
           "name": null,
           "title": "Review on PR #490",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/490",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -1389,7 +1549,7 @@
           "name": null,
           "title": "Closed issue #489 - Improve Docs Part 2 by adding user account creation images and links",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/489",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 1
         },
         {
@@ -1802,7 +1962,7 @@
           "name": null,
           "title": "Review on PR #467",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/467",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -1990,14 +2150,6 @@
           "points": 5
         },
         {
-          "username": "haaasini01",
-          "name": null,
-          "title": "fix - search matching aggregate metrics on people page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/161",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 5
-        },
-        {
           "username": "himanshujays29",
           "name": null,
           "title": "Docs - Improve screenshot layout consistency in README",
@@ -2020,6 +2172,14 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/176",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
+        },
+        {
+          "username": "haaasini01",
+          "name": null,
+          "title": "fix - search matching aggregate metrics on people page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/161",
+          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
+          "points": 5
         },
         {
           "username": "akshitvigg",
@@ -2331,6 +2491,14 @@
           "points": 2
         },
         {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "UI - Top Contributors card overlaps on mobile viewport",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/154",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
           "username": "haaasini01",
           "name": null,
           "title": "fix - search matching aggregate metrics on people page",
@@ -2368,14 +2536,6 @@
           "title": "Incorrect “Activity Types” shown in this month’s activity for inactive contributors",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/157",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI - Top Contributors card overlaps on mobile viewport",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/154",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         },
         {
@@ -2809,7 +2969,7 @@
           "name": null,
           "title": "Review on PR #6557",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6557",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -3087,163 +3247,6 @@
       ]
     ],
     [
-      "2025-12-30",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "changed readme",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "changed readme",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/48",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 5
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Add points for issue triaging (including label changes)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/54",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐞 Activity Breakdown cards look visually repetitive and confusing",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/50",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "modify the ui of leaderboard cards",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/53",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Adding the Analytics Page of Circuitverse",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/52",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Contributor UI enhancement",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/51",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "justify text alignment in documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/483",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Feature Request - Enable justified text for docs content",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/482",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "UI Bug - Contributor Username Overflows Profile Card",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/47",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "docs - fix duplicated words in documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/481",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 2
-        },
-        {
-          "username": "akshitvigg",
-          "name": null,
-          "title": "Fix duplicated words in documentation files",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/480",
-          "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
-          "points": 1
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "docs - add workarounds for application.js and CRLF errors in troubleshooting guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6528",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "fix - resolve Tauri Desktop Release CI/CD failures on all platforms",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/706",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "Explore page fix + UI change",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6532",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 2
-        },
-        {
-          "username": "ViRUS-0-0",
-          "name": null,
-          "title": "fixed statement timeout issue caused by paginated urls",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6531",
-          "avatar_url": "https://avatars.githubusercontent.com/u/67628558?v=4",
-          "points": 2
-        },
-        {
-          "username": "vivekyadav-3",
-          "name": null,
-          "title": "Enhancement - Add Contribution Streaks to User Profiles",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/49",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-          "points": 1
-        },
-        {
-          "username": "sujal-thakur01",
-          "name": null,
-          "title": "Docs - clarify Node.js version, Redis/PostgreSQL startup, and RSA key requirement",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6530",
-          "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-          "points": 2
-        },
-        {
-          "username": "sujal-thakur01",
-          "name": null,
-          "title": "Improve macOS local setup documentation (Node.js, Redis, PostgreSQL, RSA keys)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6527",
-          "avatar_url": "https://avatars.githubusercontent.com/u/161142634?v=4",
-          "points": 1
-        }
-      ]
-    ],
-    [
       "2026-01-04",
       [
         {
@@ -3291,7 +3294,7 @@
           "name": null,
           "title": "Review on PR #481",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/481",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -3335,6 +3338,22 @@
           "points": 2
         },
         {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
           "username": "haaasini01",
           "name": null,
           "title": "fix - reflect actual rank while searching",
@@ -3357,22 +3376,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/110",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
           "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "fix(docs) - correct JSDoc typos and grammar in simulator files",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/711",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
         },
         {
           "username": "akshitvigg",
@@ -3576,7 +3579,7 @@
           "name": null,
           "title": "Review on PR #686",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/686",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -4042,7 +4045,7 @@
           "name": null,
           "title": "Review on PR #260",
           "link": "https://github.com/CircuitVerse/Blog/pull/260",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
           "points": 4
         },
         {
@@ -4110,6 +4113,38 @@
           "points": 5
         },
         {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "docs - update core project structure section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/80",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "docs - update core project structure section",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/80",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Update README to show only core and relevant project structure",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/79",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
           "username": "haaasini01",
           "name": null,
           "title": "fix - reflect actual rank while searching",
@@ -4147,38 +4182,6 @@
           "title": "Ranks change incorrectly while searching for contributors on leaderboard",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/75",
           "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "docs - update core project structure section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/80",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "docs - update core project structure section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/80",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Update README to show only core and relevant project structure",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/79",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Bug - Back to People button text not visible on hover (Light Mode)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/69",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
           "points": 1
         },
         {
@@ -4238,6 +4241,14 @@
           "points": 2
         },
         {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "🐞 Bug - Signup page shows “Login with” above social auth buttons",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6545",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
           "username": "manash213cyber",
           "name": null,
           "title": "Improve readability of text above Figure 4.18 in Chapter 4 docs",
@@ -4260,14 +4271,6 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/76",
           "avatar_url": "https://avatars.githubusercontent.com/u/188545053?v=4",
           "points": 2
-        },
-        {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "🐞 Bug - Signup page shows “Login with” above social auth buttons",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6545",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 1
         },
         {
           "username": "sujal-thakur01",
