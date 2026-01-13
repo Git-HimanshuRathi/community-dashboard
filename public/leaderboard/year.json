@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1768243472777,
-  "lastFetchedAt": 1768243472777,
-  "startDate": "2025-01-12",
-  "endDate": "2026-01-12",
+  "updatedAt": 1768270799458,
+  "lastFetchedAt": 1768270799458,
+  "startDate": "2025-01-13",
+  "endDate": "2026-01-13",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -1233,19 +1233,19 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 274,
+      "total_points": 277,
       "activity_breakdown": {
+        "PR opened": {
+          "count": 33,
+          "points": 66
+        },
         "Issue opened": {
-          "count": 32,
-          "points": 32
+          "count": 33,
+          "points": 33
         },
         "Review submitted": {
           "count": 32,
           "points": 128
-        },
-        "PR opened": {
-          "count": 32,
-          "points": 64
         },
         "PR merged": {
           "count": 10,
@@ -1255,8 +1255,8 @@
       "daily_activity": [
         {
           "date": "2026-01-12",
-          "count": 4,
-          "points": 13
+          "count": 6,
+          "points": 16
         },
         {
           "date": "2026-01-11",
@@ -1445,6 +1445,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T20:03:01Z",
+          "title": "Fix panel minimize/collapse not working on initial Tauri launch",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/791",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-12T20:36:25Z",
+          "title": "🐞 Bug - Verilog module does not initialize correctly on first launch in Tauri app (works after refresh)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "points": 1
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-01-12T10:15:18Z",
@@ -20548,6 +20562,49 @@
       ]
     },
     {
+      "username": "Harshitshukla0208",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/120409631?v=4",
+      "role": "Contributor",
+      "total_points": 6,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 3,
+          "points": 6
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-12",
+          "count": 3,
+          "points": 6
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T22:17:33Z",
+          "title": "fix(issue) - Address issue #6564 - Feature - add a border outline in the search bar box",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6624",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T22:15:58Z",
+          "title": "fix(issue) - Address issue #6596 - ActionView - - Template - - Error - No route matches { - action=>\"show\", - controller=>\"tags\", - tag=>\"\"}, missing required keys - - tag (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6623",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T21:26:47Z",
+          "title": "fix(issue) - Address issue #6620 - UI - Navbar appears left-aligned instead of centered",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6622",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Recxsmacx",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/175395700?v=4",
@@ -22845,6 +22902,64 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "Chait0001",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179298922?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-13",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-13T02:05:16Z",
+          "title": "docs - document generating VAPID API keys",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6625",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "31groot",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159657559?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-12",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T20:16:56Z",
+          "title": "fix - prevent crash when search query contains null byte (#6612)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6621",
+          "points": 2
         }
       ]
     },
