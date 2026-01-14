@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1768395872390,
+  "updatedAt": 1768416317838,
   "startDate": "2025-12-15",
   "endDate": "2026-01-14",
   "hiddenRoles": [],
@@ -11,11 +11,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 229,
+      "total_points": 232,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 8,
+          "points": 40
+        },
         "PR opened": {
-          "count": 17,
-          "points": 34
+          "count": 16,
+          "points": 32
         },
         "Issue opened": {
           "count": 24,
@@ -24,13 +28,14 @@
         "Review submitted": {
           "count": 34,
           "points": 136
-        },
-        "PR merged": {
-          "count": 7,
-          "points": 35
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-01-13",
           "count": 4,
@@ -92,11 +97,6 @@
           "points": 10
         },
         {
-          "date": "2025-12-15",
-          "count": 1,
-          "points": 2
-        },
-        {
           "date": "2026-01-04",
           "count": 3,
           "points": 8
@@ -123,6 +123,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-14T13:05:58Z",
+          "title": "docs - add Windows symlink and Developer Mode setup instructions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/796",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-13T18:29:56Z",
@@ -555,13 +562,6 @@
           "occured_at": "2025-12-25T18:49:24Z",
           "title": "layout bug",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/11",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-15T13:35:14Z",
-          "title": "Fix - Make iframes responsive below 650px using global CSS media query",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/462",
           "points": 2
         },
         {
@@ -1713,22 +1713,27 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
       "role": "Contributor",
-      "total_points": 98,
+      "total_points": 101,
       "activity_breakdown": {
         "PR opened": {
-          "count": 16,
-          "points": 32
+          "count": 17,
+          "points": 34
+        },
+        "Issue opened": {
+          "count": 17,
+          "points": 17
         },
         "PR merged": {
           "count": 10,
           "points": 50
-        },
-        "Issue opened": {
-          "count": 16,
-          "points": 16
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-01-13",
           "count": 4,
@@ -1821,6 +1826,20 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T17:13:37Z",
+          "title": "feat - Include all point-based activities in leaderboard sort filters",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/213",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-14T16:47:00Z",
+          "title": "Feat - Add missing leaderboard sort filters for Issue Closed and Issue Labeled activities",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/212",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-13T18:14:25Z",
@@ -3238,15 +3257,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
       "role": "Contributor",
-      "total_points": 72,
+      "total_points": 77,
       "activity_breakdown": {
+        "PR merged": {
+          "count": 8,
+          "points": 40
+        },
         "PR opened": {
           "count": 14,
           "points": 28
-        },
-        "PR merged": {
-          "count": 7,
-          "points": 35
         },
         "Issue opened": {
           "count": 9,
@@ -3254,6 +3273,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 5
+        },
         {
           "date": "2026-01-13",
           "count": 3,
@@ -3311,6 +3335,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-14T17:45:23Z",
+          "title": "feat - add fork count on repository cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/208",
+          "points": 5
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-13T17:07:19Z",
@@ -6299,6 +6330,87 @@
       ]
     },
     {
+      "username": "vivekyadav-3",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+      "role": "Contributor",
+      "total_points": 9,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-31",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-29",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-03",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2025-12-30",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T15:21:27Z",
+          "title": "fix - resolve spacing issue between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6634",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-31T06:49:55Z",
+          "title": "feat - implement server-side contribution streaks and longest streak tracking",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/55",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2025-12-29T06:43:44Z",
+          "title": "fix - improve spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-03T08:08:48Z",
+          "title": "fix - improve notification badge UI positioning and readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6550",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2025-12-30T18:24:11Z",
+          "title": "Enhancement - Add Contribution Streaks to User Profiles",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/49",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "divyanshujains",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188545053?v=4",
@@ -6458,75 +6570,6 @@
           "title": "fix - mobile layout overflow and nav overlap on small screens",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/164",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "vivekyadav-3",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-      "role": "Contributor",
-      "total_points": 7,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2025-12-31",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-29",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2026-01-03",
-          "count": 1,
-          "points": 2
-        },
-        {
-          "date": "2025-12-30",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-31T06:49:55Z",
-          "title": "feat - implement server-side contribution streaks and longest streak tracking",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/55",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2025-12-29T06:43:44Z",
-          "title": "fix - improve spacing between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6520",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-03T08:08:48Z",
-          "title": "fix - improve notification badge UI positioning and readability",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6550",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2025-12-30T18:24:11Z",
-          "title": "Enhancement - Add Contribution Streaks to User Profiles",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/49",
-          "points": 1
         }
       ]
     },
@@ -6949,6 +6992,47 @@
           "occured_at": "2026-01-07T15:43:40Z",
           "title": "Remove FIXME comments and temporary workarounds",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6580",
+          "points": 2
+        }
+      ]
+    },
+    {
+      "username": "Chait0001",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/179298922?v=4",
+      "role": "Contributor",
+      "total_points": 4,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-13",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T17:47:53Z",
+          "title": "Fix spacing between CAPTCHA and login button on login page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6635",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-13T02:05:16Z",
+          "title": "docs - document generating VAPID API keys",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6625",
           "points": 2
         }
       ]
@@ -7666,6 +7750,35 @@
       ]
     },
     {
+      "username": "vansh2308",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/110689620?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T15:44:42Z",
+          "title": "Prevent draggable elements to hide behind navbar",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/798",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Amalshaheen",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/149858542?v=4",
@@ -7719,35 +7832,6 @@
           "occured_at": "2026-01-14T07:28:22Z",
           "title": "docs - fix grammar, broken regional links, and spelling in Linux manual",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6633",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Chait0001",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/179298922?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-13",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-13T02:05:16Z",
-          "title": "docs - document generating VAPID API keys",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6625",
           "points": 2
         }
       ]
@@ -8154,6 +8238,35 @@
           "occured_at": "2026-01-12T18:15:33Z",
           "title": "UI - Navbar appears left-aligned instead of centered",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6620",
+          "points": 1
+        }
+      ]
+    },
+    {
+      "username": "aindree-2005",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+      "role": "Contributor",
+      "total_points": 1,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-14T13:44:19Z",
+          "title": "🐞 Bug - DFlipFlop simulator implements master–slave behavior while exported Verilog is edge-triggered",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/797",
           "points": 1
         }
       ]
