@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768482179018,
+  "updatedAt": 1768502995837,
   "groups": [
     [
       "2026-01-10",
@@ -839,6 +839,14 @@
           "points": 2
         },
         {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "🐞 Bug - DFlipFlop simulator implements master–slave behavior while exported Verilog is edge-triggered",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/797",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
+        },
+        {
           "username": "Chait0001",
           "name": null,
           "title": "Fix spacing between CAPTCHA and login button on login page",
@@ -869,14 +877,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6633",
           "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
           "points": 2
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "🐞 Bug - DFlipFlop simulator implements master–slave behavior while exported Verilog is edge-triggered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/797",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 1
         }
       ]
     ],
@@ -1345,22 +1345,6 @@
           "points": 1
         },
         {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "Improve tags page clear filter UI",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6618",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 2
-        },
-        {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "Tag filter state is not clearly indicated and cannot be easily cleared",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6617",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 1
-        },
-        {
           "username": "sengmonkham",
           "name": null,
           "title": "redirect logged in users to dashborad page",
@@ -1374,6 +1358,22 @@
           "title": "Redirect authenticated users to dashboard on homepage visit",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6610",
           "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+          "points": 1
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Improve tags page clear filter UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6618",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 2
+        },
+        {
+          "username": "JANVI-CHATURVEDI",
+          "name": null,
+          "title": "Tag filter state is not clearly indicated and cannot be easily cleared",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
           "points": 1
         },
         {
@@ -1838,22 +1838,6 @@
           "points": 2
         },
         {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Enable wire hover detection in global hover resolution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/775",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Wire hover highlight",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/773",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
           "username": "sengmonkham",
           "name": null,
           "title": "docs - fixed typos",
@@ -1868,6 +1852,22 @@
           "link": "https://github.com/CircuitVerse/Interactive-Book/issues/747",
           "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
           "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Enable wire hover detection in global hover resolution",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/775",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Wire hover highlight",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/773",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
         },
         {
           "username": "Sarthakkeche",
@@ -2219,20 +2219,20 @@
           "points": 1
         },
         {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "UX - Improve cursor feedback for simulator hover targets",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/749",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 2
-        },
-        {
           "username": "sengmonkham",
           "name": null,
           "title": "fix - Incorrect project name in Code of Conduct",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/492",
           "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
           "points": 5
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "UX - Improve cursor feedback for simulator hover targets",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/749",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
+          "points": 2
         },
         {
           "username": "sahu-virendra-1908",
@@ -3154,14 +3154,6 @@
           "points": 5
         },
         {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Feature - Fit view to selection in simulator toolbar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/717",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
           "username": "sengmonkham",
           "name": null,
           "title": "fix - Incorrect project name in Code of Conduct",
@@ -3175,6 +3167,14 @@
           "title": "Docs - Incorrect project name in Code of Conduct",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/491",
           "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+          "points": 1
+        },
+        {
+          "username": "yashveer-1",
+          "name": null,
+          "title": "Feature - Fit view to selection in simulator toolbar",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/717",
+          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 1
         },
         {
@@ -4134,6 +4134,78 @@
       "2026-01-15",
       [
         {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "update footer copyright year from 2025 to 2026",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/752",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "docs - update copyright year to 2026 in README",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/750",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "update footer copyright year from 2025 to 2026",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/752",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "docs - update copyright year to 2026 in README",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/750",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Update copyright year from 2025 to 2026 in website footer",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/751",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Update copyright year from 2025 to 2026 in README",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/749",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "refactor - convert Clock.js to TypeScript",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/802",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "fix(api) - handle unavailable Yosys service in Verilog simulator",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6644",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Add database indexes to improve search performance",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6643",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 2
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "Fix - N+1 query in FeaturedCircuitsController",
@@ -4148,6 +4220,14 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6640",
           "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
           "points": 2
+        },
+        {
+          "username": "sengmonkham",
+          "name": null,
+          "title": "docs - fixed typos",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/748",
+          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+          "points": 5
         },
         {
           "username": "JANVI-CHATURVEDI",
@@ -4179,6 +4259,38 @@
           "title": "🐞 Bug - Add model-level uniqueness validation for PendingInvitation email per group",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6638",
           "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
+          "points": 1
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "fix(simulator) - align D flip flop Verilog with documented latch behavior",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/801",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 2
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Add Basic (Not Priority) Encoder component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/803",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
+        },
+        {
+          "username": "MaheepTulsian",
+          "name": null,
+          "title": "OptimizedImage-Chapter1",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/504",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
+          "points": 2
+        },
+        {
+          "username": "MaheepTulsian",
+          "name": null,
+          "title": "Fix inconsistent image scaling, caption alignment, and dark mode compatibility",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/503",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
           "points": 1
         }
       ]
