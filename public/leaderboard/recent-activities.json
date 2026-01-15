@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768416317842,
+  "updatedAt": 1768443691180,
   "groups": [
     [
       "2026-01-10",
@@ -735,6 +735,14 @@
           "points": 5
         },
         {
+          "username": "naman79820",
+          "name": null,
+          "title": "Review on PR #213",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/213",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 4
+        },
+        {
           "username": "Nihal4777",
           "name": null,
           "title": "Review on PR #746",
@@ -769,6 +777,14 @@
         {
           "username": "himanshujays29",
           "name": null,
+          "title": "feat - Include all point-based activities in leaderboard sort filters",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/213",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 5
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
           "title": "Feat - Add missing leaderboard sort filters for Issue Closed and Issue Labeled activities",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/212",
           "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
@@ -781,6 +797,22 @@
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/211",
           "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "chore - remove legacy dead code files (SaveAs.js, Open.js)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/800",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "chore - remove legacy dead code files (SaveAs.js, Open.js)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/799",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
         },
         {
           "username": "Yana-do-code",
@@ -3817,155 +3849,6 @@
           "title": "UX/Enhancement - Improve Project Name input - add maxlength and update label",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
           "avatar_url": "https://avatars.githubusercontent.com/u/85290538?v=4",
-          "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-01-01",
-      [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "chore - bump aws-sdk-s3 to fix security advisory",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-          "points": 2
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "chore - bump aws-sdk-s3 to fix security advisory",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6541",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-          "points": 5
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Back button in username section shows black background on hover",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/64",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Remove unnecessary and unused imports from the codebase",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/63",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Heading and subheading use the same color in \"Our People\" section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/62",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Contribution heatmap displays wrong year and should support year switching",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/61",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Preserve scroll position",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/66",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Preserve scroll position on /people when navigating back from contributor view",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/65",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Broken navigation when opening contributor profile from /people",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/60",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Broken navigation when opening contributor profile from /people",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/59",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Add Points, PR and Issue sort options to filter menu and improve clear behavior",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/67",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Pagination fails to display active page beyond page 3 in Recent Activities section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/68",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "refactor - migrate node.js to TypeScript",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/707",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "h30s",
-          "name": null,
-          "title": "feat - Add global scroll-to-top button across all main pages",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6538",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-          "points": 2
-        },
-        {
-          "username": "manmeetsantre",
-          "name": null,
-          "title": "Add Entries-Per-Page Dropdown to Leaderboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/58",
-          "avatar_url": "https://avatars.githubusercontent.com/u/190877081?v=4",
-          "points": 1
-        },
-        {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "Show 'Continue with' on signup social auth section",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6540",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 2
-        },
-        {
-          "username": "JANVI-CHATURVEDI",
-          "name": null,
-          "title": "Signup social auth text update",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6539",
-          "avatar_url": "https://avatars.githubusercontent.com/u/170693385?v=4",
-          "points": 1
-        },
-        {
-          "username": "ssagar1999",
-          "name": null,
-          "title": "Feature Missing Dark/Light Mode Toggle on Page (Eye Comfort & Accessibility)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6537",
-          "avatar_url": "https://avatars.githubusercontent.com/u/47573854?v=4",
           "points": 1
         }
       ]
