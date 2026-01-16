@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768568526338,
+  "updatedAt": 1768589071204,
   "groups": [
     [
       "2026-01-10",
@@ -831,19 +831,19 @@
           "points": 5
         },
         {
-          "username": "vivekyadav-3",
-          "name": null,
-          "title": "fix - resolve spacing issue between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6634",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
-          "points": 2
-        },
-        {
           "username": "Mustansir-06",
           "name": null,
           "title": "docs - fix grammar, broken regional links, and spelling in Linux manual",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6633",
           "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+          "points": 2
+        },
+        {
+          "username": "vivekyadav-3",
+          "name": null,
+          "title": "fix - resolve spacing issue between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6634",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
           "points": 2
         },
         {
@@ -3854,6 +3854,123 @@
       ]
     ],
     [
+      "2026-01-16",
+      [
+        {
+          "username": "Git-HimanshuRathi",
+          "name": null,
+          "title": "Fix N+1 query in search by eager loading circuit_preview",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6649",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "update copyright year from 2025 to 2026 on About page",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/755",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Update copyright year from 2025 to 2026 on About page",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/754",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "refactor(vitest) - convert to multi-project workspace with dynamic path resolution",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/808",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "test(specs) - add vitest mocks for tauri, resizeObserver, and canvas APIs",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/807",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "senutpal",
+          "name": null,
+          "title": "fix(node) - prevent self-wire deletion in orthogonal routing",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/806",
+          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
+          "points": 2
+        },
+        {
+          "username": "sengmonkham",
+          "name": null,
+          "title": "Fix - Resolve Commontator Routing Error and Sanitize UTF-8 Input",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6648",
+          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
+          "points": 2
+        },
+        {
+          "username": "Mustansir-06",
+          "name": null,
+          "title": "docs - fix grammar, links, and formatting in setup documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+          "points": 2
+        },
+        {
+          "username": "Mustansir-06",
+          "name": null,
+          "title": "docs - fix testing commands, priority labels, and grammar in CONTRIBUTING.md",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6646",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+          "points": 2
+        },
+        {
+          "username": "Mustansir-06",
+          "name": null,
+          "title": "docs - fix Windows native commands, regional links, and grammar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6645",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+          "points": 2
+        },
+        {
+          "username": "Mustansir-06",
+          "name": null,
+          "title": "docs - fix grammar, links, and formatting in setup documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+          "points": 5
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "🐞 Bug - ROM Simulator Behavior Mismatches Verilog Export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Inconsistent use of latch vs flip-flop concepts",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/753",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
+        },
+        {
+          "username": "kiransatdive",
+          "name": null,
+          "title": "I have fix three issues #100,#150,#206",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/214",
+          "avatar_url": "https://avatars.githubusercontent.com/u/98806225?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
       "2026-01-15",
       [
         {
@@ -4023,83 +4140,6 @@
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/503",
           "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
           "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-01-16",
-      [
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "test(specs) - add vitest mocks for tauri, resizeObserver, and canvas APIs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/807",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "senutpal",
-          "name": null,
-          "title": "fix(node) - prevent self-wire deletion in orthogonal routing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/806",
-          "avatar_url": "https://avatars.githubusercontent.com/u/168703537?v=4",
-          "points": 2
-        },
-        {
-          "username": "sengmonkham",
-          "name": null,
-          "title": "Fix - Resolve Commontator Routing Error and Sanitize UTF-8 Input",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6648",
-          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix grammar, links, and formatting in setup documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix testing commands, priority labels, and grammar in CONTRIBUTING.md",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6646",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mustansir-06",
-          "name": null,
-          "title": "docs - fix Windows native commands, regional links, and grammar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6645",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-          "points": 2
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "🐞 Bug - ROM Simulator Behavior Mismatches Verilog Export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 1
-        },
-        {
-          "username": "aindree-2005",
-          "name": null,
-          "title": "Inconsistent use of latch vs flip-flop concepts",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/753",
-          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-          "points": 1
-        },
-        {
-          "username": "kiransatdive",
-          "name": null,
-          "title": "I have fix three issues #100,#150,#206",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/214",
-          "avatar_url": "https://avatars.githubusercontent.com/u/98806225?v=4",
-          "points": 2
         }
       ]
     ]
