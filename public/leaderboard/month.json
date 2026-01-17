@@ -1,6 +1,6 @@
 {
   "period": "month",
-  "updatedAt": 1768615830197,
+  "updatedAt": 1768632083885,
   "startDate": "2025-12-18",
   "endDate": "2026-01-17",
   "hiddenRoles": [],
@@ -5930,6 +5930,84 @@
       ]
     },
     {
+      "username": "Mustansir-06",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
+      "role": "Contributor",
+      "total_points": 15,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 5,
+          "points": 10
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-17",
+          "count": 1,
+          "points": 2
+        },
+        {
+          "date": "2026-01-16",
+          "count": 4,
+          "points": 11
+        },
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-17T06:40:28Z",
+          "title": "test - add unit tests for Project model view and fork logic",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6651",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-16T07:13:29Z",
+          "title": "docs - fix grammar, links, and formatting in setup documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-16T06:56:48Z",
+          "title": "docs - fix testing commands, priority labels, and grammar in CONTRIBUTING.md",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6646",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-16T06:37:18Z",
+          "title": "docs - fix Windows native commands, regional links, and grammar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6645",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-16T15:33:09Z",
+          "title": "docs - fix grammar, links, and formatting in setup documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
+          "points": 5
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T07:28:22Z",
+          "title": "docs - fix grammar, broken regional links, and spelling in Linux manual",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6633",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "madaankartik",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/188013862?v=4",
@@ -5985,72 +6063,6 @@
           "title": "fix - make leaderboard filters responsive on mobile",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/21",
           "points": 5
-        }
-      ]
-    },
-    {
-      "username": "Mustansir-06",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/210328475?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 4,
-          "points": 8
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-16",
-          "count": 4,
-          "points": 11
-        },
-        {
-          "date": "2026-01-14",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-16T07:13:29Z",
-          "title": "docs - fix grammar, links, and formatting in setup documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-16T06:56:48Z",
-          "title": "docs - fix testing commands, priority labels, and grammar in CONTRIBUTING.md",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6646",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-16T06:37:18Z",
-          "title": "docs - fix Windows native commands, regional links, and grammar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6645",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-16T15:33:09Z",
-          "title": "docs - fix grammar, links, and formatting in setup documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6647",
-          "points": 5
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-14T07:28:22Z",
-          "title": "docs - fix grammar, broken regional links, and spelling in Linux manual",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6633",
-          "points": 2
         }
       ]
     },
