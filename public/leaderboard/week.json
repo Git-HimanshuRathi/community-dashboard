@@ -1,8 +1,8 @@
 {
   "period": "week",
-  "updatedAt": 1768589071196,
-  "startDate": "2026-01-09",
-  "endDate": "2026-01-16",
+  "updatedAt": 1768615830195,
+  "startDate": "2026-01-10",
+  "endDate": "2026-01-17",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -233,11 +233,11 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
       "role": "Contributor",
-      "total_points": 58,
+      "total_points": 56,
       "activity_breakdown": {
         "PR opened": {
-          "count": 8,
-          "points": 16
+          "count": 7,
+          "points": 14
         },
         "PR merged": {
           "count": 8,
@@ -278,11 +278,6 @@
           "date": "2026-01-10",
           "count": 3,
           "points": 8
-        },
-        {
-          "date": "2026-01-09",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -403,172 +398,6 @@
           "occured_at": "2026-01-10T08:48:06Z",
           "title": "Feat - Enable click-to-copy for email address in footer",
           "link": "https://github.com/CircuitVerse/community-dashboard/issues/188",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-09T19:51:29Z",
-          "title": "fix - add Windows CI support and improve build tooling",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/752",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Atharva7126",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
-      "role": "Contributor",
-      "total_points": 48,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 9,
-          "points": 36
-        },
-        "Issue opened": {
-          "count": 3,
-          "points": 3
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-14",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-01-13",
-          "count": 5,
-          "points": 14
-        },
-        {
-          "date": "2026-01-12",
-          "count": 4,
-          "points": 15
-        },
-        {
-          "date": "2026-01-10",
-          "count": 4,
-          "points": 14
-        },
-        {
-          "date": "2026-01-09",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-14T09:21:05Z",
-          "title": "Review on PR #208",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/208",
-          "points": 4
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-13T07:55:18Z",
-          "title": "Feat - Display total fork count on repository cards",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/206",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-13T07:41:18Z",
-          "title": "UI/UX - Open repository links in a new tab",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/205",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T17:04:43Z",
-          "title": "Review on PR #196",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T12:41:07Z",
-          "title": "Review on PR #207",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/207",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T07:25:47Z",
-          "title": "Review on PR #201",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-12T10:21:37Z",
-          "title": "Feat - introduce repository-specific analytics and enhanced home dashboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-12T12:32:33Z",
-          "title": "Feat - introduce repository-specific analytics and enhanced home dashboard",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
-          "points": 5
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T15:59:23Z",
-          "title": "Review on PR #201",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T15:55:32Z",
-          "title": "Review on PR #196",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-10T09:09:43Z",
-          "title": "Feat - implement multi-view home dashboard with repository-wise metrics",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/189",
-          "points": 2
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-10T13:00:45Z",
-          "title": "Review on PR #181",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/181",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-10T09:49:39Z",
-          "title": "Review on PR #187",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-10T06:40:37Z",
-          "title": "Review on PR #181",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/181",
-          "points": 4
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-09T18:59:34Z",
-          "title": "Feat - Enhanced Home Dashboard with Repository-wise Statistics View",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/180",
           "points": 1
         }
       ]
@@ -774,6 +603,153 @@
       ]
     },
     {
+      "username": "Atharva7126",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/177391853?u=79266ed791029fdadb3001357630803bdfb93ee6&v=4",
+      "role": "Contributor",
+      "total_points": 47,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 9,
+          "points": 36
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-01-13",
+          "count": 5,
+          "points": 14
+        },
+        {
+          "date": "2026-01-12",
+          "count": 4,
+          "points": 15
+        },
+        {
+          "date": "2026-01-10",
+          "count": 4,
+          "points": 14
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-14T09:21:05Z",
+          "title": "Review on PR #208",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/208",
+          "points": 4
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-13T07:55:18Z",
+          "title": "Feat - Display total fork count on repository cards",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/206",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-13T07:41:18Z",
+          "title": "UI/UX - Open repository links in a new tab",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/205",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T17:04:43Z",
+          "title": "Review on PR #196",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T12:41:07Z",
+          "title": "Review on PR #207",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/207",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T07:25:47Z",
+          "title": "Review on PR #201",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
+          "points": 4
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T10:21:37Z",
+          "title": "Feat - introduce repository-specific analytics and enhanced home dashboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-12T12:32:33Z",
+          "title": "Feat - introduce repository-specific analytics and enhanced home dashboard",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
+          "points": 5
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T15:59:23Z",
+          "title": "Review on PR #201",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/201",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T15:55:32Z",
+          "title": "Review on PR #196",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
+          "points": 4
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-10T09:09:43Z",
+          "title": "Feat - implement multi-view home dashboard with repository-wise metrics",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/189",
+          "points": 2
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-10T13:00:45Z",
+          "title": "Review on PR #181",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/181",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-10T09:49:39Z",
+          "title": "Review on PR #187",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/187",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-10T06:40:37Z",
+          "title": "Review on PR #181",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/181",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "tachyons",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
@@ -895,15 +871,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/156829501?v=4",
       "role": "Contributor",
-      "total_points": 37,
+      "total_points": 35,
       "activity_breakdown": {
         "PR merged": {
           "count": 5,
           "points": 25
         },
         "PR opened": {
-          "count": 5,
-          "points": 10
+          "count": 4,
+          "points": 8
         },
         "Issue opened": {
           "count": 2,
@@ -930,11 +906,6 @@
           "date": "2026-01-10",
           "count": 5,
           "points": 15
-        },
-        {
-          "date": "2026-01-09",
-          "count": 1,
-          "points": 2
         }
       ],
       "activities": [
@@ -1014,13 +985,6 @@
           "title": "Chore - Remove unused banana-i18n files from v0 and v1 directories",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/758",
           "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-09T19:49:17Z",
-          "title": "mobile card uses grid card structure",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/181",
-          "points": 2
         }
       ]
     },
