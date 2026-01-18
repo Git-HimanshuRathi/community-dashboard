@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768703479051,
+  "updatedAt": 1768718533068,
   "groups": [
     [
       "2026-01-10",
@@ -3684,6 +3684,22 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/820",
           "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
           "points": 2
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Added binary multiplication and division quiz corrections",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/757",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 2
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Incorrect Pop Quiz Answers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/756",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
         },
         {
           "username": "Amalshaheen",
