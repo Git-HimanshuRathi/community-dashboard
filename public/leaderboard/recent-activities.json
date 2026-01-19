@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768761473245,
+  "updatedAt": 1768789712714,
   "groups": [
     [
       "2026-01-10",
@@ -729,6 +729,14 @@
         {
           "username": "naman79820",
           "name": null,
+          "title": "Review on PR #211",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/211",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+          "points": 4
+        },
+        {
+          "username": "naman79820",
+          "name": null,
           "title": "Review on PR #218",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/218",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
@@ -749,6 +757,14 @@
           "link": "https://github.com/CircuitVerse/Interactive-Book/pull/757",
           "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 4
+        },
+        {
+          "username": "Atharva7126",
+          "name": null,
+          "title": "Improve empty state for repository descriptions",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/220",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
+          "points": 1
         },
         {
           "username": "Atharva7126",
@@ -783,6 +799,22 @@
           "points": 5
         },
         {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Fix - Yosys2digitaljs server script failure",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "🐞 Bug - Yosys script fails to start the server",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6662",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
           "username": "Yana-do-code",
           "name": null,
           "title": "chore - make pre-commit hook scripts executable",
@@ -812,6 +844,38 @@
           "title": "Feature Request Deeplink Manager",
           "link": "https://github.com/CircuitVerse/mobile-app/issues/482",
           "avatar_url": "https://avatars.githubusercontent.com/u/71784456?v=4",
+          "points": 1
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "feat(ui) - improve Color Blind theme accessibility in CircuitVerse’s desktop (Tauri) app",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/825",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "chore - add helplink to Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/823",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "Color Blind theme still uses red/brown semantic colors, making signals indistinguishable.",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/824",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 1
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "Missing help link for Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/822",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
           "points": 1
         },
         {
@@ -2983,427 +3047,6 @@
           "title": "Improve clarity of how to contribute section",
           "link": "https://github.com/CircuitVerse/Interactive-Book/pull/746",
           "avatar_url": "https://avatars.githubusercontent.com/u/229612602?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-01-05",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "chore - sync package-lock.json with package.json",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/124",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 2
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "chore - sync package-lock.json with package.json",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/124",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 5
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🎨 Improve design for Top 3 leaderboard ranks (Gold / Silver / Bronze)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/133",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐛 Leaderboard grid view profile alignment breaks on mobile",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/132",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "UI issue in Sort By dropdown (Contributor / Maintainer section)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/123",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #107",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #131",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/131",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #130",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/130",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #127",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/127",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #125",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/125",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #122",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/122",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #122",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/122",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #115",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/115",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Review on PR #43",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/43",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Update Tauri release workflow for additional branch and paths",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/716",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-          "points": 2
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Update Tauri release workflow for additional branch and paths",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/716",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-          "points": 5
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6559",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6559",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #6557",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6557",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 4
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "Review on PR #116",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/116",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 4
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "feat - Add Review Analytics Dashboard with Maintainer Roles (#101)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/115",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Add Hardik Sachdeva to core team on About page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6559",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Added concurrency control to prevent race conditions",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/130",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Dropdown UI fix",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/125",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "package-lock.json removed from .gitignore and tsconfig.tsbuildinfo added",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/122",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Added concurrency control to prevent race conditions",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/130",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Dropdown UI fix",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/125",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "package-lock.json removed from .gitignore and tsconfig.tsbuildinfo added",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/122",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Bug (CI correctness) - Add concurrency control to prevent parallel leaderboard generation runs",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/126",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Remove package-lock.json from .gitignore to ensure reproducible builds and improve security",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/119",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Leaderboard - UI change and mobile responsiveness",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "🐞 Bug - Missing 'File' Menu options in Tauri Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/721",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 1
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "docs - add sign-up/sign-in images and clickable links to Chapter 2 (Getting Started)",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/490",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "fix(netlify) - pin Node 22 to fix Docusaurus build failure",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/493",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Improve Docs Part 2 by adding user account creation images and links",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/489",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Feature - add a border outline in the search bar box",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6564",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "fix - footer layout responsiveness on tablet and smaller screens",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/131",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "fix - modify Recent Contributions to be time sorted",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/127",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 2
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "fix - modify Recent Contributions to be time sorted",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/127",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 5
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Footer not responsive below desktop view causing empty space",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/129",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "haaasini01",
-          "name": null,
-          "title": "Recent Contributions missing for some contributor profiles",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/128",
-          "avatar_url": "https://avatars.githubusercontent.com/u/180000253?v=4",
-          "points": 1
-        },
-        {
-          "username": "SouparnaChatterjee",
-          "name": null,
-          "title": "Docs - Improve README with screenshots, badges, and features section",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/118",
-          "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
-          "points": 1
-        },
-        {
-          "username": "Ayush1169",
-          "name": null,
-          "title": "feat - add dynamic releases page with contributor recognition",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/120",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188789872?v=4",
-          "points": 2
-        },
-        {
-          "username": "Ayush1169",
-          "name": null,
-          "title": "Add search functionality to the People page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/121",
-          "avatar_url": "https://avatars.githubusercontent.com/u/188789872?v=4",
-          "points": 1
-        },
-        {
-          "username": "Abdul-Raheem324",
-          "name": null,
-          "title": "feat - add custom 404 page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/113",
-          "avatar_url": "https://avatars.githubusercontent.com/u/186626050?v=4",
-          "points": 5
-        },
-        {
-          "username": "sengmonkham",
-          "name": null,
-          "title": "fix - Incorrect project name in Code of Conduct",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/492",
-          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
-          "points": 2
-        },
-        {
-          "username": "sengmonkham",
-          "name": null,
-          "title": "Docs - Incorrect project name in Code of Conduct",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/491",
-          "avatar_url": "https://avatars.githubusercontent.com/u/157476526?v=4",
-          "points": 1
-        },
-        {
-          "username": "yashveer-1",
-          "name": null,
-          "title": "Feature - Fit view to selection in simulator toolbar",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/717",
-          "avatar_url": "https://avatars.githubusercontent.com/u/235941943?v=4",
-          "points": 1
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "feat - add import online circuit feature to vue simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/720",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 2
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "Feature - Ability to Import Online Circuits directly into Simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/719",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 1
-        },
-        {
-          "username": "star-warrior",
-          "name": null,
-          "title": "Feature -",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/718",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69752445?v=4",
-          "points": 1
-        },
-        {
-          "username": "RiyaS905",
-          "name": null,
-          "title": "Refactor Gemfile by adding and removing gems",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6566",
-          "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
-          "points": 2
-        },
-        {
-          "username": "RiyaS905",
-          "name": null,
-          "title": "Refactor devcontainer.json for improved structure",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6565",
-          "avatar_url": "https://avatars.githubusercontent.com/u/184746190?v=4",
           "points": 2
         }
       ]
