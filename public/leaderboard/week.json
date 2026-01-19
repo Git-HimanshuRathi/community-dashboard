@@ -1,184 +1,11 @@
 {
   "period": "week",
-  "updatedAt": 1768761473239,
-  "startDate": "2026-01-11",
-  "endDate": "2026-01-18",
+  "updatedAt": 1768789712706,
+  "startDate": "2026-01-12",
+  "endDate": "2026-01-19",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
-      "role": "Contributor",
-      "total_points": 48,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 8,
-          "points": 32
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
-        },
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 5,
-          "points": 5
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-18",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-01-14",
-          "count": 2,
-          "points": 9
-        },
-        {
-          "date": "2026-01-13",
-          "count": 4,
-          "points": 11
-        },
-        {
-          "date": "2026-01-12",
-          "count": 6,
-          "points": 16
-        },
-        {
-          "date": "2026-01-11",
-          "count": 4,
-          "points": 8
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-18T15:33:22Z",
-          "title": "Review on PR #218",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/218",
-          "points": 4
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-14T13:05:58Z",
-          "title": "docs - add Windows symlink and Developer Mode setup instructions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/796",
-          "points": 5
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-14T19:30:47Z",
-          "title": "Review on PR #213",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/213",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-13T18:29:56Z",
-          "title": "docs - add Windows symlink and Developer Mode setup instructions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/796",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-13T18:21:06Z",
-          "title": "🐞 Bug - Update README with clearer Windows setup instructions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/795",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T19:36:43Z",
-          "title": "Review on PR #210",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/210",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T05:07:49Z",
-          "title": "Review on PR #204",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/204",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-12T20:03:01Z",
-          "title": "Fix panel minimize/collapse not working on initial Tauri launch",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/791",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-12T20:36:25Z",
-          "title": "🐞 Bug - Verilog module does not initialize correctly on first launch in Tauri app (works after refresh)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-12T10:15:18Z",
-          "title": "🐞 Bug - UI panels and Verilog module broken on first launch in Tauri app",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/790",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T12:32:13Z",
-          "title": "Review on PR #200",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T12:29:40Z",
-          "title": "Review on PR #202",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/202",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T10:22:26Z",
-          "title": "Review on PR #198",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-11T21:23:36Z",
-          "title": "fix - remove leftover v0 build references and fix Tauri desktop build",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/782",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-11T22:20:02Z",
-          "title": "🐞 Bug - Panel minimize icons do not collapse panels in CircuitVerse Tauri app and Verilog module also behaves incorrectly",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/783",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-11T21:47:23Z",
-          "title": "🐞 Mobile View - Page Overflow on Smaller Viewports (Y-axis)",
-          "link": "https://github.com/CircuitVerse/community-dashboard/issues/199",
-          "points": 1
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-11T21:45:02Z",
-          "title": "Review on PR #184",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
-          "points": 4
-        }
-      ]
-    },
     {
       "username": "himanshujays29",
       "name": null,
@@ -368,15 +195,162 @@
       ]
     },
     {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?u=c48301089f863779d54d2227553923ff284ac6a4&v=4",
+      "role": "Contributor",
+      "total_points": 44,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 8,
+          "points": 32
+        },
+        "PR merged": {
+          "count": 1,
+          "points": 5
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 3,
+          "points": 3
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-18",
+          "count": 2,
+          "points": 8
+        },
+        {
+          "date": "2026-01-14",
+          "count": 2,
+          "points": 9
+        },
+        {
+          "date": "2026-01-13",
+          "count": 4,
+          "points": 11
+        },
+        {
+          "date": "2026-01-12",
+          "count": 6,
+          "points": 16
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-18T18:38:59Z",
+          "title": "Review on PR #211",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/211",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-18T15:33:22Z",
+          "title": "Review on PR #218",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/218",
+          "points": 4
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-14T13:05:58Z",
+          "title": "docs - add Windows symlink and Developer Mode setup instructions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/796",
+          "points": 5
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-14T19:30:47Z",
+          "title": "Review on PR #213",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/213",
+          "points": 4
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-13T18:29:56Z",
+          "title": "docs - add Windows symlink and Developer Mode setup instructions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/796",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-13T18:21:06Z",
+          "title": "🐞 Bug - Update README with clearer Windows setup instructions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/795",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T19:36:43Z",
+          "title": "Review on PR #210",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/210",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T05:07:49Z",
+          "title": "Review on PR #204",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/204",
+          "points": 4
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T20:03:01Z",
+          "title": "Fix panel minimize/collapse not working on initial Tauri launch",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/791",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-12T20:36:25Z",
+          "title": "🐞 Bug - Verilog module does not initialize correctly on first launch in Tauri app (works after refresh)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/792",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-12T10:15:18Z",
+          "title": "🐞 Bug - UI panels and Verilog module broken on first launch in Tauri app",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/790",
+          "points": 1
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T12:32:13Z",
+          "title": "Review on PR #200",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/200",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T12:29:40Z",
+          "title": "Review on PR #202",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/202",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T10:22:26Z",
+          "title": "Review on PR #198",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
+          "points": 4
+        }
+      ]
+    },
+    {
       "username": "Atharva7126",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
       "role": "Contributor",
-      "total_points": 42,
+      "total_points": 43,
       "activity_breakdown": {
         "Issue opened": {
-          "count": 3,
-          "points": 3
+          "count": 4,
+          "points": 4
         },
         "Review submitted": {
           "count": 8,
@@ -394,8 +368,8 @@
       "daily_activity": [
         {
           "date": "2026-01-18",
-          "count": 3,
-          "points": 9
+          "count": 4,
+          "points": 10
         },
         {
           "date": "2026-01-14",
@@ -414,6 +388,13 @@
         }
       ],
       "activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-18T18:37:40Z",
+          "title": "Improve empty state for repository descriptions",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/220",
+          "points": 1
+        },
         {
           "type": "Issue opened",
           "occured_at": "2026-01-18T18:25:05Z",
@@ -504,114 +485,6 @@
           "title": "Review on PR #196",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/196",
           "points": 4
-        }
-      ]
-    },
-    {
-      "username": "tachyons",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
-      "role": "Maintainer",
-      "total_points": 35,
-      "activity_breakdown": {
-        "Review submitted": {
-          "count": 4,
-          "points": 16
-        },
-        "PR opened": {
-          "count": 2,
-          "points": 4
-        },
-        "PR merged": {
-          "count": 3,
-          "points": 15
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-17",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-01-13",
-          "count": 1,
-          "points": 4
-        },
-        {
-          "date": "2026-01-12",
-          "count": 6,
-          "points": 22
-        },
-        {
-          "date": "2026-01-11",
-          "count": 1,
-          "points": 5
-        }
-      ],
-      "activities": [
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-17T07:13:28Z",
-          "title": "Review on PR #809",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/809",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-13T14:54:51Z",
-          "title": "Review on PR #6626",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6626",
-          "points": 4
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-12T06:42:54Z",
-          "title": "Improve Vue simulator integration logic",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6611",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-12T06:20:00Z",
-          "title": "Merge CSS and JS",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/788",
-          "points": 2
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-12T06:55:52Z",
-          "title": "Improve Vue simulator integration logic",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6611",
-          "points": 5
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-12T06:22:21Z",
-          "title": "Merge CSS and JS",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/788",
-          "points": 5
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T06:56:18Z",
-          "title": "Review on PR #6572",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6572",
-          "points": 4
-        },
-        {
-          "type": "Review submitted",
-          "occured_at": "2026-01-12T06:25:58Z",
-          "title": "Review on PR #550",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/550",
-          "points": 4
-        },
-        {
-          "type": "PR merged",
-          "occured_at": "2026-01-11T18:54:31Z",
-          "title": "Rewrite build setup for simpler integration workflow",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/781",
-          "points": 5
         }
       ]
     },
@@ -737,6 +610,102 @@
           "title": "fix - Clarify leaderboard update timing and fix timestamp handling",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/198",
           "points": 5
+        }
+      ]
+    },
+    {
+      "username": "tachyons",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/3112976?u=a7289671a2d228cf269bc52e064be89f13882e10&v=4",
+      "role": "Maintainer",
+      "total_points": 30,
+      "activity_breakdown": {
+        "Review submitted": {
+          "count": 4,
+          "points": 16
+        },
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "PR merged": {
+          "count": 2,
+          "points": 10
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-17",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-01-13",
+          "count": 1,
+          "points": 4
+        },
+        {
+          "date": "2026-01-12",
+          "count": 6,
+          "points": 22
+        }
+      ],
+      "activities": [
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-17T07:13:28Z",
+          "title": "Review on PR #809",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/809",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-13T14:54:51Z",
+          "title": "Review on PR #6626",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6626",
+          "points": 4
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T06:42:54Z",
+          "title": "Improve Vue simulator integration logic",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6611",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-12T06:20:00Z",
+          "title": "Merge CSS and JS",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/788",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-12T06:55:52Z",
+          "title": "Improve Vue simulator integration logic",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6611",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-01-12T06:22:21Z",
+          "title": "Merge CSS and JS",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/788",
+          "points": 5
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T06:56:18Z",
+          "title": "Review on PR #6572",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6572",
+          "points": 4
+        },
+        {
+          "type": "Review submitted",
+          "occured_at": "2026-01-12T06:25:58Z",
+          "title": "Review on PR #550",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/550",
+          "points": 4
         }
       ]
     },
@@ -1577,64 +1546,74 @@
       ]
     },
     {
-      "username": "ShinichiShi",
+      "username": "Radhikaa-chauhan",
       "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
       "role": "Contributor",
       "total_points": 9,
       "activity_breakdown": {
         "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "PR merged": {
-          "count": 1,
-          "points": 5
+          "count": 3,
+          "points": 6
         },
         "Issue opened": {
-          "count": 2,
-          "points": 2
+          "count": 3,
+          "points": 3
         }
       },
       "daily_activity": [
         {
-          "date": "2026-01-14",
-          "count": 1,
-          "points": 2
+          "date": "2026-01-18",
+          "count": 4,
+          "points": 6
         },
         {
-          "date": "2026-01-11",
-          "count": 3,
-          "points": 7
+          "date": "2026-01-17",
+          "count": 2,
+          "points": 3
         }
       ],
       "activities": [
         {
           "type": "PR opened",
-          "occured_at": "2026-01-14T11:46:50Z",
-          "title": "Feat - Add analytics page",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/211",
+          "occured_at": "2026-01-18T22:03:24Z",
+          "title": "feat(ui) - improve Color Blind theme accessibility in CircuitVerse’s desktop (Tauri) app",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/825",
           "points": 2
         },
         {
-          "type": "PR merged",
-          "occured_at": "2026-01-11T21:49:18Z",
-          "title": "Add repo label tags in the recent activities",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/184",
-          "points": 5
+          "type": "PR opened",
+          "occured_at": "2026-01-18T20:29:20Z",
+          "title": "chore - add helplink to Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/823",
+          "points": 2
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-01-11T22:59:07Z",
-          "title": "🐞 Bug - Tauri The verilog code is stuck in compile phase",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/785",
+          "occured_at": "2026-01-18T21:31:51Z",
+          "title": "Color Blind theme still uses red/brown semantic colors, making signals indistinguishable.",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/824",
           "points": 1
         },
         {
           "type": "Issue opened",
-          "occured_at": "2026-01-11T22:42:29Z",
-          "title": "🐞 Bug - Tauri The themes do not apply to verilog module",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/784",
+          "occured_at": "2026-01-18T19:51:09Z",
+          "title": "Missing help link for Two’s Complement component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/822",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-17T23:09:35Z",
+          "title": "fix(verilogDivider) - handle divide-by-zero and correct tooltip",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/819",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-17T22:43:50Z",
+          "title": "🐞 Bug - Improvements needed in verilogDivider module (edge-case handling, documentation, and node positioning)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/818",
           "points": 1
         }
       ]
@@ -1783,6 +1762,58 @@
       ]
     },
     {
+      "username": "ShinichiShi",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+      "role": "Contributor",
+      "total_points": 5,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 2,
+          "points": 4
+        },
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-18T22:07:48Z",
+          "title": "Fix - Yosys2digitaljs server script failure",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-18T21:57:14Z",
+          "title": "🐞 Bug - Yosys script fails to start the server",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6662",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-14T11:46:50Z",
+          "title": "Feat - Add analytics page",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/211",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "himanshumoral",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/187115281?v=4",
@@ -1872,46 +1903,6 @@
           "title": "docs - document generating VAPID API keys",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6625",
           "points": 2
-        }
-      ]
-    },
-    {
-      "username": "Radhikaa-chauhan",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-      "role": "Contributor",
-      "total_points": 3,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        },
-        "Issue opened": {
-          "count": 1,
-          "points": 1
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-17",
-          "count": 2,
-          "points": 3
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-17T23:09:35Z",
-          "title": "fix(verilogDivider) - handle divide-by-zero and correct tooltip",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/819",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-17T22:43:50Z",
-          "title": "🐞 Bug - Improvements needed in verilogDivider module (edge-case handling, documentation, and node positioning)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/818",
-          "points": 1
         }
       ]
     },
