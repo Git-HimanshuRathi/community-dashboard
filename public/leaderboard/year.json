@@ -1,7 +1,7 @@
 {
   "period": "year",
-  "updatedAt": 1768789712697,
-  "lastFetchedAt": 1768789712697,
+  "updatedAt": 1768805559558,
+  "lastFetchedAt": 1768805559558,
   "startDate": "2025-01-19",
   "endDate": "2026-01-19",
   "hiddenRoles": [],
@@ -18453,6 +18453,141 @@
       ]
     },
     {
+      "username": "aindree-2005",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+      "role": "Contributor",
+      "total_points": 16,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 4,
+          "points": 8
+        },
+        "Issue opened": {
+          "count": 8,
+          "points": 8
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-19",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-01-18",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-01-17",
+          "count": 3,
+          "points": 4
+        },
+        {
+          "date": "2026-01-16",
+          "count": 2,
+          "points": 2
+        },
+        {
+          "date": "2026-01-15",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-01-14",
+          "count": 1,
+          "points": 1
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-19T03:19:46Z",
+          "title": "Improved Readability for Pop Quizzes in ROM- Microcontrollers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/760",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-19T02:48:51Z",
+          "title": "Markdown Syntax Bug in ROM Microcontrollers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/759",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-18T03:17:33Z",
+          "title": "Added binary multiplication and division quiz corrections",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/757",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-18T03:04:41Z",
+          "title": "Incorrect Pop Quiz Answers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/756",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-17T14:28:25Z",
+          "title": "fix(ram) - make verilog write behavior match simulator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/817",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-17T13:51:50Z",
+          "title": "🐞 Bug - RAM Verilog export does not match simulator behavior",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/816",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-17T13:28:27Z",
+          "title": "🐞 Bug - Inconsistent flip-flop and latch semantics",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/815",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-16T11:45:11Z",
+          "title": "🐞 Bug - ROM Simulator Behavior Mismatches Verilog Export",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-16T04:11:26Z",
+          "title": "Inconsistent use of latch vs flip-flop concepts",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/753",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-15T16:34:01Z",
+          "title": "fix(simulator) - align D flip flop Verilog with documented latch behavior",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/801",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-15T17:24:34Z",
+          "title": "Add Basic (Not Priority) Encoder component",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/803",
+          "points": 1
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-14T13:44:19Z",
+          "title": "🐞 Bug - DFlipFlop simulator implements master–slave behavior while exported Verilog is edge-triggered",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/797",
+          "points": 1
+        }
+      ]
+    },
+    {
       "username": "Aakansha-Chavan",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
@@ -18981,122 +19116,6 @@
           "occured_at": "2025-12-07T13:55:48Z",
           "title": "🛑 Main Platform is down",
           "link": "https://github.com/CircuitVerse/upptime/issues/165",
-          "points": 1
-        }
-      ]
-    },
-    {
-      "username": "aindree-2005",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
-      "role": "Contributor",
-      "total_points": 13,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 3,
-          "points": 6
-        },
-        "Issue opened": {
-          "count": 7,
-          "points": 7
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-18",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-01-17",
-          "count": 3,
-          "points": 4
-        },
-        {
-          "date": "2026-01-16",
-          "count": 2,
-          "points": 2
-        },
-        {
-          "date": "2026-01-15",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-01-14",
-          "count": 1,
-          "points": 1
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-18T03:17:33Z",
-          "title": "Added binary multiplication and division quiz corrections",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/757",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-18T03:04:41Z",
-          "title": "Incorrect Pop Quiz Answers",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/756",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-17T14:28:25Z",
-          "title": "fix(ram) - make verilog write behavior match simulator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/817",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-17T13:51:50Z",
-          "title": "🐞 Bug - RAM Verilog export does not match simulator behavior",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/816",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-17T13:28:27Z",
-          "title": "🐞 Bug - Inconsistent flip-flop and latch semantics",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/815",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-16T11:45:11Z",
-          "title": "🐞 Bug - ROM Simulator Behavior Mismatches Verilog Export",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/805",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-16T04:11:26Z",
-          "title": "Inconsistent use of latch vs flip-flop concepts",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/753",
-          "points": 1
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-15T16:34:01Z",
-          "title": "fix(simulator) - align D flip flop Verilog with documented latch behavior",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/801",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-15T17:24:34Z",
-          "title": "Add Basic (Not Priority) Encoder component",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/803",
-          "points": 1
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-01-14T13:44:19Z",
-          "title": "🐞 Bug - DFlipFlop simulator implements master–slave behavior while exported Verilog is edge-triggered",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/797",
           "points": 1
         }
       ]
@@ -24339,6 +24358,35 @@
           "title": "Feature Improve Login Page UI and Password Visibility Toggle",
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/5387",
           "points": 1
+        }
+      ]
+    },
+    {
+      "username": "SAMREEN111-hash",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/184510798?v=4",
+      "role": "Contributor",
+      "total_points": 2,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-19",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-19T06:26:12Z",
+          "title": "docs - add Humans of CircuitVerse page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6664",
+          "points": 2
         }
       ]
     },

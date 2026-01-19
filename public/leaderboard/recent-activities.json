@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768789712714,
+  "updatedAt": 1768805559572,
   "groups": [
     [
       "2026-01-10",
@@ -3503,6 +3503,35 @@
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/503",
           "avatar_url": "https://avatars.githubusercontent.com/u/148813478?v=4",
           "points": 1
+        }
+      ]
+    ],
+    [
+      "2026-01-19",
+      [
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Improved Readability for Pop Quizzes in ROM- Microcontrollers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/760",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 2
+        },
+        {
+          "username": "aindree-2005",
+          "name": null,
+          "title": "Markdown Syntax Bug in ROM Microcontrollers",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/issues/759",
+          "avatar_url": "https://avatars.githubusercontent.com/u/68018372?v=4",
+          "points": 1
+        },
+        {
+          "username": "SAMREEN111-hash",
+          "name": null,
+          "title": "docs - add Humans of CircuitVerse page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6664",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184510798?v=4",
+          "points": 2
         }
       ]
     ]
