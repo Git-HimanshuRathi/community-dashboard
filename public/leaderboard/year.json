@@ -1,7 +1,7 @@
 {
   "period": "year",
-  "updatedAt": 1768875816463,
-  "lastFetchedAt": 1768875816463,
+  "updatedAt": 1768891814330,
+  "lastFetchedAt": 1768891814330,
   "startDate": "2025-01-20",
   "endDate": "2026-01-20",
   "hiddenRoles": [],
@@ -10177,15 +10177,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
       "role": "Contributor",
-      "total_points": 107,
+      "total_points": 110,
       "activity_breakdown": {
         "PR opened": {
-          "count": 19,
-          "points": 38
+          "count": 20,
+          "points": 40
         },
         "Issue opened": {
-          "count": 14,
-          "points": 14
+          "count": 15,
+          "points": 15
         },
         "PR merged": {
           "count": 11,
@@ -10193,6 +10193,11 @@
         }
       },
       "daily_activity": [
+        {
+          "date": "2026-01-20",
+          "count": 2,
+          "points": 3
+        },
         {
           "date": "2026-01-19",
           "count": 4,
@@ -10280,6 +10285,20 @@
         }
       ],
       "raw_activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-20T06:17:18Z",
+          "title": "fix - refactor analytics layout to match issue triage design",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/223",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-20T05:50:31Z",
+          "title": "Excessive right-side padding on Analytics page mobile view",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/222",
+          "points": 1
+        },
         {
           "type": "PR opened",
           "occured_at": "2026-01-19T20:06:06Z",
@@ -23787,6 +23806,51 @@
       ]
     },
     {
+      "username": "SAMREEN111-hash",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/184510798?v=4",
+      "role": "Contributor",
+      "total_points": 3,
+      "activity_breakdown": {
+        "Issue opened": {
+          "count": 1,
+          "points": 1
+        },
+        "PR opened": {
+          "count": 1,
+          "points": 2
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-01-20",
+          "count": 1,
+          "points": 1
+        },
+        {
+          "date": "2026-01-19",
+          "count": 1,
+          "points": 2
+        }
+      ],
+      "raw_activities": [
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-01-20T04:26:05Z",
+          "title": "Broken \"CircuitVerse Forum\" link in documentation footer leads to 404",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6669",
+          "points": 1
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-01-19T06:26:12Z",
+          "title": "docs - add Humans of CircuitVerse page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6664",
+          "points": 2
+        }
+      ]
+    },
+    {
       "username": "Amalshaheen",
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/149858542?v=4",
@@ -24529,35 +24593,6 @@
           "occured_at": "2026-01-20T02:03:25Z",
           "title": "fix(simulator) - trigger simulation on wire creation",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/834",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "SAMREEN111-hash",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/184510798?v=4",
-      "role": "Contributor",
-      "total_points": 2,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 1,
-          "points": 2
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-01-19",
-          "count": 1,
-          "points": 2
-        }
-      ],
-      "raw_activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-01-19T06:26:12Z",
-          "title": "docs - add Humans of CircuitVerse page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6664",
           "points": 2
         }
       ]

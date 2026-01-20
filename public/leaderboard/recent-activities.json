@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1768875816479,
+  "updatedAt": 1768891814343,
   "groups": [
     [
       "2026-01-10",
@@ -3285,6 +3285,30 @@
     [
       "2026-01-20",
       [
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "fix - refactor analytics layout to match issue triage design",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/223",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "Excessive right-side padding on Analytics page mobile view",
+          "link": "https://github.com/CircuitVerse/community-dashboard/issues/222",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 1
+        },
+        {
+          "username": "SAMREEN111-hash",
+          "name": null,
+          "title": "Broken \"CircuitVerse Forum\" link in documentation footer leads to 404",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6669",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184510798?v=4",
+          "points": 1
+        },
         {
           "username": "narang24",
           "name": null,
