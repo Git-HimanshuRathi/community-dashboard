@@ -260,9 +260,26 @@ function SummaryCard({
   icon,
 }: SummaryCardProps) {
   return (
-    <div className="flex flex-col h-full rounded-[20px] border border-zinc-200 dark:border-white/10 bg-white dark:bg-linear-to-b dark:from-zinc-900 dark:via-zinc-900 dark:to-black shadow-xl shadow-[#edfff7] dark:shadow-black/50 overflow-hidden">
-      <div className="flex flex-row items-center justify-between p-6 pb-2">
-        <p className="text-xs font-medium uppercase tracking-wider text-zinc-500 dark:text-zinc-400">
+    <div
+      className={cn(
+        "relative overflow-hidden flex flex-col justify-between h-full p-5 sm:p-6 rounded-3xl transition-all duration-500 group",
+        // Light Mode: White Glass | Dark Mode: Dark Glass
+        "bg-white/60 dark:bg-zinc-900/40",
+        "border border-zinc-200 dark:border-zinc-800/60",
+        "backdrop-blur-md shadow-sm",
+        // Hover
+        "hover:border-[#50B78B]/30 hover:shadow-[0_0_30px_-10px_rgba(80,183,139,0.15)]",
+        // Highlight logic
+        highlight &&
+        "bg-linear-to-br from-zinc-50/80 to-white/40 dark:from-zinc-900/80 dark:to-zinc-900/40 border-[#50B78B]/20"
+      )}
+    >
+      <div className="absolute top-0 right-0 -mt-8 -mr-8 w-32 h-32 bg-[#50B78B]/10 dark:bg-[#50B78B]/5 rounded-full blur-3xl pointer-events-none group-hover:bg-[#50B78B]/20 dark:group-hover:bg-[#50B78B]/10 transition-colors" />
+      <div className="absolute bottom-0 left-0 -mb-8 -ml-8 w-24 h-24 bg-blue-500/10 dark:bg-blue-500/5 rounded-full blur-2xl pointer-events-none" />
+
+      {/* Header */}
+      <div className="flex items-start justify-between relative z-10">
+        <p className="text-sm font-medium text-zinc-500 dark:text-zinc-400 group-hover:text-zinc-700 dark:group-hover:text-zinc-300 transition-colors mt-1">
           {label}
         </p>
         <div className="text-zinc-400 dark:text-zinc-600">
@@ -338,7 +355,7 @@ function RepoCard({ repo }: { repo: RepoStats }) {
           </div>
         </div>
         <p className="text-sm text-zinc-600 dark:text-zinc-400 line-clamp-2 leading-relaxed">
-          {repo.description ?? "No description"}
+          {repo.description?.trim() ? repo.description : "A CircuitVerse project repository"}
         </p>
       </div>
 
