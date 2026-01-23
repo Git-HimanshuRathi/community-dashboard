@@ -258,13 +258,9 @@ function SummaryCard({
   value,
   sub,
   icon,
-  highlight,
-  decoration,
 }: SummaryCardProps) {
-  // Keep highlight and decoration in signature for TypeScript compatibility
-  // even though we don't use them in this simplified UI
   return (
-    <div className="flex flex-col h-full rounded-[20px] border border-zinc-200 dark:border-white/10 bg-white dark:bg-linear-to-b dark:from-zinc-900 dark:via-zinc-900 dark:to-black shadow-xl shadow-[#edfff7] dark:shadow-black/50 overflow-hidden">
+    <div className="flex flex-col h-full rounded-[20px] border border-zinc-200 dark:border-white/10 bg-white dark:bg-zinc-900/40 shadow-xl shadow-[#edfff7] dark:shadow-black/50 overflow-hidden">
       <div className="flex flex-row items-center justify-between p-6 pb-2">
         <p className="text-xs font-medium uppercase tracking-wider text-zinc-500 dark:text-zinc-400">
           {label}
@@ -297,7 +293,7 @@ function SummaryCard({
 
 function RepoCard({ repo }: { repo: RepoStats }) {
   return (
-    <div className="group flex flex-col h-full bg-white dark:bg-linear-to-b dark:from-zinc-900 dark:via-zinc-900 dark:to-black border border-zinc-200 dark:border-white/10 hover:border-[#50B78B]/30 transition-all duration-300 rounded-[20px] overflow-hidden shadow-xl shadow-[#edfff7] dark:shadow-black/50">
+    <div className="group flex flex-col h-full bg-white dark:bg-zinc-900/40 border border-zinc-200 dark:border-white/10 hover:border-[#50B78B]/30 transition-all duration-300 rounded-[20px] overflow-hidden shadow-xl shadow-[#edfff7] dark:shadow-black/50">
       {/* Top Section */}
       <div className="p-5 sm:p-6 grow space-y-4">
         <div className="flex items-start justify-between gap-3 sm:gap-4">
