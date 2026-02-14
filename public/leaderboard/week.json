@@ -1,11 +1,179 @@
 {
   "period": "week",
-  "updatedAt": 1771017308794,
-  "startDate": "2026-02-06",
-  "endDate": "2026-02-13",
+  "updatedAt": 1771031630389,
+  "startDate": "2026-02-07",
+  "endDate": "2026-02-14",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
+    {
+      "username": "naman79820",
+      "name": null,
+      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+      "role": "Contributor",
+      "total_points": 41,
+      "activity_breakdown": {
+        "PR opened": {
+          "count": 10,
+          "points": 20
+        },
+        "PR merged": {
+          "count": 3,
+          "points": 15
+        },
+        "Issue opened": {
+          "count": 2,
+          "points": 2
+        },
+        "Issue labeled": {
+          "count": 2,
+          "points": 4
+        }
+      },
+      "daily_activity": [
+        {
+          "date": "2026-02-13",
+          "count": 10,
+          "points": 29
+        },
+        {
+          "date": "2026-02-12",
+          "count": 2,
+          "points": 3
+        },
+        {
+          "date": "2026-02-10",
+          "count": 3,
+          "points": 5
+        },
+        {
+          "date": "2026-02-08",
+          "count": 2,
+          "points": 4
+        }
+      ],
+      "activities": [
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T21:36:47Z",
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T21:30:21Z",
+          "title": "Ci/fix",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/261",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T21:25:24Z",
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T19:58:34Z",
+          "title": "Fix/specify pnpm version",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T19:24:02Z",
+          "title": "Avo Admin - add tag tagging and featured circuit resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6891",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T07:26:08Z",
+          "title": "Avo Admin - add tag tagging and featured circuit resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6888",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T07:13:53Z",
+          "title": "Avo Admin - add tag and featured circuit resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6887",
+          "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:36:54Z",
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:26:13Z",
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:18:04Z",
+          "title": "Fix/specify pnpm version",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
+          "points": 5
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-12T16:07:46Z",
+          "title": "Feature - Avo Admin - Add Tags & Featured Circuits resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6882",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-12T16:07:47Z",
+          "title": "Labeled issue #6882 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6882",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-10T19:58:32Z",
+          "title": "Avo Admin - Add project core resources, controllers, and policies",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6870",
+          "points": 2
+        },
+        {
+          "type": "Issue opened",
+          "occured_at": "2026-02-10T19:18:31Z",
+          "title": "Feature - Add Project core resources to Avo admin",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
+          "points": 1
+        },
+        {
+          "type": "Issue labeled",
+          "occured_at": "2026-02-10T19:18:32Z",
+          "title": "Labeled issue #6869 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-08T19:54:26Z",
+          "title": "project 5 implementation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/930",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-08T15:02:14Z",
+          "title": "Resolve v1 drag-and-drop functionality by fixing module initialization",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/929",
+          "points": 2
+        }
+      ]
+    },
     {
       "username": "Audatic07",
       "name": null,
@@ -140,128 +308,6 @@
           "occured_at": "2026-02-07T14:30:01Z",
           "title": "Labeled issue #927 - 🐞 bug",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/927",
-          "points": 2
-        }
-      ]
-    },
-    {
-      "username": "naman79820",
-      "name": null,
-      "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-      "role": "Contributor",
-      "total_points": 20,
-      "activity_breakdown": {
-        "PR opened": {
-          "count": 7,
-          "points": 14
-        },
-        "Issue opened": {
-          "count": 2,
-          "points": 2
-        },
-        "Issue labeled": {
-          "count": 2,
-          "points": 4
-        }
-      },
-      "daily_activity": [
-        {
-          "date": "2026-02-13",
-          "count": 4,
-          "points": 8
-        },
-        {
-          "date": "2026-02-12",
-          "count": 2,
-          "points": 3
-        },
-        {
-          "date": "2026-02-10",
-          "count": 3,
-          "points": 5
-        },
-        {
-          "date": "2026-02-08",
-          "count": 2,
-          "points": 4
-        }
-      ],
-      "activities": [
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T19:58:34Z",
-          "title": "Fix/specify pnpm version",
-          "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T19:24:02Z",
-          "title": "Avo Admin - add tag tagging and featured circuit resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6891",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T07:26:08Z",
-          "title": "Avo Admin - add tag tagging and featured circuit resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6888",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-13T07:13:53Z",
-          "title": "Avo Admin - add tag and featured circuit resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6887",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-12T16:07:46Z",
-          "title": "Feature - Avo Admin - Add Tags & Featured Circuits resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6882",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-12T16:07:47Z",
-          "title": "Labeled issue #6882 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6882",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-10T19:58:32Z",
-          "title": "Avo Admin - Add project core resources, controllers, and policies",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6870",
-          "points": 2
-        },
-        {
-          "type": "Issue opened",
-          "occured_at": "2026-02-10T19:18:31Z",
-          "title": "Feature - Add Project core resources to Avo admin",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
-          "points": 1
-        },
-        {
-          "type": "Issue labeled",
-          "occured_at": "2026-02-10T19:18:32Z",
-          "title": "Labeled issue #6869 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-08T19:54:26Z",
-          "title": "project 5 implementation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/930",
-          "points": 2
-        },
-        {
-          "type": "PR opened",
-          "occured_at": "2026-02-08T15:02:14Z",
-          "title": "Resolve v1 drag-and-drop functionality by fixing module initialization",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/929",
           "points": 2
         }
       ]

@@ -1,9 +1,9 @@
 {
   "period": "year",
-  "updatedAt": 1771017308784,
-  "lastFetchedAt": 1771017308784,
-  "startDate": "2025-02-13",
-  "endDate": "2026-02-13",
+  "updatedAt": 1771031630377,
+  "lastFetchedAt": 1771031630377,
+  "startDate": "2025-02-14",
+  "endDate": "2026-02-14",
   "hiddenRoles": [],
   "topByActivity": {},
   "entries": [
@@ -12,11 +12,15 @@
       "name": null,
       "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
       "role": "Contributor",
-      "total_points": 460,
+      "total_points": 481,
       "activity_breakdown": {
         "PR opened": {
-          "count": 45,
-          "points": 90
+          "count": 48,
+          "points": 96
+        },
+        "PR merged": {
+          "count": 16,
+          "points": 80
         },
         "Issue opened": {
           "count": 41,
@@ -33,17 +37,13 @@
         "Issue closed": {
           "count": 30,
           "points": 30
-        },
-        "PR merged": {
-          "count": 13,
-          "points": 65
         }
       },
       "daily_activity": [
         {
           "date": "2026-02-13",
-          "count": 4,
-          "points": 8
+          "count": 10,
+          "points": 29
         },
         {
           "date": "2026-02-12",
@@ -339,6 +339,27 @@
       "raw_activities": [
         {
           "type": "PR opened",
+          "occured_at": "2026-02-13T21:36:47Z",
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T21:30:21Z",
+          "title": "Ci/fix",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/261",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
+          "occured_at": "2026-02-13T21:25:24Z",
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "points": 2
+        },
+        {
+          "type": "PR opened",
           "occured_at": "2026-02-13T19:58:34Z",
           "title": "Fix/specify pnpm version",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
@@ -364,6 +385,27 @@
           "title": "Avo Admin - add tag and featured circuit resources",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6887",
           "points": 2
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:36:54Z",
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:26:13Z",
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "points": 5
+        },
+        {
+          "type": "PR merged",
+          "occured_at": "2026-02-13T21:18:04Z",
+          "title": "Fix/specify pnpm version",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
+          "points": 5
         },
         {
           "type": "Issue opened",

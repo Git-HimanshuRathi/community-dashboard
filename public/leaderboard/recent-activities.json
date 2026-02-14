@@ -1,9 +1,33 @@
 {
-  "updatedAt": 1771017308802,
+  "updatedAt": 1771031630397,
   "groups": [
     [
       "2026-02-13",
       [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Ci/fix",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/261",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
         {
           "username": "naman79820",
           "name": null,
@@ -35,6 +59,30 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6887",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "chore - remove unused Release/publish workflow",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/262",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "fix - change build - packages to build",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/260",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Fix/specify pnpm version",
+          "link": "https://github.com/CircuitVerse/community-dashboard/pull/259",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
         },
         {
           "username": "tachyons",
@@ -1024,259 +1072,6 @@
           "title": "fix - increase all gate embed sizes for better readability",
           "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/510",
           "avatar_url": "https://avatars.githubusercontent.com/u/217639950?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-01-31",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Fix dropdown menus remaining visible in fullscreen preview",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/832",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 5
-        },
-        {
-          "username": "ThatDeparted2061",
-          "name": null,
-          "title": "Release Pipelines with Code Signing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/636",
-          "avatar_url": "https://avatars.githubusercontent.com/u/166894150?v=4",
-          "points": 5
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #888 - Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/888",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #501",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/501",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #893",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/893",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #832",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/832",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #896 - Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/896",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #828 - 🐞 Bug - Preview Circuit fullscreen UI does not reset correctly (Web + Tauri)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/828",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #500 - 🐞 Bug - “Edit this page” links point to incorrect GitHub paths across documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/500",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 1
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Closed issue #149 - Fix and enable linter rules",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/149",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 1
-        },
-        {
-          "username": "Atharva7126",
-          "name": null,
-          "title": "deploy - add Kamal 2.0 deployment configuration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6795",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177391853?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - use release branch and PR for version bump to respect branch pro…",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/904",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?u=f98f24ea09481aadc3e9fff9a8bd93f27eea46df&v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Fix desktop release workflow failing due to protected main branch",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/903",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?u=f98f24ea09481aadc3e9fff9a8bd93f27eea46df&v=4",
-          "points": 1
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix vue v for keys",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/902",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Add test globals to eslint config",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/901",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Remove unused props variable in BooleanTable.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/900",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Use strict equality in circuit selection",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/899",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/897",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 5
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix typo in JSDoc comment - 'checkss' should be 'checks'",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/889",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 5
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Use strict equality in circuit selection",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Remove debug console.log in UserMenu.vue",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/896",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "h30s",
-          "name": null,
-          "title": "fix - resolve N+1 queries in Groups and API controllers (Ref #6722)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6796",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-          "points": 2
-        },
-        {
-          "username": "h30s",
-          "name": null,
-          "title": "Refactor - Consolidate duplicate `dec2bin` utility implementations",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/905",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183348352?v=4",
-          "points": 1
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Introduce Kamal 2.0 based deployment for CircuitVerse",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6794",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 1
-        },
-        {
-          "username": "manash213cyber",
-          "name": null,
-          "title": "fix broken 'Edit this page' link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/501",
-          "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
-          "points": 5
-        },
-        {
-          "username": "manash213cyber",
-          "name": null,
-          "title": "AND gate circuit diagram appears too small to read",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/509",
-          "avatar_url": "https://avatars.githubusercontent.com/u/249688142?v=4",
-          "points": 1
-        },
-        {
-          "username": "laky241",
-          "name": null,
-          "title": "fix - remove debug console.log from promptSave function",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6793",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181271472?v=4",
-          "points": 2
-        },
-        {
-          "username": "laky241",
-          "name": null,
-          "title": "fix - correct typo in subcircuit comments",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6792",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181271472?v=4",
-          "points": 2
-        },
-        {
-          "username": "Kritisha-Parashar",
-          "name": null,
-          "title": "ui - highlight active navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6791",
-          "avatar_url": "https://avatars.githubusercontent.com/u/160614740?v=4",
-          "points": 2
-        },
-        {
-          "username": "SantamRC",
-          "name": null,
-          "title": "Google Classroom Integration",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6797",
-          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
           "points": 2
         }
       ]
