@@ -1,6 +1,1784 @@
 {
-  "updatedAt": 1772242033793,
+  "updatedAt": 1772330222670,
   "groups": [
+    [
+      "2026-02-28",
+      [
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7068 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7068",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7069 - ActionView - - Template - - Error - PG - - DiskFull - ERROR - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7069",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7065 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7065",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7067 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7067",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7064 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7064",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7066 - ActiveRecord - - StatementInvalid - PG - - DiskFull - ERROR - could not extend file \"base/16887/16894\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7066",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7058 - Errno - - ENOSPC - No space left on device @ io_write - tmp/preview_17719954245198252.jpeg (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7058",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7056 - Errno - - ENOSPC - No space left on device - copy_file_range (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7056",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7062 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7062",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7059 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/ActiveStorage-2645825-20260225-1478963-df09ba.jpeg (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7059",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7057 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7057",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7063 - Errno - - ENOSPC - No space left on device @ dir_s_mkdir - /home/ubuntu/main/CircuitVerse/tmp/1771995456-447212002435837-0490-3151 (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7063",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7050 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7050",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7060 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/puma20260225-1478961-pr6ebc (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7060",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7051 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7051",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7061 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7061",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7047 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7047",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7044 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7044",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7048 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7048",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7040 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7040",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7045 - ActionView - - Template - - Error - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7045",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7043 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7043",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7041 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7041",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7042 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7042",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7046 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7046",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7049 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7049",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7034 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7034",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7030 - Errno - - ENOSPC - No space left on device @ io_write - /tmp/puma20260224-3671458-2jdcrx (Errno - - ENOSPC)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7030",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7035 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7035",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7036 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7036",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7037 - ActiveRecord - - ConnectionNotEstablished - safely connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7037",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7032 - RedisClient - - CommandError - MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-write...",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7032",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7031 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7031",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7033 - ActiveRecord - - StatementInvalid - safely PG - - DiskFull - ERROR - could not extend file \"base/16887/16912.3\" - No space left on device (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7033",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7038 - ActiveRecord - - ConnectionNotEstablished - connection to server on socket \"/var/run/postgresql/.s.PGSQL.5433\" failed - FATAL - could not write init file - No space left on device (ActiveRecord - - ConnectionNotEstablished)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7038",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7039 - Errno - - EPIPE - Broken pipe @ io_writev - <STDERR> (Errno - - EPIPE)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7039",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6801 - NoMethodError - undefined method `id' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6801",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6739 - Aws - - SESV2 - - Errors - - BadRequestException - Missing final '@domain' (Aws - - SESV2 - - Errors - - BadRequestException)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6739",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7016 - Feature Add Email Domain Restriction for Group Invite Links",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7016",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6802 - NoMethodError - undefined method `name' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6802",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6809 - ActionView - - MissingTemplate - Missing template simulator/edit, application/edit with { - locale=> - en, - formats=> - json, - variants=>, - handlers=> - raw, - erb, - html, - builder, - ruby, - coffee, - jbuilder}. (ActionView - - MissingTemplate)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6809",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6817 - Pundit - - NotDefinedError - unable to find policy `NilClassPolicy` for `nil` (Pundit - - NotDefinedError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6817",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6800 - Pundit - - NotDefinedError - unable to find policy `NilClassPolicy` for `nil` (Pundit - - NotDefinedError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6800",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6784 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6784",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6724 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6724",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6726 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6726",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6719 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6719",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6712 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6712",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6716 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6716",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6727 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6727",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6723 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6723",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6722 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6722",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6715 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6715",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6725 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6725",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6700 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6700",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6704 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6704",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6707 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6707",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6710 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6710",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6709 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6709",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6711 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6711",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6701 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6701",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6708 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6708",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6702 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6702",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6706 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6706",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6694 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6694",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6689 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6689",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6695 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6695",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6691 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6691",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6688 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6688",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6690 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6690",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6696 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6696",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6697 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6697",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6693 - ActionView - - Template - - Error - regexp match timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6693",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6692 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6692",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6677 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6677",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6681 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6681",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6680 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6680",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6678 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6678",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6685 - Slow DB Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6685",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6687 - Endpoint Regression",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6687",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6684 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6684",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6682 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6682",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6679 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6679",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6683 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6683",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6629 - HTTP - - ConnectionError - error reading from socket - Connection reset by peer (HTTP - - ConnectionError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6629",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6630 - HTTP - - ConnectionError - failed to connect - Connection refused - connect(2) for \"127.0.0.1\" port 3040 (HTTP - - ConnectionError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6630",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6632 - ActionView - - Template - - Error - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6632",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6665 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6665",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6596 - ActionView - - Template - - Error - No route matches { - action=>\"show\", - controller=>\"tags\", - tag=>\"\"}, missing required keys - - tag (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6596",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6594 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6594",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6676 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6676",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6605 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6605",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6612 - ArgumentError - string contains null byte (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6612",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6637 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6637",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6587 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6587",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6590 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6590",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6585 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6585",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6584 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6584",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6591 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6591",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6568 - ArgumentError - expected params - destination - to_addresses to be an Array, got class String instead. (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6568",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6586 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6586",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6581 - ActiveRecord - - StatementInvalid - PG - - ProgramLimitExceeded - ERROR - index row size 2800 exceeds btree version 4 maximum 2704 for index \"index_projects_on_slug_and_author\" (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6581",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6588 - ActiveRecord - - StatementInvalid - safely PG - - CharacterNotInRepertoire - ERROR - invalid byte sequence for encoding \"UTF8\" - 0xc0 0xa7 (ActiveRecord - - StatementInvalid)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6588",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6583 - ArgumentError - invalid value for Integer() - \"JJJ2QQQ\" (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6583",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6488 - NoMethodError - undefined method `author' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6488",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6513 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6513",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6503 - Encoding - - CompatibilityError - incompatible character encodings - UTF-16LE and UTF-8 (Encoding - - CompatibilityError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6503",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6477 - ActionView - - Template - - Error - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActionView - - Template - - Error)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6477",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6526 - ActiveRecord - - QueryCanceled - PG - - QueryCanceled - ERROR - canceling statement due to statement timeout (ActiveRecord - - QueryCanceled)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6514 - N+1 Query",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6514",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6529 - NoMethodError - undefined method `' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6529",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6512 - ArgumentError - invalid value for Integer() - \"2*if(now()=sysdate(),sleep(15),0)\" (ArgumentError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6512",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature Avo Admin - Add Contest Submissions and Voting System Resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7099 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Add documentation for Force Gate component",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/532",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Add documentation for Force Gate component",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/530",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 1
+        },
+        {
+          "username": "himanshujays29",
+          "name": null,
+          "title": "Labeled issue #530 - enhancement",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/530",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "points": 2
+        },
+        {
+          "username": "Asrani-Aman",
+          "name": null,
+          "title": "Review on PR #6466",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6466",
+          "avatar_url": "https://avatars.githubusercontent.com/u/96644946?u=0a63041bdb02009db73142160eb13f4fcd0a4209&v=4",
+          "points": 4
+        },
+        {
+          "username": "SouparnaChatterjee",
+          "name": null,
+          "title": "Docs/updates - Improve technical accuracy and clarity of Verilog documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/533",
+          "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
+          "points": 2
+        },
+        {
+          "username": "SouparnaChatterjee",
+          "name": null,
+          "title": "Improve technical accuracy and clarity of Verilog documentation",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/531",
+          "avatar_url": "https://avatars.githubusercontent.com/u/115988950?v=4",
+          "points": 1
+        },
+        {
+          "username": "vivekyadav-3",
+          "name": null,
+          "title": "fix(ci) - correct input names for actions/first-interaction in greet.yml",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7097",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+          "points": 2
+        },
+        {
+          "username": "harshitasingh108",
+          "name": null,
+          "title": "fix-homepage-lazy-loading",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7094",
+          "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
+          "points": 2
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Proof of Concept - Interactive Book Improvement",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/514",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 2
+        },
+        {
+          "username": "VineethChethula",
+          "name": null,
+          "title": "fix - align view button with project title by adding max-height (#4107)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7098",
+          "avatar_url": "https://avatars.githubusercontent.com/u/151843956?v=4",
+          "points": 2
+        },
+        {
+          "username": "vishnusairam654",
+          "name": null,
+          "title": "feat - add active state to navbar links for current page indication",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7096",
+          "avatar_url": "https://avatars.githubusercontent.com/u/154720335?v=4",
+          "points": 2
+        },
+        {
+          "username": "vishnusairam654",
+          "name": null,
+          "title": "fix - describe your change closes #6331",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7095",
+          "avatar_url": "https://avatars.githubusercontent.com/u/154720335?v=4",
+          "points": 2
+        },
+        {
+          "username": "rishi0864",
+          "name": null,
+          "title": "docs - improve README spacing for better readability",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7101",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146614889?v=4",
+          "points": 2
+        },
+        {
+          "username": "jyothiswaroopch",
+          "name": null,
+          "title": "style - fix indentation inconsistency in webpush.js.erb",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7100",
+          "avatar_url": "https://avatars.githubusercontent.com/u/120001815?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-02-22",
+      [
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Review on PR #6873",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 4
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Review on PR #6997",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6997",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 4
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6984 - 🐞 Bug - Duplicate update call in Projects API update",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6984",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6993 - 🐞 Bug - Enter Key Not Working in Header Dropdown Menus",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7004 - Typo - Incorrect word \"splitted\" used as variable names in groups controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7004",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6986 - 🐞 Bug - Time API inconsistency in AssignmentDecorator",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6986",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #7002 - Typo - 'country' misspelled in variable name `geo_contry` in UsersCircuitverseHelper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7002",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #526 - docs - update youtube channel link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/526",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6985 - 🐞 Bug - Assignment deadline race window closes early",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6985",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6998 - 🐞 Bug - Outdated URL for Youtube",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6998",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6988 - 🐞 Bug - Educational institute typeahead LIKE wildcard bypass",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6988",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6983 - 🐞 Bug - Duplicate update call in Groups API update",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6983",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6974 - docs - fix explicity typo in friendly_id initializer comment",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6974",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6982 - 🐞 Bug - Duplicate save call in Groups API create",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6982",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6975 - bug - assignments API update performs duplicate update calls",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6975",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #967 - docs - clarify how to switch back to v0 after setting v1",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/967",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #961 - docs - fix shortcuts typo in quick button labels",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/961",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #962 - docs - fix transparent typo in save function comments",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/962",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6971 - docs - fix simulator/dependencies typos in Dockerfile.production",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6971",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #964 - docs - fix implement typo in auth store TODO comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/964",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6961 - docs - fix announcement heading typo in locale",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6961",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #958 - docs - fix preferred typo in hotkey panel comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/958",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6967 - test - fix signed-in wording typo in projects controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6967",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6963 - test - fix callback description typo in pending invitation spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6963",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6969 - test - fix simulator context wording typo in controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6969",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #954 - docs - fix information typo in simulator handler comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/954",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #956 - docs - fix shortcut spelling in hotkey binder documentation",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/956",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6958 - test - fix typo strings in search controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6958",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6965 - test - fix signed-in wording typo in grades controller spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6965",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #952 - docs - fix toggle typo in simulator stylesheet comment",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/952",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6944 - docs - update outdated ruby version in docs setup guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6944",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6942 - docs - fix incorrect deadline description in assignments api table",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6942",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6946 - docs - fix restart instruction grammar in docker guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6946",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6954 - test - fix additon typo in projects index request spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6954",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6938 - docs - fix grammar in troubleshooting guide solution text",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6938",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6952 - docs - fix typo text in simulator mobile and quick menu labels",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6952",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6956 - test - fix reponse typo in simulator post issue spec",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6956",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6940 - docs - replace atleast with at least in installation guides",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6940",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6950 - fix - correct separator typo in api pagination helper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6950",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6948 - docs - fix restart instruction grammar in remote development guide",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6948",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6926 - bug - assignment update email does not render mentor name",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6926",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6930 - docs - fix url query parameters heading typo in assignments api docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6930",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6924 - bug - group invite errors use inconsistent url capitalization",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6924",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6932 - docs - fix grammar in assignments start endpoint description",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6932",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6896 - 🐞 Bug - User Enumeration via Authentication API Endpoints",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6896",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6934 - docs - fix typo in groups api response note",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6934",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6921 - feat - Add domain-based access restriction for group invitations",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6921",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6936 - docs - fix delete group exception description in groups api docs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6936",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6928 - bug - featured circuit email uses incorrect grammar",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6928",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6916 - Feature Add dark mode support for simulator canvas and UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6798 - NoMethodError - undefined method `' for nil (NoMethodError)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6798",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6871 - Feature Add Users-related Resources to Avo Dashboard",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6871",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #6869 - Feature - Add Project core resources to Avo admin",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Avo Admin - Add project core resources, controllers",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6870",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 5
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Closed issue #753 - 📦 Feat - Publish GitHub Releases for version tracking",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Review on PR #931",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/931",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "points": 4
+        },
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Closed issue #972 - 🐞 Bug - Tooltip misalignment in Elements Panel when panel position changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/972",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
+          "points": 1
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Review on PR #6803",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "points": 4
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Review on PR #6900",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "points": 4
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Review on PR #758",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/758",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "points": 4
+        },
+        {
+          "username": "JatsuAkaYashvant",
+          "name": null,
+          "title": "Closed issue #928 - 🐞 Bug - \"Download as Image\" Modal inconsistency issues",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/928",
+          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Feat - Add users-related resources to avo",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 5
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Labeled issue #753 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Closed issue #701 - Feature - Add confirmation dialog before clearing Vue simulator canvas",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/701",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Labeled issue #712 - ux-review",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Labeled issue #735 - ux-review",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/735",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Labeled issue #634 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/634",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Closed issue #679 - 🐞 Bug - Signup Page UI/UX Issue – Misaligned reCAPTCHA, Poor Spacing, Visual Inconsistency",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/679",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 1
+        },
+        {
+          "username": "ShinichiShi",
+          "name": null,
+          "title": "Labeled issue #613 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/613",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
+          "points": 2
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "fix(auth) - prevent user enumeration in login and forgot password APIs",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6897",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 5
+        },
+        {
+          "username": "Me-Priyank",
+          "name": null,
+          "title": "fix - add missing authorization to grades CSV export",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6812",
+          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
+          "points": 5
+        },
+        {
+          "username": "Yana-do-code",
+          "name": null,
+          "title": "Fix - Rack Attack crash when user params are missing",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
+          "points": 5
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "docs - clarify resetting VITE_SIM_VERSION to return to v0",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/970",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 5
+        },
+        {
+          "username": "Audatic07",
+          "name": null,
+          "title": "feat - added download notif on both web and tauri versions",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/977",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
+          "points": 2
+        },
+        {
+          "username": "Audatic07",
+          "name": null,
+          "title": "Feat - Added notification feedback when using Export as File",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/976",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
+          "points": 2
+        },
+        {
+          "username": "Audatic07",
+          "name": null,
+          "title": "Feature - Feedback notification popup when completing Export as File",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
+          "points": 1
+        },
+        {
+          "username": "Audatic07",
+          "name": null,
+          "title": "Labeled issue #975 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
+          "points": 2
+        },
+        {
+          "username": "Audatic07",
+          "name": null,
+          "title": "Labeled issue #975 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
+          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "fix - correct splitted typo to split in groups controller",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7005",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 5
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "fix - correct geo_contry typo to geo_country in users helper",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7003",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 5
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "fix - make header dropdown menus keyboard accessible with Enter/Space",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7001",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 5
+        },
+        {
+          "username": "hanzalahwaheed",
+          "name": null,
+          "title": "fix - update cv youtbe url to correct handle i.e. @circuitverse-official",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6999",
+          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
+          "points": 5
+        },
+        {
+          "username": "hanzalahwaheed",
+          "name": null,
+          "title": "Update CircuitVerse YouTube Channel link",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/527",
+          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
+          "points": 5
+        },
+        {
+          "username": "harshitasingh108",
+          "name": null,
+          "title": "Fix spacing between CAPTCHA and login button",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7011",
+          "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
+          "points": 2
+        },
+        {
+          "username": "Prathamesh0901",
+          "name": null,
+          "title": "fix - tooltip misalignment in Elements Panel when panel position changes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/973",
+          "avatar_url": "https://avatars.githubusercontent.com/u/134224065?v=4",
+          "points": 5
+        },
+        {
+          "username": "Vipeen-Kumar",
+          "name": null,
+          "title": "Fix - Remove hardcoded placeholder text in test bench UI (#7007)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7008",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
+          "points": 2
+        },
+        {
+          "username": "Vipeen-Kumar",
+          "name": null,
+          "title": "🐞 Bug Hardcoded \"placeholder\" text visible in test bench UI",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
+          "points": 1
+        },
+        {
+          "username": "Vipeen-Kumar",
+          "name": null,
+          "title": "Labeled issue #7007 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
+          "points": 2
+        },
+        {
+          "username": "devanshu0x",
+          "name": null,
+          "title": "fix - resolve bundler version mismatch and docker port collisions",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7013",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
+          "points": 2
+        },
+        {
+          "username": "devanshu0x",
+          "name": null,
+          "title": "🐞 Bug Docker setup is not working locally",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7012",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
+          "points": 1
+        },
+        {
+          "username": "devanshu0x",
+          "name": null,
+          "title": "Labeled issue #7012 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7012",
+          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
+          "points": 2
+        },
+        {
+          "username": "07mastermind",
+          "name": null,
+          "title": "Fix punctuation and wording in README.md CircuitVerse",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7010",
+          "avatar_url": "https://avatars.githubusercontent.com/u/210236601?v=4",
+          "points": 2
+        },
+        {
+          "username": "makx-dev",
+          "name": null,
+          "title": "docs - clarify purpose of vite.config.ts",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7009",
+          "avatar_url": "https://avatars.githubusercontent.com/u/220405053?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-02-27",
       [
@@ -662,755 +2440,6 @@
       ]
     ],
     [
-      "2026-02-22",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Avo Admin - Add project core resources, controllers",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6870",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 5
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Closed issue #753 - 📦 Feat - Publish GitHub Releases for version tracking",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6873",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6997",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6997",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6984 - 🐞 Bug - Duplicate update call in Projects API update",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6984",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6993 - 🐞 Bug - Enter Key Not Working in Header Dropdown Menus",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6993",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #7004 - Typo - Incorrect word \"splitted\" used as variable names in groups controller",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7004",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6986 - 🐞 Bug - Time API inconsistency in AssignmentDecorator",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6986",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #7002 - Typo - 'country' misspelled in variable name `geo_contry` in UsersCircuitverseHelper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7002",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #526 - docs - update youtube channel link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/issues/526",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6985 - 🐞 Bug - Assignment deadline race window closes early",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6985",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6998 - 🐞 Bug - Outdated URL for Youtube",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6998",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6988 - 🐞 Bug - Educational institute typeahead LIKE wildcard bypass",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6988",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6983 - 🐞 Bug - Duplicate update call in Groups API update",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6983",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6974 - docs - fix explicity typo in friendly_id initializer comment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6974",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6982 - 🐞 Bug - Duplicate save call in Groups API create",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6982",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6975 - bug - assignments API update performs duplicate update calls",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6975",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #967 - docs - clarify how to switch back to v0 after setting v1",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/967",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #961 - docs - fix shortcuts typo in quick button labels",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/961",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #962 - docs - fix transparent typo in save function comments",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/962",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6971 - docs - fix simulator/dependencies typos in Dockerfile.production",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6971",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #964 - docs - fix implement typo in auth store TODO comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/964",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6961 - docs - fix announcement heading typo in locale",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6961",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #958 - docs - fix preferred typo in hotkey panel comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/958",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6967 - test - fix signed-in wording typo in projects controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6967",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6963 - test - fix callback description typo in pending invitation spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6963",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6969 - test - fix simulator context wording typo in controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6969",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #954 - docs - fix information typo in simulator handler comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/954",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #956 - docs - fix shortcut spelling in hotkey binder documentation",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/956",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6958 - test - fix typo strings in search controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6958",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6965 - test - fix signed-in wording typo in grades controller spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6965",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #952 - docs - fix toggle typo in simulator stylesheet comment",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/952",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6944 - docs - update outdated ruby version in docs setup guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6944",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6942 - docs - fix incorrect deadline description in assignments api table",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6942",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6946 - docs - fix restart instruction grammar in docker guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6946",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6954 - test - fix additon typo in projects index request spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6954",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6938 - docs - fix grammar in troubleshooting guide solution text",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6938",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6952 - docs - fix typo text in simulator mobile and quick menu labels",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6952",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6956 - test - fix reponse typo in simulator post issue spec",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6956",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6940 - docs - replace atleast with at least in installation guides",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6940",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6950 - fix - correct separator typo in api pagination helper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6950",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6948 - docs - fix restart instruction grammar in remote development guide",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6948",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6926 - bug - assignment update email does not render mentor name",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6926",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6930 - docs - fix url query parameters heading typo in assignments api docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6930",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6924 - bug - group invite errors use inconsistent url capitalization",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6924",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6932 - docs - fix grammar in assignments start endpoint description",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6932",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6896 - 🐞 Bug - User Enumeration via Authentication API Endpoints",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6896",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6934 - docs - fix typo in groups api response note",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6934",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6921 - feat - Add domain-based access restriction for group invitations",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6921",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6936 - docs - fix delete group exception description in groups api docs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6936",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6928 - bug - featured circuit email uses incorrect grammar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6928",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6916 - Feature Add dark mode support for simulator canvas and UI",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6916",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6798 - NoMethodError - undefined method `' for nil (NoMethodError)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6798",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6871 - Feature Add Users-related Resources to Avo Dashboard",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6871",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6869 - Feature - Add Project core resources to Avo admin",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6869",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #931",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/931",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #972 - 🐞 Bug - Tooltip misalignment in Elements Panel when panel position changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/972",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 1
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #6803",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #6900",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #758",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/758",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Closed issue #928 - 🐞 Bug - \"Download as Image\" Modal inconsistency issues",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/928",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?u=cc4172c883c25226bcae3cfe615e81f336f8e4cf&v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Feat - Add users-related resources to avo",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6873",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #753 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/753",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Closed issue #701 - Feature - Add confirmation dialog before clearing Vue simulator canvas",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/701",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #712 - ux-review",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/712",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #735 - ux-review",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/735",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #634 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/634",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Closed issue #679 - 🐞 Bug - Signup Page UI/UX Issue – Misaligned reCAPTCHA, Poor Spacing, Visual Inconsistency",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/679",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #613 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/613",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "fix(auth) - prevent user enumeration in login and forgot password APIs",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6897",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "fix - add missing authorization to grades CSV export",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6812",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Fix - Rack Attack crash when user params are missing",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6803",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 5
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "docs - clarify resetting VITE_SIM_VERSION to return to v0",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/970",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 5
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "feat - added download notif on both web and tauri versions",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/977",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 2
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "Feat - Added notification feedback when using Export as File",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/976",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 2
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "Feature - Feedback notification popup when completing Export as File",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 1
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "Labeled issue #975 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 2
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "Labeled issue #975 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/975",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "fix - correct splitted typo to split in groups controller",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7005",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 5
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "fix - correct geo_contry typo to geo_country in users helper",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7003",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 5
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "fix - make header dropdown menus keyboard accessible with Enter/Space",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7001",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 5
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "fix - update cv youtbe url to correct handle i.e. @circuitverse-official",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6999",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 5
-        },
-        {
-          "username": "hanzalahwaheed",
-          "name": null,
-          "title": "Update CircuitVerse YouTube Channel link",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/527",
-          "avatar_url": "https://avatars.githubusercontent.com/u/101456741?v=4",
-          "points": 5
-        },
-        {
-          "username": "Prathamesh0901",
-          "name": null,
-          "title": "fix - tooltip misalignment in Elements Panel when panel position changes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/973",
-          "avatar_url": "https://avatars.githubusercontent.com/u/134224065?v=4",
-          "points": 5
-        },
-        {
-          "username": "harshitasingh108",
-          "name": null,
-          "title": "Fix spacing between CAPTCHA and login button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7011",
-          "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
-          "points": 2
-        },
-        {
-          "username": "Vipeen-Kumar",
-          "name": null,
-          "title": "Fix - Remove hardcoded placeholder text in test bench UI (#7007)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7008",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
-          "points": 2
-        },
-        {
-          "username": "Vipeen-Kumar",
-          "name": null,
-          "title": "🐞 Bug Hardcoded \"placeholder\" text visible in test bench UI",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7007",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
-          "points": 1
-        },
-        {
-          "username": "Vipeen-Kumar",
-          "name": null,
-          "title": "Labeled issue #7007 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7007",
-          "avatar_url": "https://avatars.githubusercontent.com/u/185608141?v=4",
-          "points": 2
-        },
-        {
-          "username": "devanshu0x",
-          "name": null,
-          "title": "fix - resolve bundler version mismatch and docker port collisions",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7013",
-          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
-          "points": 2
-        },
-        {
-          "username": "devanshu0x",
-          "name": null,
-          "title": "🐞 Bug Docker setup is not working locally",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7012",
-          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
-          "points": 1
-        },
-        {
-          "username": "devanshu0x",
-          "name": null,
-          "title": "Labeled issue #7012 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7012",
-          "avatar_url": "https://avatars.githubusercontent.com/u/184936933?v=4",
-          "points": 2
-        },
-        {
-          "username": "07mastermind",
-          "name": null,
-          "title": "Fix punctuation and wording in README.md CircuitVerse",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7010",
-          "avatar_url": "https://avatars.githubusercontent.com/u/210236601?v=4",
-          "points": 2
-        },
-        {
-          "username": "makx-dev",
-          "name": null,
-          "title": "docs - clarify purpose of vite.config.ts",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7009",
-          "avatar_url": "https://avatars.githubusercontent.com/u/220405053?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
       "2026-02-19",
       [
         {
@@ -1696,491 +2725,6 @@
           "title": "fix - Handle missing leaderboard JSON gracefully instead of crashing",
           "link": "https://github.com/CircuitVerse/community-dashboard/pull/263",
           "avatar_url": "https://avatars.githubusercontent.com/u/143695640?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-02-15",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐞 Bug - Fix npm install failing due to Vuetify dependency conflict",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/779",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 5
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐞 Bug - Navbar menu Help not redirecting to external pages in Desktop App",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/949",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "🐞 Bug - Help button in Properties panel not redirecting to documentation page (Desktop app)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/948",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #949 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/949",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #948 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/948",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6296",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6296",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6845",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6663",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Review on PR #6843",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6843",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 4
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6889 - 🐞 Bug - Broken LMS Integration Documentation Link on New Assignment Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6889",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6844 - 🐞 Bug - Navbar menu items are unreachable in mobile landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6844",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #903 - Fix desktop release workflow failing due to protected main branch",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/903",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6779 - Feature UI Enhancement - Remove underline decoration on Contest registration button",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6779",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6686 - N+1 Query",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6686",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6662 - 🐞 Bug - Yosys script fails to start the server",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6662",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #776 - 🐞 Bug - npm install fails due to Vuetify / vite-plugin-vuetify dependency conflict",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/776",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #6295 - 🐞 Bug - comments Inappropriate message when user not logged in",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6295",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Review on PR #938",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/938",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 4
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #937 - 🐞 Bug - Help button for RGB LED Matrix missing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/937",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?v=4",
-          "points": 1
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Feature/admin ban system",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6910",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix(groups) - Fix params.expect error in promote/demote member modals",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6909",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "feat - Add user reporting system",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6908",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - Add popperjs/core require before bootstrap in sprockets",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6907",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "feat - add Kamal 2.0 deployment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6899",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 2
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "fix - use release branch and PR for version bump to respect branch pro…",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/904",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Fix Active Storage N+1 query by eager loading circuit_preview attachment",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6699",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Fix - Yosys2digitaljs server script failure",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6663",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "fix - add popup text if user not logged in",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6296",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "fix - correct broken helplink URL in Output module",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/940",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "feat - Replace yosys2digitaljs microservice with vendored Ruby gem",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6757",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 5
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "🐞 Bug - Output Module Help Link Redirects to Introduction Page",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/939",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 1
-        },
-        {
-          "username": "Me-Priyank",
-          "name": null,
-          "title": "Labeled issue #939 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/939",
-          "avatar_url": "https://avatars.githubusercontent.com/u/143987856?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Fix broken LMS integration documentation link on New Assignment page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6890",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 5
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "ui - horizontal rule correction in groups",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6900",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "🐞 Bug - Horizontal rule incorrectly separates section content (Mentors description appears under Members)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 1
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Labeled issue #6898 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Labeled issue #6898 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Yana-do-code",
-          "name": null,
-          "title": "Labeled issue #6898 - ui",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173885830?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "docs(wsl) - fix Redis and PostgreSQL commands for WSL setup",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6476",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 5
-        },
-        {
-          "username": "Audatic07",
-          "name": null,
-          "title": "Fix - Added help button to RGB LED matrix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/938",
-          "avatar_url": "https://avatars.githubusercontent.com/u/167913271?v=4",
-          "points": 5
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "UI - Hide scrollbar and enable landscape scrolling in navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6904",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "Fix - Allow vertical scrolling in collapsed navbar for landscape mode",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6845",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 5
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "style - remove underline from buttons in Contest sections",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6780",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 5
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "🐞 Bug/UX - Hide scrollbar while enabling vertical scroll in mobile navbar",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 1
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "Labeled issue #6903 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "Labeled issue #6903 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6903",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Vaishnavi-star-ai",
-          "name": null,
-          "title": "🐞 Bug - Homepage - Incorrect <label for> association in search filter (Accessibility issue)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6905",
-          "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
-          "points": 1
-        },
-        {
-          "username": "Vaishnavi-star-ai",
-          "name": null,
-          "title": "Labeled issue #6905 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6905",
-          "avatar_url": "https://avatars.githubusercontent.com/u/182395161?v=4",
-          "points": 2
-        },
-        {
-          "username": "fasiho7",
-          "name": null,
-          "title": "Feature/hide panels view options",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6912",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181547265?v=4",
-          "points": 2
-        },
-        {
-          "username": "fasiho7",
-          "name": null,
-          "title": "Feature/comprehensive circuit documentation",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6911",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181547265?v=4",
-          "points": 2
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "fix - improve node deletion logic reliability",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/946",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 2
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "Fix/Replace Temporary `removeBugNodes` Function with Proper Solution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/944",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 2
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "fix - prevent clock timer and clock enable crash with debouncing",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/942",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 2
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "🐞 Bug - Fix Potential Bug in Node Deletion Logic",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/945",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 1
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "Replace Temporary `removeBugNodes` Function with Proper Solution",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/943",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 1
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "🐞 Bug - Fix Clock Timer and Clock Enable Crash in Project Properties Panel",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/941",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 1
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "Labeled issue #941 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/941",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 2
-        },
-        {
-          "username": "subhamkumarr",
-          "name": null,
-          "title": "Labeled issue #945 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/945",
-          "avatar_url": "https://avatars.githubusercontent.com/u/99977240?v=4",
-          "points": 2
-        },
-        {
-          "username": "Mahaboobunnisa123",
-          "name": null,
-          "title": "Fix footer social icons responsiveness on tablet screens for the issue #6658",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6902",
-          "avatar_url": "https://avatars.githubusercontent.com/u/179287447?v=4",
-          "points": 2
-        },
-        {
-          "username": "Pravinghodake153",
-          "name": null,
-          "title": "Fix partially highlighted text in Help dropdown (#2919)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/6901",
-          "avatar_url": "https://avatars.githubusercontent.com/u/206185204?v=4",
           "points": 2
         }
       ]
@@ -3465,14 +4009,6 @@
           "points": 2
         },
         {
-          "username": "Prince-ES",
-          "name": null,
-          "title": "Fixed typos in Docs",
-          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/765",
-          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
-          "points": 2
-        },
-        {
           "username": "vivekyadav-3",
           "name": null,
           "title": "fix - logo now redirects to main circuitverse.org domain (#6437)",
@@ -3486,6 +4022,14 @@
           "title": "fix - make header navigation accessible for keyboard users",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7000",
           "avatar_url": "https://avatars.githubusercontent.com/u/210567772?v=4",
+          "points": 2
+        },
+        {
+          "username": "Prince-ES",
+          "name": null,
+          "title": "Fixed typos in Docs",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/765",
+          "avatar_url": "https://avatars.githubusercontent.com/u/173123079?v=4",
           "points": 2
         },
         {
