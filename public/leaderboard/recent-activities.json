@@ -1,17 +1,216 @@
 {
-  "updatedAt": 1773193393328,
+  "updatedAt": 1773366410299,
   "groups": [
+    [
+      "2026-03-12",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "feat(avo) - Add custom dashboard with admin statistics and metrics",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7154",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Fix - Deprecated Dependencies Upgraded to Latest Compatible Versions (Android)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/530",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 2
+        },
+        {
+          "username": "SantamRC",
+          "name": null,
+          "title": "Proof of Concept - Added Structured JSON API Endpoint to be used by Flutter App",
+          "link": "https://github.com/CircuitVerse/Interactive-Book/pull/766",
+          "avatar_url": "https://avatars.githubusercontent.com/u/52635773?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-03-11",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature - Avo Admin - Add custom dashboard",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7152",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7152 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7152",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Feature/offline support",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/529",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 2
+        },
+        {
+          "username": "hiraljj05",
+          "name": null,
+          "title": "Add Offline Reading Support for Interactive Books",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/528",
+          "avatar_url": "https://avatars.githubusercontent.com/u/212759472?v=4",
+          "points": 1
+        },
+        {
+          "username": "mundele2004",
+          "name": null,
+          "title": "Fix windows lint script",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1024",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "points": 2
+        },
+        {
+          "username": "lahari936",
+          "name": null,
+          "title": "fix - change display of subscribed to mails from true/false to yes/no",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/527",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183959424?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-03-09",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "feat(avo) - Add ActiveStorage resources (Blob, Attachment, VariantRecord)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7145",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "mundele2004",
+          "name": null,
+          "title": "Make simulator API base configurable",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1016",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "points": 2
+        },
+        {
+          "username": "mundele2004",
+          "name": null,
+          "title": "🐞 Bug - Route-agnostic mounting breaks API requests (hard-coded /api/...)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "points": 1
+        },
+        {
+          "username": "mundele2004",
+          "name": null,
+          "title": "Labeled issue #1015 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
+          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "points": 2
+        },
+        {
+          "username": "Omkar-Wagholikar",
+          "name": null,
+          "title": "refactor - use guard clause style for redirect",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7147",
+          "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
+          "points": 2
+        },
+        {
+          "username": "solanki505",
+          "name": null,
+          "title": "Feature Add preloader animation while the homepage loads",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
+          "points": 1
+        },
+        {
+          "username": "solanki505",
+          "name": null,
+          "title": "🐞 Bug Fix favicon not loading in browser tab",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
+          "points": 1
+        },
+        {
+          "username": "solanki505",
+          "name": null,
+          "title": "Labeled issue #7144 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
+          "points": 2
+        },
+        {
+          "username": "solanki505",
+          "name": null,
+          "title": "Labeled issue #7144 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
+          "points": 2
+        },
+        {
+          "username": "solanki505",
+          "name": null,
+          "title": "Labeled issue #7143 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7143",
+          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
+          "points": 2
+        },
+        {
+          "username": "Shweta-Singh30",
+          "name": null,
+          "title": "DEPRECATION - action_cable.js renamed to actioncable.js",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7149",
+          "avatar_url": "https://avatars.githubusercontent.com/u/150477892?v=4",
+          "points": 1
+        },
+        {
+          "username": "Shweta-Singh30",
+          "name": null,
+          "title": "Labeled issue #7149 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7149",
+          "avatar_url": "https://avatars.githubusercontent.com/u/150477892?v=4",
+          "points": 2
+        },
+        {
+          "username": "hridyasadanand",
+          "name": null,
+          "title": "Fix race condition in Project#toggle_star",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7146",
+          "avatar_url": "https://avatars.githubusercontent.com/u/84580702?v=4",
+          "points": 2
+        },
+        {
+          "username": "lamechtenny",
+          "name": null,
+          "title": "🐞 Bug - LOADING NON STOP (INFINITE LOADING)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69479491?v=4",
+          "points": 1
+        },
+        {
+          "username": "lamechtenny",
+          "name": null,
+          "title": "Labeled issue #7142 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7142",
+          "avatar_url": "https://avatars.githubusercontent.com/u/69479491?v=4",
+          "points": 2
+        }
+      ]
+    ],
     [
       "2026-03-08",
       [
-        {
-          "username": "tachyons",
-          "name": null,
-          "title": "Closed issue #1007 - fix - consolidate typo fixes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
-          "points": 1
-        },
         {
           "username": "naman79820",
           "name": null,
@@ -19,6 +218,14 @@
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/991",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #1007 - fix - consolidate typo fixes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
         },
         {
           "username": "Nihal4777",
@@ -183,16 +390,117 @@
       ]
     ],
     [
-      "2026-03-06",
+      "2026-03-07",
       [
         {
-          "username": "tachyons",
+          "username": "naman79820",
           "name": null,
-          "title": "Closed issue #748 - Update TestBench Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/748",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "title": "Resolve v1 drag-and-drop functionality by fixing module initialization",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1006",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #1007 - issue-metadata-needs-fix",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "Nihal4777",
+          "name": null,
+          "title": "Closed issue #886 - Remove debug console.log statements from production code",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
+          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
           "points": 1
         },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "feat(verilog) - Add Verilog output terminal in v1 and improve visibility with close button",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1004",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
+        },
+        {
+          "username": "Radhikaa-chauhan",
+          "name": null,
+          "title": "Labeled issue #1003 - issue-metadata-needs-fix",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1003",
+          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Add condition to skip build on specific PRs",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1008",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 2
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "Fix - Tauri DMG Build Failure on macOS aarch64 (Apple Silicon)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1009",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "s1dhu98",
+          "name": null,
+          "title": "PR #900 - Ensure template compliance and resolve conflicts",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1003",
+          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
+          "points": 1
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "fix - consolidate typo fixes",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 1
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Feature - Add JSON preview and copy to clipboard in Export as .cv File dialog",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 1
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Labeled issue #1005 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 2
+        },
+        {
+          "username": "Harkeerat24",
+          "name": null,
+          "title": "Labeled issue #1005 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
+          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
+          "points": 2
+        },
+        {
+          "username": "misscode323",
+          "name": null,
+          "title": ",",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1002",
+          "avatar_url": "https://avatars.githubusercontent.com/u/266264142?v=4",
+          "points": 1
+        }
+      ]
+    ],
+    [
+      "2026-03-06",
+      [
         {
           "username": "naman79820",
           "name": null,
@@ -208,6 +516,14 @@
           "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7132",
           "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
           "points": 2
+        },
+        {
+          "username": "tachyons",
+          "name": null,
+          "title": "Closed issue #748 - Update TestBench Page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/748",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "points": 1
         },
         {
           "username": "Radhikaa-chauhan",
@@ -356,110 +672,110 @@
       ]
     ],
     [
-      "2026-03-02",
+      "2026-03-01",
       [
         {
-          "username": "tachyons",
+          "username": "naman79820",
           "name": null,
-          "title": "Closed issue #839 - 🐞 Bug - Unable to delete test groups in Testbench Creator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/839",
-          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
+          "title": "feat(avo) - Add Contests & Submissions resources (Submission, SubmissionVote, ContestWinner)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7105",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "blazethunderstorm",
+          "name": null,
+          "title": "Labeled issue #7077 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7077",
+          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
+          "points": 2
+        },
+        {
+          "username": "blazethunderstorm",
+          "name": null,
+          "title": "Labeled issue #6849 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6849",
+          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "fix - standardize heading and description styles on contests page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7104",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "🐞 Bug - Standardize Heading and Description styles on Contests page",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
           "points": 1
         },
         {
-          "username": "ShinichiShi",
+          "username": "Aakansha-Chavan",
           "name": null,
-          "title": "Labeled issue #987 - issue-metadata-needs-fix",
+          "title": "Labeled issue #7103 - 🐞 bug",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "Aakansha-Chavan",
+          "name": null,
+          "title": "Labeled issue #7103 - pending triage",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
+          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
+          "points": 2
+        },
+        {
+          "username": "sahu-virendra-1908",
+          "name": null,
+          "title": "fix - resolve login state issue preventing navigation (#504)",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/515",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
+          "points": 2
+        },
+        {
+          "username": "sahu-virendra-1908",
+          "name": null,
+          "title": "High Priority - Potential memory leak due to undisposed StreamController in IbInteractionBuilder",
+          "link": "https://github.com/CircuitVerse/mobile-app/issues/516",
+          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
+          "points": 1
+        },
+        {
+          "username": "AkshitBitsian356u",
+          "name": null,
+          "title": "Canvas panning feels unnatural - trackpad gestures and zoom/pan interaction needs improvement",
           "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #987 - ux-review",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "fix - allow deleting test groups in creator",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/840",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 5
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #988 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/988",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "feat - add Sunset Glow aesthetic theme",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/988",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "AkshitBitsian356u",
-          "name": null,
-          "title": "Feature - Add separate embed bundle output (simulator-embed-<version>.js)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
           "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
           "points": 1
         },
         {
-          "username": "AkshitBitsian356u",
+          "username": "Saniya-r-Shaikh",
           "name": null,
-          "title": "Labeled issue #989 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
-          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
+          "title": "Implement auto-incrementing suffixes for duplicate project and circuit names",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7107",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
           "points": 2
         },
         {
-          "username": "AkshitBitsian356u",
+          "username": "Saniya-r-Shaikh",
           "name": null,
-          "title": "Labeled issue #989 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
-          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
-          "points": 2
+          "title": "Feature - Auto-Increment Circuit and Project Names to Prevent Duplicates",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "points": 1
         },
         {
-          "username": "nusRying",
+          "username": "Saniya-r-Shaikh",
           "name": null,
-          "title": "refactor(api) - remove duplicate update call in projects endpoint",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7111",
-          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
-          "points": 2
-        },
-        {
-          "username": "nusRying",
-          "name": null,
-          "title": "fix(api) - correct circuit_data unavailable error message",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7110",
-          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
-          "points": 2
-        },
-        {
-          "username": "Uday9909",
-          "name": null,
-          "title": "fix - resolve ParameterMissing in promote/demote member modals (#6913)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7109",
-          "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
-          "points": 2
-        },
-        {
-          "username": "spc-28",
-          "name": null,
-          "title": "fix - Interactive book and improvements",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/517",
-          "avatar_url": "https://avatars.githubusercontent.com/u/139547705?v=4",
+          "title": "Labeled issue #7102 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
+          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
           "points": 2
         },
         {
@@ -468,22 +784,6 @@
           "title": "fix - deadline label casing in en locales",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7106",
           "avatar_url": "https://avatars.githubusercontent.com/u/86565419?v=4",
-          "points": 5
-        },
-        {
-          "username": "harshit-ht22",
-          "name": null,
-          "title": "Fix UI alignment issue under Assignment form",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7108",
-          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
-          "points": 2
-        },
-        {
-          "username": "yogeshwarithombare",
-          "name": null,
-          "title": "Added the missing docs for circuit elements -INPUT 1.Random OUTPUT 1.Square RGB Led 2.RGB Led Matrix MISC 1.Force Gate 2.TB input 3.TB Output",
-          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/534",
-          "avatar_url": "https://avatars.githubusercontent.com/u/247213611?v=4",
           "points": 2
         }
       ]
@@ -491,6 +791,22 @@
     [
       "2026-02-28",
       [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Feature Avo Admin - Add Contest Submissions and Voting System Resources",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 1
+        },
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "Labeled issue #7099 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
         {
           "username": "tachyons",
           "name": null,
@@ -1388,22 +1704,6 @@
           "points": 1
         },
         {
-          "username": "naman79820",
-          "name": null,
-          "title": "Feature Avo Admin - Add Contest Submissions and Voting System Resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #7099 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7099",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
           "username": "himanshujays29",
           "name": null,
           "title": "Add documentation for Force Gate component",
@@ -1518,344 +1818,110 @@
       ]
     ],
     [
-      "2026-03-09",
+      "2026-03-02",
       [
         {
-          "username": "naman79820",
+          "username": "tachyons",
           "name": null,
-          "title": "feat(avo) - Add ActiveStorage resources (Blob, Attachment, VariantRecord)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7145",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "mundele2004",
-          "name": null,
-          "title": "Make simulator API base configurable",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1016",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
-          "points": 2
-        },
-        {
-          "username": "mundele2004",
-          "name": null,
-          "title": "🐞 Bug - Route-agnostic mounting breaks API requests (hard-coded /api/...)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "title": "Closed issue #839 - 🐞 Bug - Unable to delete test groups in Testbench Creator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/839",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3112976?v=4",
           "points": 1
         },
         {
-          "username": "mundele2004",
+          "username": "ShinichiShi",
           "name": null,
-          "title": "Labeled issue #1015 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1015",
-          "avatar_url": "https://avatars.githubusercontent.com/u/183314359?v=4",
+          "title": "Labeled issue #987 - issue-metadata-needs-fix",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2
         },
         {
-          "username": "Omkar-Wagholikar",
+          "username": "ShinichiShi",
           "name": null,
-          "title": "refactor - use guard clause style for redirect",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7147",
-          "avatar_url": "https://avatars.githubusercontent.com/u/104051137?v=4",
+          "title": "Labeled issue #987 - ux-review",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
+          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
           "points": 2
-        },
-        {
-          "username": "solanki505",
-          "name": null,
-          "title": "Feature Add preloader animation while the homepage loads",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
-          "points": 1
-        },
-        {
-          "username": "solanki505",
-          "name": null,
-          "title": "🐞 Bug Fix favicon not loading in browser tab",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
-          "points": 1
-        },
-        {
-          "username": "solanki505",
-          "name": null,
-          "title": "Labeled issue #7144 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
-          "points": 2
-        },
-        {
-          "username": "solanki505",
-          "name": null,
-          "title": "Labeled issue #7144 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7144",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
-          "points": 2
-        },
-        {
-          "username": "solanki505",
-          "name": null,
-          "title": "Labeled issue #7143 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7143",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158484284?v=4",
-          "points": 2
-        },
-        {
-          "username": "Shweta-Singh30",
-          "name": null,
-          "title": "DEPRECATION - action_cable.js renamed to actioncable.js",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7149",
-          "avatar_url": "https://avatars.githubusercontent.com/u/150477892?v=4",
-          "points": 1
-        },
-        {
-          "username": "Shweta-Singh30",
-          "name": null,
-          "title": "Labeled issue #7149 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7149",
-          "avatar_url": "https://avatars.githubusercontent.com/u/150477892?v=4",
-          "points": 2
-        },
-        {
-          "username": "hridyasadanand",
-          "name": null,
-          "title": "Fix race condition in Project#toggle_star",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7146",
-          "avatar_url": "https://avatars.githubusercontent.com/u/84580702?v=4",
-          "points": 2
-        },
-        {
-          "username": "lamechtenny",
-          "name": null,
-          "title": "🐞 Bug - LOADING NON STOP (INFINITE LOADING)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69479491?v=4",
-          "points": 1
-        },
-        {
-          "username": "lamechtenny",
-          "name": null,
-          "title": "Labeled issue #7142 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7142",
-          "avatar_url": "https://avatars.githubusercontent.com/u/69479491?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-03-07",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Resolve v1 drag-and-drop functionality by fixing module initialization",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1006",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #1007 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "Nihal4777",
-          "name": null,
-          "title": "Closed issue #886 - Remove debug console.log statements from production code",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
-          "avatar_url": "https://avatars.githubusercontent.com/u/65150640?u=25493788d913676f586e5d8c10be801ad634e3c9&v=4",
-          "points": 1
         },
         {
           "username": "Radhikaa-chauhan",
           "name": null,
-          "title": "feat(verilog) - Add Verilog output terminal in v1 and improve visibility with close button",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1004",
+          "title": "fix - allow deleting test groups in creator",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/840",
           "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
+          "points": 5
         },
         {
           "username": "Radhikaa-chauhan",
           "name": null,
-          "title": "Labeled issue #1003 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1003",
+          "title": "Labeled issue #988 - issue-metadata-needs-fix",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/988",
           "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
           "points": 2
         },
         {
           "username": "s1dhu98",
           "name": null,
-          "title": "Add condition to skip build on specific PRs",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1008",
+          "title": "feat - add Sunset Glow aesthetic theme",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/988",
           "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 2
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "Fix - Tauri DMG Build Failure on macOS aarch64 (Apple Silicon)",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1009",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "s1dhu98",
-          "name": null,
-          "title": "PR #900 - Ensure template compliance and resolve conflicts",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1003",
-          "avatar_url": "https://avatars.githubusercontent.com/u/239673730?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "fix - consolidate typo fixes",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1007",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Feature - Add JSON preview and copy to clipboard in Export as .cv File dialog",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 1
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Labeled issue #1005 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "Harkeerat24",
-          "name": null,
-          "title": "Labeled issue #1005 - pending triage",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1005",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225462441?v=4",
-          "points": 2
-        },
-        {
-          "username": "misscode323",
-          "name": null,
-          "title": ",",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/1002",
-          "avatar_url": "https://avatars.githubusercontent.com/u/266264142?v=4",
-          "points": 1
-        }
-      ]
-    ],
-    [
-      "2026-03-01",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "feat(avo) - Add Contests & Submissions resources (Submission, SubmissionVote, ContestWinner)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7105",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "blazethunderstorm",
-          "name": null,
-          "title": "Labeled issue #7077 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7077",
-          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
-          "points": 2
-        },
-        {
-          "username": "blazethunderstorm",
-          "name": null,
-          "title": "Labeled issue #6849 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/6849",
-          "avatar_url": "https://avatars.githubusercontent.com/u/149250431?v=4",
-          "points": 2
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "fix - standardize heading and description styles on contests page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7104",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "🐞 Bug - Standardize Heading and Description styles on Contests page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 1
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "Labeled issue #7103 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "Aakansha-Chavan",
-          "name": null,
-          "title": "Labeled issue #7103 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7103",
-          "avatar_url": "https://avatars.githubusercontent.com/u/181594189?v=4",
-          "points": 2
-        },
-        {
-          "username": "sahu-virendra-1908",
-          "name": null,
-          "title": "fix - resolve login state issue preventing navigation (#504)",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/515",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
-          "points": 2
-        },
-        {
-          "username": "sahu-virendra-1908",
-          "name": null,
-          "title": "High Priority - Potential memory leak due to undisposed StreamController in IbInteractionBuilder",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/516",
-          "avatar_url": "https://avatars.githubusercontent.com/u/177405578?v=4",
           "points": 1
         },
         {
           "username": "AkshitBitsian356u",
           "name": null,
-          "title": "Canvas panning feels unnatural - trackpad gestures and zoom/pan interaction needs improvement",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/987",
+          "title": "Feature - Add separate embed bundle output (simulator-embed-<version>.js)",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
           "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
           "points": 1
         },
         {
-          "username": "Saniya-r-Shaikh",
+          "username": "AkshitBitsian356u",
           "name": null,
-          "title": "Implement auto-incrementing suffixes for duplicate project and circuit names",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7107",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "title": "Labeled issue #989 - 🌟 feature",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
           "points": 2
         },
         {
-          "username": "Saniya-r-Shaikh",
+          "username": "AkshitBitsian356u",
           "name": null,
-          "title": "Feature - Auto-Increment Circuit and Project Names to Prevent Duplicates",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
-          "points": 1
+          "title": "Labeled issue #989 - pending triage",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/989",
+          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
+          "points": 2
         },
         {
-          "username": "Saniya-r-Shaikh",
+          "username": "nusRying",
           "name": null,
-          "title": "Labeled issue #7102 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7102",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194808393?v=4",
+          "title": "refactor(api) - remove duplicate update call in projects endpoint",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7111",
+          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
+          "points": 2
+        },
+        {
+          "username": "nusRying",
+          "name": null,
+          "title": "fix(api) - correct circuit_data unavailable error message",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7110",
+          "avatar_url": "https://avatars.githubusercontent.com/u/116121504?v=4",
+          "points": 2
+        },
+        {
+          "username": "Uday9909",
+          "name": null,
+          "title": "fix - resolve ParameterMissing in promote/demote member modals (#6913)",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7109",
+          "avatar_url": "https://avatars.githubusercontent.com/u/178378295?v=4",
+          "points": 2
+        },
+        {
+          "username": "spc-28",
+          "name": null,
+          "title": "fix - Interactive book and improvements",
+          "link": "https://github.com/CircuitVerse/mobile-app/pull/517",
+          "avatar_url": "https://avatars.githubusercontent.com/u/139547705?v=4",
           "points": 2
         },
         {
@@ -1864,233 +1930,23 @@
           "title": "fix - deadline label casing in en locales",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7106",
           "avatar_url": "https://avatars.githubusercontent.com/u/86565419?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-02-27",
-      [
+          "points": 5
+        },
         {
-          "username": "naman79820",
+          "username": "harshit-ht22",
           "name": null,
-          "title": "Groups Add Avo Admin Panel Controllers and Resources for Groups System",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7088",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "title": "Fix UI alignment issue under Assignment form",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7108",
+          "avatar_url": "https://avatars.githubusercontent.com/u/197410420?v=4",
           "points": 2
         },
         {
-          "username": "himanshujays29",
+          "username": "yogeshwarithombare",
           "name": null,
-          "title": "feat(about-page) - add Issue Triage team section",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7092",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
+          "title": "Added the missing docs for circuit elements -INPUT 1.Random OUTPUT 1.Square RGB Led 2.RGB Led Matrix MISC 1.Force Gate 2.TB input 3.TB Output",
+          "link": "https://github.com/CircuitVerse/CircuitVerseDocs/pull/534",
+          "avatar_url": "https://avatars.githubusercontent.com/u/247213611?v=4",
           "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Feat - Add members to the Issue Triage Team section on About Page",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7091",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 1
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Labeled issue #7091 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7091",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "himanshujays29",
-          "name": null,
-          "title": "Labeled issue #7091 - pending triage",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7091",
-          "avatar_url": "https://avatars.githubusercontent.com/u/158487820?v=4",
-          "points": 2
-        },
-        {
-          "username": "harshitasingh108",
-          "name": null,
-          "title": "fix-forgot",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7089",
-          "avatar_url": "https://avatars.githubusercontent.com/u/218473176?v=4",
-          "points": 2
-        },
-        {
-          "username": "VineethChethula",
-          "name": null,
-          "title": "fix - add missing member_since_html translation for arabic (#6002)",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7090",
-          "avatar_url": "https://avatars.githubusercontent.com/u/151843956?v=4",
-          "points": 2
-        }
-      ]
-    ],
-    [
-      "2026-02-26",
-      [
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Avo Admin - Add group resources",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7086",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Labeled issue #7086 - 🌟 feature",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7086",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 2
-        },
-        {
-          "username": "naman79820",
-          "name": null,
-          "title": "Closed issue #984 - 🐞 Bug - Help menu \"Discussion Forum\" link redirects to 404",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/984",
-          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
-          "points": 1
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #7071",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7071",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 4
-        },
-        {
-          "username": "JatsuAkaYashvant",
-          "name": null,
-          "title": "Review on PR #7070",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7070",
-          "avatar_url": "https://avatars.githubusercontent.com/u/146776812?v=4",
-          "points": 4
-        },
-        {
-          "username": "Git-HimanshuRathi",
-          "name": null,
-          "title": "Feature - remove duplicate issues",
-          "link": "https://github.com/CircuitVerse/CircuitVerse/issues/7084",
-          "avatar_url": "https://avatars.githubusercontent.com/u/194053810?v=4",
-          "points": 1
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #943 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/943",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #824 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/824",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #878 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/878",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #878 - ux-review",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/878",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #890 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/890",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "ShinichiShi",
-          "name": null,
-          "title": "Labeled issue #886 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/886",
-          "avatar_url": "https://avatars.githubusercontent.com/u/141218988?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #982 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/982",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #898 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/898",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "Radhikaa-chauhan",
-          "name": null,
-          "title": "Labeled issue #863 - issue-metadata-needs-fix",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/863",
-          "avatar_url": "https://avatars.githubusercontent.com/u/148184013?v=4",
-          "points": 2
-        },
-        {
-          "username": "AkshitBitsian356u",
-          "name": null,
-          "title": "feat - add zoom slider and trackpad panning",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/985",
-          "avatar_url": "https://avatars.githubusercontent.com/u/223644928?v=4",
-          "points": 2
-        },
-        {
-          "username": "abhiraj75",
-          "name": null,
-          "title": "🐞 Bug - Help menu \"Discussion Forum\" link redirects to 404",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/984",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225247502?v=4",
-          "points": 1
-        },
-        {
-          "username": "abhiraj75",
-          "name": null,
-          "title": "Labeled issue #984 - 🐞 bug",
-          "link": "https://github.com/CircuitVerse/cv-frontend-vue/issues/984",
-          "avatar_url": "https://avatars.githubusercontent.com/u/225247502?v=4",
-          "points": 2
-        },
-        {
-          "username": "may-tas",
-          "name": null,
-          "title": "chore(l10n) - remove deprecated synthetic-package option from l10n.yaml",
-          "link": "https://github.com/CircuitVerse/mobile-app/pull/511",
-          "avatar_url": "https://avatars.githubusercontent.com/u/135056339?v=4",
-          "points": 2
-        },
-        {
-          "username": "may-tas",
-          "name": null,
-          "title": "Deprecation warning - synthetic-package option in `l10n.yaml` has no effect",
-          "link": "https://github.com/CircuitVerse/mobile-app/issues/510",
-          "avatar_url": "https://avatars.githubusercontent.com/u/135056339?v=4",
-          "points": 1
         }
       ]
     ],
