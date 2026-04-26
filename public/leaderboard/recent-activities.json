@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1777082533181,
+  "updatedAt": 1777170263163,
   "groups": [
     [
       "2026-04-24",
@@ -606,6 +606,35 @@
           "title": "Fix - Update favicon link to resolve display issue",
           "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7310",
           "avatar_url": "https://avatars.githubusercontent.com/u/99316452?v=4",
+          "points": 2
+        }
+      ]
+    ],
+    [
+      "2026-04-25",
+      [
+        {
+          "username": "naman79820",
+          "name": null,
+          "title": "fix - resolve statement timeouts and n+1 on avo project index pages",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7336",
+          "avatar_url": "https://avatars.githubusercontent.com/u/159947791?v=4",
+          "points": 2
+        },
+        {
+          "username": "genarocosta",
+          "name": null,
+          "title": "feat - add Brazilian Portuguese (pt-BR) i18n and simulator language switcher",
+          "link": "https://github.com/CircuitVerse/CircuitVerse/pull/7337",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2650833?v=4",
+          "points": 2
+        },
+        {
+          "username": "genarocosta",
+          "name": null,
+          "title": "Implemented a Language Switch on the Simulator and the I18N for Brazilian Portuguese",
+          "link": "https://github.com/CircuitVerse/cv-frontend-vue/pull/1041",
+          "avatar_url": "https://avatars.githubusercontent.com/u/2650833?v=4",
           "points": 2
         }
       ]
