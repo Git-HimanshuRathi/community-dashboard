@@ -119,16 +119,7 @@
     "version": "v843",
     "date": "2025-08-31",
     "summary": "This release includes internal improvements, bug fixes, and contributor updates.",
-    "contributors": [
-      {
-        "username": "JatsuAkaYashvant",
-        "commits": 1
-      },
-      {
-        "username": "hardik17771",
-        "commits": 1
-      }
-    ],
+    "contributors": [],
     "githubUrl": "https://github.com/CircuitVerse/mobile-app/releases/tag/v843"
   },
   {
